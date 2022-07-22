@@ -31,5 +31,5 @@ Users of the MLB Hit Data Visualizer scroller are able to:
 
 
 <p>
-    <img src="">
+    <img src="https://github.com/ckoo13/MLB-Hit-Data-Visualizer/blob/main/Wireframe-1.png">
 </p>
