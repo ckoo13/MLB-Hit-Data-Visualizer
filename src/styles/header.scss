@@ -1,0 +1,37 @@
+body {
+    height: 2000px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 32px;
+    position: sticky;
+}
+
+.middle-section {
+    width: 100%;
+    text-align: center;
+}
+
+.right-section {
+    width: 140px;
+}
+
+.mlb-logo {
+    height: 60px;
+}
+
+.information-logo {
+    height: 40px;
+    border-radius: 20px;
+}
+
+.header-title,
+.header-title-sub {
+    font-family: roboto, sans-serif;
+    font-weight: bold;
+}

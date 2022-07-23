@@ -1,0 +1,126 @@
+/*!******************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/header.scss ***!
+  \******************************************************************************************************/
+body {
+    height: 2000px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 32px;
+    position: sticky;
+}
+
+.middle-section {
+    width: 100%;
+    text-align: center;
+}
+
+.right-section {
+    width: 140px;
+}
+
+.mlb-logo {
+    height: 60px;
+}
+
+.information-logo {
+    height: 40px;
+    border-radius: 20px;
+}
+
+.header-title,
+.header-title-sub {
+    font-family: roboto, sans-serif;
+    font-weight: bold;
+}
+/*!********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/carousel.scss ***!
+  \********************************************************************************************************/
+.carousel {
+    position: relative;
+    height: 220px;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.carousel-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-track-container {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel-track {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 100%;
+    transition: transform 250ms ease-in;
+}
+
+.carousel-slide {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.carousel-button {
+    background: transparent;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 0;
+    cursor: pointer;
+}
+
+.carousel-button--left {
+    left: -40px;
+}
+
+.carousel-button--right {
+    right: -40px;
+}
+
+.carousel-button img {
+    width: 24px;
+}
+
+.carousel-nav {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.carousel-indicator {
+    border: 0;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background: rgba(0,0,0,.3);
+    margin: 0 12px;
+    cursor: pointer;
+}
+
+.carousel-indicator.current-slide {
+    background: rgba(0,0,0,.75);
+}
+
+.is-hidden {
+    display: none;
+}
+/*!*************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
+  \*************************************************************************************************************************************/
+

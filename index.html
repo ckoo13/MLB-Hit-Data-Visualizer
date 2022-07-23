@@ -6,9 +6,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./dist/main.css" />
     <script src="./dist/main.js"></script>
-    <title>Document</title>
+    <title>MLB Hit Data Visualizer</title>
 </head>
 <body>
+    <!-- Header -->
+    <div class="header">
+        <div class ="left-section">
+            <img class ="mlb-logo" src="/assets/header/Major_League_Baseball_logo.png" alt="">
+        </div>
+        <div class ="middle-section">
+            <h1 class="header-title">MLB Hit Data Visualizer</h1>
+                <h2 class="header-title-sub">(Launch Angle vs. Exit Velocity)</h2>
+        </div>
+        <div class ="right-section">
+            <img class ="information-logo" src="/assets/header/information.jpeg" alt="">
+        </div>
+    </div>
+
+    <!-- Carousel Slider Navigation -->
+    <div class="carousel">
+        <button class="carousel-button carousel-button--left is-hidden">
+            <img src="/assets/icons/arrow-left-circle-fill.svg" alt="">
+        </button>
+        <div class="carousel-track-container">
+            <ul class="carousel-track">
+                <li class="carousel-slide current-slide">
+                    <img class="carousel-image" src="/assets/headshots/mookie.png" alt="">
+                </li>
+                <li class="carousel-slide">
+                    <img class="carousel-image" src="/assets/headshots/tatis.png" alt="">
+                </li>
+                <li class="carousel-slide">
+                    <img class="carousel-image" src="/assets/headshots/harper.png" alt="">
+                </li>
+                <li class="carousel-slide">
+                    <img class="carousel-image" src="/assets/headshots/shohei.png" alt="">
+                </li>
+                <li class="carousel-slide">
+                    <img class="carousel-image" src="/assets/headshots/ronald.png" alt="">
+                </li>
+            </ul>
+        </div>
+        <button class="carousel-button carousel-button--right">
+            <img src="/assets/icons/arrow-right-circle-fill.svg" alt="">
+        </button>
     
+        <div class="carousel-nav">
+            <button class="carousel-indicator current-slide"></button>
+            <button class="carousel-indicator"></button>
+            <button class="carousel-indicator"></button>
+            <button class="carousel-indicator"></button>
+            <button class="carousel-indicator"></button>
+        </div>
 </body>
 </html>
