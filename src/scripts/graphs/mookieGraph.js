@@ -1,8 +1,4 @@
-var acuna = require('../../data/acuna_data.json');
-var harper = require('../../data/bryce_data.json');
 var mookie = require('../../data/mookie_data.json');
-var shohei = require('../../data/shohei_data.json');
-var tatis = require('../../data/tatis_data.json');
 
 window.addEventListener('DOMContentLoaded', e => {
     //Data
@@ -17,10 +13,6 @@ window.addEventListener('DOMContentLoaded', e => {
     let height = 500;
     let padding = 50;
     let margin = {left: 30, top: 80, bottom: 30, right: 20};
-    
-
-    //Attributes of Legend
-    let legendKeys = ["Home Run", "Triple", "Double", "Single"];
     
     let svg = d3.select('#mookie');
 
@@ -40,7 +32,7 @@ window.addEventListener('DOMContentLoaded', e => {
         yScale = d3.scaleLinear()
                     .range([height - padding, padding])
                     .domain([0,d3.max(values, (item) => {
-                        return item['launch_angle\r']
+                        return item['launch_angle']
                     })])
     }
 
@@ -52,6 +44,7 @@ window.addEventListener('DOMContentLoaded', e => {
         .style('background-color', 'lightblue')
         .style('border', 'solid')
         .style('border-width', '2px')
+        .style('opacity', 1)
 
     let drawPoint = () => {
         svg.selectAll('circle')
@@ -64,16 +57,25 @@ window.addEventListener('DOMContentLoaded', e => {
                 return item['launch_speed'];
             })
             .attr('data-yvalue', (item) => {
-                return item['launch_angle\r'];
+                return item['launch_angle'];
             })
-            .attr('data-pitchtype', (item) => {
-                return item['pitch_type']
+            .attr('data-pitchname', (item) => {
+                return item['pitch_name']
+            })
+            .attr('data-hitdistance', (item) => {
+                return item['hit_distance_sc']
+            })
+            .attr('data-bbtype', (item) => {
+                return item['bb_type']
+            })
+            .attr('data-description', (item) => {
+                return item['des']
             })
             .attr('cx', (item) => {
                 return xScale(item['launch_speed'])
             })
             .attr('cy', (item) => {
-                return yScale(item['launch_angle\r'])
+                return yScale(item['launch_angle'])
             })
             .attr('fill', (item) => {
                 if(item['events'] === 'home_run') {
@@ -87,18 +89,16 @@ window.addEventListener('DOMContentLoaded', e => {
                 }
             })
             .on('mouseover', function() {
-                tooltip.style('visibility', 'visible')
-                    .style('left', event.pageX+10+'px')
-                    .style('top', event.pageY+80+'px')
+                tooltip
+                    .style('visibility', 'visible')
+                    .style('left', event.pageX+15+'px')
+                    .style('top', event.pageY-15+'px')
                     //clean this up to make a solid tooltip
-                    .html('Pitch Type: ' + this.getAttribute('data-pitchtype')) 
+                    .html('Description: ' + this.getAttribute('data-description') + '<br>' + '<br>' + 'Hit Distance: ' + this.getAttribute('data-hitdistance') + '<br>' +'<br>' + 'Pitch Type: ' + this.getAttribute('data-pitchname'))
+                    .style('font-family', 'sans-serif')
+                .html()
                 d3.select(this)
                     .style('stroke', 'black')   
-            })
-            .on('mousemove', function() {
-                tooltip
-                    .style("left", (d3.mouse(this)[0]+30) + "px")
-                    .style("top", (d3.mouse(this)[1]) + "px")
             })
             .on('mouseleave', function() {
                 tooltip.transition()

@@ -41,7 +41,7 @@ window.addEventListener('DOMContentLoaded', e => {
         yScale = d3.scaleLinear()
                     .range([height - padding, padding])
                     .domain([0,d3.max(values, (item) => {
-                        return item['launch_angle\r']
+                        return item['launch_angle']
                     })])
     }
 
@@ -56,7 +56,7 @@ window.addEventListener('DOMContentLoaded', e => {
                 return item['launch_speed'];
             })
             .attr('data-yvalue', (item) => {
-                return item['launch_angle\r'];
+                return item['launch_angle'];
             })
             .attr('data-pitchtype', (item) => {
                 return item['pitch_type']
@@ -65,7 +65,7 @@ window.addEventListener('DOMContentLoaded', e => {
                 return xScale(item['launch_speed'])
             })
             .attr('cy', (item) => {
-                return yScale(item['launch_angle\r'])
+                return yScale(item['launch_angle'])
             })
             .attr('fill', (item) => {
                 if(item['events'] === 'home_run') {

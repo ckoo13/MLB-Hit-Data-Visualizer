@@ -1,673 +1,1009 @@
 [{
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (42) on a sharp line drive to center fielder Magneuris Sierra.   Alec Bohm to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 282,
     "launch_speed": 101.6,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (35) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 369,
     "launch_speed": 102.9,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (41) on a sharp line drive to center fielder Magneuris Sierra.   Ranger Suarez scores.    Odubel Herrera to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 393,
     "launch_speed": 107.4,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FS",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to left fielder Lewis Brinson.  Bryce Harper out at 2nd on the throw, left fielder Lewis Brinson to second baseman Deven Marrero.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 213,
     "launch_speed": 101.7,
-    "launch_angle\r": 11
+    "launch_angle": 11,
+    "pitch_name\r": "Split-Finger\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to left fielder Ben Gamel.   Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 207,
     "launch_speed": 103.3,
-    "launch_angle\r": 8
+    "launch_angle": 8,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (34) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 427,
     "launch_speed": 107.6,
-    "launch_angle\r": 32
+    "launch_angle": 32,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (40) on a sharp line drive to right fielder Yoshi Tsutsugo.   Matt Vierling scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 287,
     "launch_speed": 111.8,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Austin Hays.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 242,
     "launch_speed": 104.1,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (39) on a fly ball to right fielder Anthony Santander.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 294,
     "launch_speed": 85.9,
-    "launch_angle\r": 30
+    "launch_angle": 30,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (38) on a sharp line drive to right fielder Michael Conforto.   Freddy Galvis scores.    Odubel Herrera scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 250,
     "launch_speed": 106.2,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (37) on a fly ball to center fielder Brandon Nimmo.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 366,
     "launch_speed": 96,
-    "launch_angle\r": 26
+    "launch_angle": 26,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (35) on a fly ball to center fielder Rafael Ortega.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 360,
     "launch_speed": 100.7,
-    "launch_angle\r": 26
+    "launch_angle": 26,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (36) on a line drive to left fielder Ian Happ.   Odubel Herrera scores.    Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 206,
     "launch_speed": 87.7,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (33) on a fly ball to right center field.    Odubel Herrera scores.    Jean Segura scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 432,
     "launch_speed": 112.2,
-    "launch_angle\r": 25
+    "launch_angle": 25,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (34) on a line drive to left fielder Patrick Wisdom.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 142,
     "launch_speed": 94.5,
-    "launch_angle\r": 7
+    "launch_angle": 7,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (33) on a sharp line drive to right fielder Alfonso Rivas.   Jean Segura scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 342,
     "launch_speed": 106,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (32) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 366,
     "launch_speed": 106.7,
-    "launch_angle\r": 26
+    "launch_angle": 26,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (31) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 435,
     "launch_speed": 109.6,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to center fielder Yonathan Daza.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 245,
     "launch_speed": 104.7,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Yonathan Daza.   Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 347,
     "launch_speed": 110.5,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (30) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 360,
     "launch_speed": 98.3,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (29) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 357,
     "launch_speed": 107.2,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Avisail Garcia.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 263,
     "launch_speed": 109.6,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (28) on a fly ball to center field.   Jean Segura scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 426,
     "launch_speed": 105.5,
-    "launch_angle\r": 28
+    "launch_angle": 28,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (27) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 396,
     "launch_speed": 104.1,
-    "launch_angle\r": 39
+    "launch_angle": 39,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (32) on a fly ball to left fielder Josh Bell.   Jean Segura to 3rd.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 210,
     "launch_speed": 69.5,
-    "launch_angle\r": 43
+    "launch_angle": 43,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (26) on a fly ball to right field.    Odubel Herrera scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 378,
     "launch_speed": 104.8,
-    "launch_angle\r": 38
+    "launch_angle": 38,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Jake McCarthy.   Jean Segura to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 186,
     "launch_speed": 78.7,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (25) on a line drive to left center field.   Jean Segura scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 406,
     "launch_speed": 110.4,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (29) on a line drive to left fielder David Peralta.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 354,
     "launch_speed": 98.8,
-    "launch_angle\r": 23
+    "launch_angle": 23,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (27) on a line drive to center fielder Ketel Marte, deflected by right fielder Pavin Smith.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 294,
     "launch_speed": 80.6,
-    "launch_angle\r": 28
+    "launch_angle": 28,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (28) on a sharp line drive to center fielder Daulton Varsho.   Freddy Galvis scores.    Andrew Knapp scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 262,
     "launch_speed": 110.3,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (24) on a fly ball to center field.   Jean Segura scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 445,
     "launch_speed": 109.2,
-    "launch_angle\r": 30
+    "launch_angle": 30,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 254,
     "launch_speed": 95.1,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Randy Arozarena.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 208,
     "launch_speed": 96.3,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Wil Myers.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 200,
     "launch_speed": 82.3,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Fernando Tatis.   Jean Segura to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 276,
     "launch_speed": 103.3,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (23) on a fly ball to right field.    J.T. Realmuto scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 430,
     "launch_speed": 111,
-    "launch_angle\r": 25
+    "launch_angle": 25,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (22) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 424,
     "launch_speed": 106.1,
-    "launch_angle\r": 37
+    "launch_angle": 37,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "triple",
+    "des": "Bryce Harper triples (1) on a sharp line drive to center fielder Tyler Naquin.   J.T. Realmuto scores.    Bryce Harper scores.  Throwing error by shortstop Kyle Farmer.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 324,
     "launch_speed": 102.7,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (21) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 421,
     "launch_speed": 108.8,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (20) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 350,
     "launch_speed": 100.9,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (19) on a fly ball to center field.   Jean Segura scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 442,
     "launch_speed": 109,
-    "launch_angle\r": 27
+    "launch_angle": 27,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (18) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 427,
     "launch_speed": 106.3,
-    "launch_angle\r": 23
+    "launch_angle": 23,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (26) on a line drive to right fielder Juan Soto.   Travis Jankowski scores.    Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 286,
     "launch_speed": 96,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (17) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 430,
     "launch_speed": 107.1,
-    "launch_angle\r": 28
+    "launch_angle": 28,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (25) on a line drive to left fielder Yadiel Hernandez.   Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 242,
     "launch_speed": 88.6,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (23) on a sharp fly ball to left fielder Ben Gamel.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 374,
     "launch_speed": 102.2,
-    "launch_angle\r": 27
+    "launch_angle": 27,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (22) on a line drive to left fielder Ben Gamel.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 276,
     "launch_speed": 95.9,
-    "launch_angle\r": 18
+    "launch_angle": 18,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (24) on a sharp line drive to center fielder Bryan Reynolds.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 223,
     "launch_speed": 104.9,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (21) on a sharp line drive to center fielder Andrew Stevenson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 369,
     "launch_speed": 106.1,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper hits an inside-the-park home run (16) on a fly ball to left-center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 392,
     "launch_speed": 102.7,
-    "launch_angle\r": 36
+    "launch_angle": 36,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (20) on a sharp line drive to right fielder Juan Soto.   Jean Segura scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 348,
     "launch_speed": 113.7,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Abraham Almonte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 233,
     "launch_speed": 84.7,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (19) on a sharp line drive to center fielder Guillermo Heredia.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 346,
     "launch_speed": 103.8,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to left fielder Abraham Almonte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 210,
     "launch_speed": 104.8,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (18) on a sharp line drive to left fielder Abraham Almonte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 359,
     "launch_speed": 106.4,
-    "launch_angle\r": 18
+    "launch_angle": 18,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (17) on a sharp line drive to right fielder Greg Allen.   J.T. Realmuto scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 250,
     "launch_speed": 110.1,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a fly ball to left fielder Brett Gardner.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 237,
     "launch_speed": 71.9,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Adam Duvall.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 190,
     "launch_speed": 59.2,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (16) on a line drive to right fielder Adam Duvall.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 329,
     "launch_speed": 98.1,
-    "launch_angle\r": 23
+    "launch_angle": 23,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (14) on a fly ball to left fielder Alex Verdugo.   Andrew Knapp scores.    Jean Segura scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 337,
     "launch_speed": 98.2,
-    "launch_angle\r": 38
+    "launch_angle": 38,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (12) on a sharp line drive to right fielder Jason Heyward.   J.T. Realmuto scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 191,
     "launch_speed": 104.8,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Joc Pederson.   Jean Segura to 3rd.    J.T. Realmuto to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 162,
     "launch_speed": 95.2,
-    "launch_angle\r": 8
+    "launch_angle": 8,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper hits a ground-rule double (11) on a line drive to right field.   Jean Segura scores.    J.T. Realmuto to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 230,
     "launch_speed": 109.8,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (15) on a fly ball to right field.    Brad Miller scores.    Jean Segura scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 394,
     "launch_speed": 110.1,
-    "launch_angle\r": 46
+    "launch_angle": 46,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Rafael Ortega.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 241,
     "launch_speed": 107.6,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (14) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 406,
     "launch_speed": 113.5,
-    "launch_angle\r": 44
+    "launch_angle": 44,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (12) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 444,
     "launch_speed": 110.8,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (13) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 421,
     "launch_speed": 107.6,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Starling Marte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 248,
     "launch_speed": 83.3,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to center fielder Shogo Akiyama.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 250,
     "launch_speed": 108.7,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (11) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 398,
     "launch_speed": 102.7,
-    "launch_angle\r": 23
+    "launch_angle": 23,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (10) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 389,
     "launch_speed": 112.3,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (9) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 431,
     "launch_speed": 111.6,
-    "launch_angle\r": 30
+    "launch_angle": 30,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Victor Robles.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 213,
     "launch_speed": 78.5,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to left fielder LaMonte Wade.  Bryce Harper out at 2nd on the throw, left fielder LaMonte Wade to second baseman Wilmer Flores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 354,
     "launch_speed": 104.9,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a fly ball to left fielder LaMonte Wade.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 188,
     "launch_speed": 82.3,
-    "launch_angle\r": 62
+    "launch_angle": 62,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "CU",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Zach McKinstry.   Odubel Herrera scores.    Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 197,
     "launch_speed": 102.5,
-    "launch_angle\r": 11
+    "launch_angle": 11,
+    "pitch_name\r": "Curveball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to center fielder Mookie Betts.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 188,
     "launch_speed": 105.5,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Aaron Judge.   J.T. Realmuto to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 273,
     "launch_speed": 103.6,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Brett Gardner.   Odubel Herrera scores.    Jean Segura scores.    J.T. Realmuto to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 221,
     "launch_speed": 78.5,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (9) on a sharp line drive to center fielder Brett Gardner.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 388,
     "launch_speed": 109,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (8) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 410,
     "launch_speed": 110.5,
-    "launch_angle\r": 22
+    "launch_angle": 22,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Victor Robles.   Odubel Herrera scores.    Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 230,
     "launch_speed": 87.3,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to right fielder Adam Duvall.   Ronald Torreyes scores.    Andrew McCutchen scores.    Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 223,
     "launch_speed": 103.6,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to left fielder Lourdes Gurriel Jr.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 262,
     "launch_speed": 102.1,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (8) on a fly ball to right fielder Teoscar Hernandez.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 374,
     "launch_speed": 99.8,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Kyle Schwarber.  Odubel Herrera out at home on the throw, left fielder Kyle Schwarber to catcher Alex Avila.   Andrew McCutchen to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 227,
     "launch_speed": 84.4,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (7) on a sharp line drive to left fielder Kyle Schwarber.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 345,
     "launch_speed": 108.9,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Kyle Schwarber.   Andrew McCutchen to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 217,
     "launch_speed": 74.8,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (7) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 433,
     "launch_speed": 107.1,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 197,
     "launch_speed": 79.3,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Dominic Smith.   Rhys Hoskins to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 203,
     "launch_speed": 99.2,
-    "launch_angle\r": 11
+    "launch_angle": 11,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Dylan Carlson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 257,
     "launch_speed": 87.2,
-    "launch_angle\r": 18
+    "launch_angle": 18,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (6) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 468,
     "launch_speed": 108.8,
-    "launch_angle\r": 28
+    "launch_angle": 28,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (5) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 430,
     "launch_speed": 105.6,
-    "launch_angle\r": 34
+    "launch_angle": 34,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (4) on a sharp line drive to left fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 362,
     "launch_speed": 100.1,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (4) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 405,
     "launch_speed": 110.7,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name\r": "Slider\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Austin Slater.   Jean Segura to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 190,
     "launch_speed": 78.6,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a sharp line drive to center fielder Austin Slater.   Rhys Hoskins to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 145,
     "launch_speed": 100.5,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Austin Slater.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 245,
     "launch_speed": 92.2,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (3) on a line drive to left fielder Justin Williams.   Rhys Hoskins to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 171,
     "launch_speed": 93.2,
-    "launch_angle\r": 8
+    "launch_angle": 8,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (3) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 425,
     "launch_speed": 111.8,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to center fielder Dylan Carlson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 148,
     "launch_speed": 93.2,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (2) on a sharp line drive to right fielder Tommy Edman.   Zach Eflin scores.    Andrew McCutchen scores.    Rhys Hoskins to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 294,
     "launch_speed": 103.1,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "SI",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (2) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 410,
     "launch_speed": 112.8,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name\r": "Sinker\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "home_run",
+    "des": "Bryce Harper homers (1) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 390,
     "launch_speed": 115.6,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "CH",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Ronald Acuna.   Andrew McCutchen to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 249,
     "launch_speed": 74.3,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name\r": "Changeup\r"
 }, {
-    "pitch_type": "FF",
     "player_name": "Harper, Bryce",
     "events": "double",
+    "des": "Bryce Harper doubles (1) on a sharp line drive to right fielder Michael Conforto.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 352,
     "launch_speed": 116.3,
-    "launch_angle\r": 18
+    "launch_angle": 18,
+    "pitch_name\r": "4-Seam Fastball\r"
 }, {
-    "pitch_type": "FC",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to left fielder Marcell Ozuna.   Rhys Hoskins to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 203,
     "launch_speed": 75,
-    "launch_angle\r": 25
+    "launch_angle": 25,
+    "pitch_name\r": "Cutter\r"
 }, {
-    "pitch_type": "SL",
     "player_name": "Harper, Bryce",
     "events": "single",
+    "des": "Bryce Harper singles on a line drive to right fielder Ronald Acuna.   Rhys Hoskins to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 189,
     "launch_speed": 85.8,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name\r": "Slider"
 }]

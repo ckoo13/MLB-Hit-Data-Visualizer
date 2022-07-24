@@ -1,565 +1,847 @@
 [{
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Lorenzo Cain.   Austin Barnes to 3rd.    Albert Pujols to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 248,
     "launch_speed": 94.2,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "KC",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (23) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 407,
     "launch_speed": 100.4,
-    "launch_angle\r": 35
+    "launch_angle": 35,
+    "pitch_name": "Knuckle Curve"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (22) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 427,
     "launch_speed": 105.7,
-    "launch_angle\r": 34
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 248,
     "launch_speed": 95.9,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FS",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 174,
     "launch_speed": 88.4,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name": "Split-Finger"
 }, {
-    "pitch_type": "CH",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Aristides Aquino.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 191,
     "launch_speed": 93.4,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Max Schrock.   Austin Barnes scores.    Albert Pujols to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 227,
     "launch_speed": 91.7,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (28) on a sharp line drive to right fielder Nick Castellanos.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 336,
     "launch_speed": 101,
-    "launch_angle\r": 22
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (27) on a line drive to left fielder David Peralta.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 245,
     "launch_speed": 92.4,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to right fielder Henry Ramos.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 225,
     "launch_speed": 106.7,
-    "launch_angle\r": 10
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "KC",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (26) on a line drive to left fielder Henry Ramos.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 163,
     "launch_speed": 94.8,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name": "Knuckle Curve"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (21) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 403,
     "launch_speed": 105.2,
-    "launch_angle\r": 22
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a fly ball to right fielder Wil Myers.   Gavin Lux to 3rd.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 315,
     "launch_speed": 90.2,
-    "launch_angle\r": 35
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Tommy Pham.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 148,
     "launch_speed": 101.8,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (20) on a fly ball to left center field.   Gavin Lux scores.    Walker Buehler scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 382,
     "launch_speed": 97.4,
-    "launch_angle\r": 33
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Trent Grisham.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 272,
     "launch_speed": 96.8,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a soft fly ball to right fielder Lars Nootbaar.   Trea Turner to 3rd.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 177,
     "launch_speed": 66.7,
-    "launch_angle\r": 30
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Lars Nootbaar.   Max Muncy to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 221,
     "launch_speed": 94.7,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder LaMonte Wade.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 193,
     "launch_speed": 97.9,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "CH",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Darin Ruf, deflected by shortstop Mauricio Dubon.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 138,
     "launch_speed": 104.4,
-    "launch_angle\r": 8
+    "launch_angle": 8,
+    "pitch_name": "Changeup"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (19) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 381,
     "launch_speed": 99.1,
-    "launch_angle\r": 34
+    "launch_angle": 34,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (18) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 378,
     "launch_speed": 103.1,
-    "launch_angle\r": 36
+    "launch_angle": 36,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 172,
     "launch_speed": 99.5,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Justin Upton.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 200,
     "launch_speed": 80.7,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (17) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 373,
     "launch_speed": 101.6,
-    "launch_angle\r": 35
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (16) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 416,
     "launch_speed": 102.1,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "CH",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Yordan Alvarez.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 223,
     "launch_speed": 70.6,
-    "launch_angle\r": 23
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Daulton Varsho.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 204,
     "launch_speed": 95.3,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FA",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (15) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 380,
     "launch_speed": 101.8,
-    "launch_angle\r": 29
+    "launch_angle": 29,
+    "pitch_name": "Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (24) on a sharp line drive to left fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 270,
     "launch_speed": 107.3,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (14) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 415,
     "launch_speed": 101.9,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (25) on a fly ball to right fielder Charlie Blackmon, deflected by center fielder Garrett Hampson.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 364,
     "launch_speed": 93.5,
-    "launch_angle\r": 27
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (23) on a line drive to left fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 258,
     "launch_speed": 99.9,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a fly ball to left fielder Chris Owings.   Julio Urias to 2nd.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 263,
     "launch_speed": 77,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Chris Owings.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 237,
     "launch_speed": 101,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (22) on a line drive to left fielder Chris Owings.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 234,
     "launch_speed": 97.9,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (13) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 379,
     "launch_speed": 100.8,
-    "launch_angle\r": 38
+    "launch_angle": 38,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts hits a grand slam (12) to left center field.   AJ Pollock scores.    Austin Barnes scores.    Matt Beaty scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 414,
     "launch_speed": 104.7,
-    "launch_angle\r": 30
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Starling Marte.   Julio Urias to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 241,
     "launch_speed": 84.4,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to center fielder Starling Marte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 171,
     "launch_speed": 104.5,
-    "launch_angle\r": 8
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (11) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 380,
     "launch_speed": 106.4,
-    "launch_angle\r": 22
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Garrett Cooper.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 203,
     "launch_speed": 73.1,
-    "launch_angle\r": 18
+    "launch_angle": 18,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Gerardo Parra.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 167,
     "launch_speed": 100.3,
-    "launch_angle\r": 11
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Gerardo Parra.   Albert Pujols scores.    Austin Barnes scores.    Zach McKinstry to 3rd.    Mookie Betts to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 220,
     "launch_speed": 103.2,
-    "launch_angle\r": 13
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Mike Yastrzemski, deflected by center fielder Steven Duggar.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 324,
     "launch_speed": 96,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (10) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 388,
     "launch_speed": 96.6,
-    "launch_angle\r": 32
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "triple",
+    "des": "Mookie Betts triples (3) on a line drive to right fielder Kris Bryant.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 310,
     "launch_speed": 95.8,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (20) on a line drive to left fielder Kris Bryant.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 305,
     "launch_speed": 93.4,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Joc Pederson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 164,
     "launch_speed": 99.1,
-    "launch_angle\r": 10
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (9) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 406,
     "launch_speed": 102.6,
-    "launch_angle\r": 25
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (19) on a sharp line drive to center fielder Ketel Marte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 288,
     "launch_speed": 103.3,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Andrew McCutchen.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 221,
     "launch_speed": 105.6,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "CH",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (8) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 396,
     "launch_speed": 100.2,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 348,
     "launch_speed": 96.2,
-    "launch_angle\r": 28
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a fly ball to right fielder Joey Gallo.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 160,
     "launch_speed": 57.5,
-    "launch_angle\r": 37
+    "launch_angle": 37,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (6) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 417,
     "launch_speed": 106.6,
-    "launch_angle\r": 26
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "triple",
+    "des": "Mookie Betts triples (2) on a fly ball to center fielder Bryan Reynolds.   AJ Pollock scores.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 374,
     "launch_speed": 95.9,
-    "launch_angle\r": 30
+    "launch_angle": 30,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (18) on a line drive to left fielder Abraham Almonte.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 279,
     "launch_speed": 95.7,
-    "launch_angle\r": 21
+    "launch_angle": 21,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Justin Williams.   Zach McKinstry scores.    Walker Buehler to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 201,
     "launch_speed": 96.7,
-    "launch_angle\r": 10
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Tyler O'Neill.   Zach McKinstry scores.    Austin Barnes to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 197,
     "launch_speed": 87.3,
-    "launch_angle\r": 14
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts hits a ground-rule double (17) on a fly ball down the right-field line.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 206,
     "launch_speed": 72,
-    "launch_angle\r": 48
+    "launch_angle": 48,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to center fielder Dylan Carlson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 246,
     "launch_speed": 100.5,
-    "launch_angle\r": 12
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Justin Williams.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 154,
     "launch_speed": 99.4,
-    "launch_angle\r": 8
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (16) on a sharp line drive to right fielder Justin Williams.   Matt Beaty scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 304,
     "launch_speed": 104.7,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "triple",
+    "des": "Mookie Betts triples (1) on a sharp fly ball to right fielder Mike Yastrzemski.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 396,
     "launch_speed": 101.1,
-    "launch_angle\r": 24
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Mike Tauchman.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 194,
     "launch_speed": 73.6,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (15) on a line drive to center fielder Mike Tauchman.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 303,
     "launch_speed": 97.6,
-    "launch_angle\r": 18
+    "launch_angle": 18,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "CH",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts hits a ground-rule double (14) on a line drive to right-center field.   DJ Peters scores.    Will Smith to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 365,
     "launch_speed": 101.3,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to right fielder Josh Rojas.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 227,
     "launch_speed": 86.5,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (5) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 387,
     "launch_speed": 103.2,
-    "launch_angle\r": 36
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (13) on a sharp line drive to left fielder Corey Dickerson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 376,
     "launch_speed": 103.2,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Corey Dickerson.   Austin Barnes scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 170,
     "launch_speed": 79.9,
-    "launch_angle\r": 16
+    "launch_angle": 16,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (11) on a sharp line drive to left fielder Dylan Moore.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 337,
     "launch_speed": 106.3,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to right fielder Taylor Ward.   Chris Taylor scores.    Matt Beaty scores.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 200,
     "launch_speed": 103.9,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts hits a ground-rule double (9) on a line drive down the left-field line.   Gavin Lux to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 292,
     "launch_speed": 93.3,
-    "launch_angle\r": 22
+    "launch_angle": 22,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (4) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 426,
     "launch_speed": 105.5,
-    "launch_angle\r": 28
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Matt Duffy.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 204,
     "launch_speed": 77.4,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (8) on a sharp line drive to left fielder Joc Pederson.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 144,
     "launch_speed": 102.4,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Billy McKinney.   Sheldon Neuse to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 150,
     "launch_speed": 106.3,
-    "launch_angle\r": 7
+    "launch_angle": 7,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (3) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 406,
     "launch_speed": 103.5,
-    "launch_angle\r": 31
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Jackie Bradley Jr.  Trevor Bauer to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 147,
     "launch_speed": 88.2,
-    "launch_angle\r": 10
+    "launch_angle": 10,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (7) on a line drive to right fielder Nick Castellanos.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 168,
     "launch_speed": 87.7,
-    "launch_angle\r": 9
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts hits a ground-rule double (6) on a line drive down the left-field line.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 296,
     "launch_speed": 103.8,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "CH",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to left fielder Jurickson Profar.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 207,
     "launch_speed": 83.8,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
 }, {
-    "pitch_type": "SI",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (4) on a line drive to center fielder Taylor Trammell.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 349,
     "launch_speed": 96.5,
-    "launch_angle\r": 23
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Jose Marmolejos.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 236,
     "launch_speed": 100.9,
-    "launch_angle\r": 15
+    "launch_angle": 15,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "CU",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (3) on a sharp line drive to left fielder Tommy Pham.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 291,
     "launch_speed": 104.9,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "Curveball"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Trent Grisham.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 258,
     "launch_speed": 89.5,
-    "launch_angle\r": 17
+    "launch_angle": 17,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a sharp line drive to left fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 188,
     "launch_speed": 105.7,
-    "launch_angle\r": 11
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (2) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 394,
     "launch_speed": 104.7,
-    "launch_angle\r": 37
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "FF",
     "player_name": "Betts, Mookie",
     "events": "home_run",
+    "des": "Mookie Betts homers (1) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 403,
     "launch_speed": 104.3,
-    "launch_angle\r": 25
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a line drive to center fielder Sam Hilliard.   AJ Pollock to 3rd.    Trevor Bauer to 2nd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 313,
     "launch_speed": 89.6,
-    "launch_angle\r": 20
+    "launch_angle": 20,
+    "pitch_name": "Slider"
 }, {
-    "pitch_type": "FC",
     "player_name": "Betts, Mookie",
     "events": "double",
+    "des": "Mookie Betts doubles (1) on a sharp line drive to center fielder Garrett Hampson.   Clayton Kershaw to 3rd.",
+    "bb_type": "line_drive",
+    "hit_distance_sc": 363,
     "launch_speed": 104,
-    "launch_angle\r": 19
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
 }, {
-    "pitch_type": "SL",
     "player_name": "Betts, Mookie",
     "events": "single",
+    "des": "Mookie Betts singles on a fly ball to left fielder Raimel Tapia.",
+    "bb_type": "fly_ball",
+    "hit_distance_sc": 241,
     "launch_speed": 68.4,
-    "launch_angle\r": 34
+    "launch_angle": 34,
+    "pitch_name": "Slider"
 }]
