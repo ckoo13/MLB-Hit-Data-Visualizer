@@ -1,12 +1,8 @@
-body {
-    height: 2000px;
-}
-
 .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: lightgray;
+    background-color: #002D72;
     padding: 10px;
     margin-bottom: 32px;
     position: sticky;
@@ -34,4 +30,5 @@ body {
 .header-title-sub {
     font-family: roboto, sans-serif;
     font-weight: bold;
+    color: white
 }

@@ -13,8 +13,8 @@ window.addEventListener('DOMContentLoaded', e => {
     let yScale;
 
     //Canvas
-    let width = 800;
-    let height = 600;
+    let width = 700;
+    let height = 500;
     let padding = 50;
     let margin = {left: 30, top: 80, bottom: 30, right: 20};
     

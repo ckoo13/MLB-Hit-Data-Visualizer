@@ -1,3 +1,9 @@
 @import url(styles/header.scss);
-@import url(styles/carousel.scss);
-@import url(styles/d3.scss);
+@import url(styles/navigation.scss);
+@import url(styles/graph.scss);
+@import url(styles/section.scss);
+
+body {
+    background-color: lightgoldenrodyellow;
+    height: 2000px;
+}

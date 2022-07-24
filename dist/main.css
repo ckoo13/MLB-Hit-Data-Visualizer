@@ -1,15 +1,11 @@
 /*!******************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/header.scss ***!
   \******************************************************************************************************/
-body {
-    height: 2000px;
-}
-
 .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: lightgray;
+    background-color: #002D72;
     padding: 10px;
     margin-bottom: 32px;
     position: sticky;
@@ -37,10 +33,11 @@ body {
 .header-title-sub {
     font-family: roboto, sans-serif;
     font-weight: bold;
+    color: white
 }
-/*!********************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/carousel.scss ***!
-  \********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/navigation.scss ***!
+  \**********************************************************************************************************/
 .carousel {
     position: relative;
     height: 220px;
@@ -120,18 +117,15 @@ body {
 .is-hidden {
     display: none;
 }
-/*!**************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/d3.scss ***!
-  \**************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/graph.scss ***!
+  \*****************************************************************************************************/
 .graph-container {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
 }
 
 svg {
-    background-color: lightgray;
+    background-color: white;
 }
 
 #tooltip {
@@ -158,7 +152,47 @@ svg {
 .label {
     text-anchor: middle;
 }
+/*!*******************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/section.scss ***!
+  \*******************************************************************************************************/
+.player-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.player-section {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.player-name {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 28px;
+    color: black;
+}
+
+.headshot {
+    height: 200px;
+    margin: 12px;
+}
+
+.bio-text {
+    color: black;
+    text-align: center;
+
+}
+
+
 /*!*************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
   \*************************************************************************************************************************************/
-
+body {
+  background-color: lightgoldenrodyellow;
+  height: 2000px;
+}
