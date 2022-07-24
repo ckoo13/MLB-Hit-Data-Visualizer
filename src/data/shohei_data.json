@@ -1,0 +1,595 @@
+[{
+    "pitch_type": "FC",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 112.9,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 106.7,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 100.3,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 101.8,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 109.1,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 116.1,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 108.7,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FC",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 76.8,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 95.2,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 114.7,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FC",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.2,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 105.4,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 111.8,
+    "launch_angle\r": 38
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 110.7,
+    "launch_angle\r": 45
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 103.5,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 92,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 110.1,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.3,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 112,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 105.6,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 90.1,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 109.9,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 110.6,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "FC",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 87.7,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FS",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 113.1,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 110.4,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 112.6,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 104.8,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 113.8,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 115.9,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.3,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 107.7,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 106.6,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 116.5,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 114.5,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 64.4,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "FS",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 107.5,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 74,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 112.5,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 104.5,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 111.1,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 112.4,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 109.6,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 117.2,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 104.3,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.5,
+    "launch_angle\r": 38
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 88.7,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 116.1,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 103.5,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.6,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 114.3,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 109,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 110.9,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 115.8,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 81.7,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 108.8,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 114.9,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 108.3,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 105,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 112.6,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 111.7,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 93.6,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FC",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 112.5,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 95.4,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 109.7,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "FC",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 117,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 102.3,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 97.8,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 111.9,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 105.9,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 96.6,
+    "launch_angle\r": 36
+}, {
+    "pitch_type": "KC",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 101.7,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "KC",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 95.2,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 94.7,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 104.7,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 97.1,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.6,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 110.3,
+    "launch_angle\r": 34
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 97,
+    "launch_angle\r": 34
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 105,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 113.8,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.1,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 108.3,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 101.9,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 72.9,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 107.2,
+    "launch_angle\r": 38
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 78.6,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 108.9,
+    "launch_angle\r": 29
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 83.8,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 119,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 106.5,
+    "launch_angle\r": 7
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "launch_speed": 82.1,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "SI",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 108.2,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "CH",
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "launch_speed": 98.3,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "SL",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 113.8,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "CU",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 87.3,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 115.2,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "launch_speed": 95.4,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "launch_speed": 106.3,
+    "launch_angle\r": 29
+}]

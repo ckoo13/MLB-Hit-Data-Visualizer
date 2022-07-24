@@ -1,0 +1,565 @@
+[{
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 94.2,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "KC",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 100.4,
+    "launch_angle\r": 35
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 105.7,
+    "launch_angle\r": 34
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 95.9,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FS",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 88.4,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "CH",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 93.4,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 91.7,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 101,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 92.4,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 106.7,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "KC",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 94.8,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 105.2,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 90.2,
+    "launch_angle\r": 35
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 101.8,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 97.4,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 96.8,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 66.7,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 94.7,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 97.9,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "CH",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 104.4,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 99.1,
+    "launch_angle\r": 34
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 103.1,
+    "launch_angle\r": 36
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 99.5,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 80.7,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 101.6,
+    "launch_angle\r": 35
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 102.1,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "CH",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 70.6,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 95.3,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FA",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 101.8,
+    "launch_angle\r": 29
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 107.3,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 101.9,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 93.5,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 99.9,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 77,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 101,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 97.9,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 100.8,
+    "launch_angle\r": 38
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 104.7,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 84.4,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 104.5,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 106.4,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 73.1,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 100.3,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 103.2,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 96,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 96.6,
+    "launch_angle\r": 32
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "triple",
+    "launch_speed": 95.8,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 93.4,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 99.1,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 102.6,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 103.3,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 105.6,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "CH",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 100.2,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 96.2,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 57.5,
+    "launch_angle\r": 37
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 106.6,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "triple",
+    "launch_speed": 95.9,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 95.7,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 96.7,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 87.3,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 72,
+    "launch_angle\r": 48
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 100.5,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 99.4,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 104.7,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "triple",
+    "launch_speed": 101.1,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 73.6,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 97.6,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "CH",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 101.3,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 86.5,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 103.2,
+    "launch_angle\r": 36
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 103.2,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 79.9,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 106.3,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 103.9,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 93.3,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 105.5,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 77.4,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 102.4,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 106.3,
+    "launch_angle\r": 7
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 103.5,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 88.2,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 87.7,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 103.8,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "CH",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 83.8,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "SI",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 96.5,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 100.9,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "CU",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 104.9,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 89.5,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 105.7,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 104.7,
+    "launch_angle\r": 37
+}, {
+    "pitch_type": "FF",
+    "player_name": "Betts, Mookie",
+    "events": "home_run",
+    "launch_speed": 104.3,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 89.6,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "FC",
+    "player_name": "Betts, Mookie",
+    "events": "double",
+    "launch_speed": 104,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "SL",
+    "player_name": "Betts, Mookie",
+    "events": "single",
+    "launch_speed": 68.4,
+    "launch_angle\r": 34
+}]

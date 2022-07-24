@@ -1,0 +1,673 @@
+[{
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 101.6,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 102.9,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 107.4,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FS",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 101.7,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 103.3,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 107.6,
+    "launch_angle\r": 32
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 111.8,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 104.1,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 85.9,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 106.2,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 96,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 100.7,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 87.7,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 112.2,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 94.5,
+    "launch_angle\r": 7
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 106,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 106.7,
+    "launch_angle\r": 26
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 109.6,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 104.7,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 110.5,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 98.3,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 107.2,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 109.6,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 105.5,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 104.1,
+    "launch_angle\r": 39
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 69.5,
+    "launch_angle\r": 43
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 104.8,
+    "launch_angle\r": 38
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 78.7,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 110.4,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 98.8,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 80.6,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 110.3,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 109.2,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 95.1,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 96.3,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 82.3,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 103.3,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 111,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 106.1,
+    "launch_angle\r": 37
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "triple",
+    "launch_speed": 102.7,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 108.8,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 100.9,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 109,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 106.3,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 96,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 107.1,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 88.6,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 102.2,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 95.9,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 104.9,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 106.1,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 102.7,
+    "launch_angle\r": 36
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 113.7,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 84.7,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 103.8,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 104.8,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 106.4,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 110.1,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 71.9,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 59.2,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 98.1,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 98.2,
+    "launch_angle\r": 38
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 104.8,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 95.2,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 109.8,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 110.1,
+    "launch_angle\r": 46
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 107.6,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 113.5,
+    "launch_angle\r": 44
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 110.8,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 107.6,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 83.3,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 108.7,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 102.7,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 112.3,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 111.6,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 78.5,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 104.9,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 82.3,
+    "launch_angle\r": 62
+}, {
+    "pitch_type": "CU",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 102.5,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 105.5,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 103.6,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 78.5,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 109,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 110.5,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 87.3,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 103.6,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 102.1,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 99.8,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 84.4,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 108.9,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 74.8,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 107.1,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 79.3,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 99.2,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 87.2,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 108.8,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 105.6,
+    "launch_angle\r": 34
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 100.1,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 110.7,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 78.6,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 100.5,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 92.2,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 93.2,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 111.8,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 93.2,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 103.1,
+    "launch_angle\r": 16
+}, {
+    "pitch_type": "SI",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 112.8,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "home_run",
+    "launch_speed": 115.6,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "CH",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 74.3,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "FF",
+    "player_name": "Harper, Bryce",
+    "events": "double",
+    "launch_speed": 116.3,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "FC",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 75,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Harper, Bryce",
+    "events": "single",
+    "launch_speed": 85.8,
+    "launch_angle\r": 13
+}]

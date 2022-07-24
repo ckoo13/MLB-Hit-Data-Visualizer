@@ -120,6 +120,44 @@ body {
 .is-hidden {
     display: none;
 }
+/*!**************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/d3.scss ***!
+  \**************************************************************************************************/
+.graph-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    background-color: lightgray;
+}
+
+#tooltip {
+    visibility: hidden;
+    position: absolute;
+    opacity: 0.8;
+    padding: 10px;
+    vertical-align: middle;
+    border-radius: 5px;
+    background-color: #ecf0f1;
+    font-size: 14px;
+}
+
+#legend {
+    opacity: 0.2;
+    fill: white;
+}
+
+#title {
+    text-anchor: middle;
+    font-size: 22px;
+}
+
+.label {
+    text-anchor: middle;
+}
 /*!*************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
   \*************************************************************************************************************************************/

@@ -1,0 +1,397 @@
+[{
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 116.5,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "CU",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 114.9,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 110.1,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 66,
+    "launch_angle\r": 29
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 99,
+    "launch_angle\r": 9
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 110.1,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FC",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 103.2,
+    "launch_angle\r": 30
+}, {
+    "pitch_type": "CH",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 90.7,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 113.3,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 78.5,
+    "launch_angle\r": 24
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 117.4,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FS",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 104.1,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "CH",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 90.7,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 115.7,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "CU",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 109.7,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 101.2,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 68.6,
+    "launch_angle\r": 20
+}, {
+    "pitch_type": "KC",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 109.5,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 101.2,
+    "launch_angle\r": 23
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 114.6,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "KC",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 83.7,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 74.3,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 106.4,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "CH",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 85.5,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 116,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 74.6,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 109.8,
+    "launch_angle\r": 29
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 108.8,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 111.9,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 105.5,
+    "launch_angle\r": 28
+}, {
+    "pitch_type": "FS",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 103.8,
+    "launch_angle\r": 10
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 108.5,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "CH",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 96.7,
+    "launch_angle\r": 36
+}, {
+    "pitch_type": "CH",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 107.7,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FC",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 109.8,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 108,
+    "launch_angle\r": 35
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 109.7,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 95.8,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 74.1,
+    "launch_angle\r": 29
+}, {
+    "pitch_type": "FC",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 111.1,
+    "launch_angle\r": 14
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 105.1,
+    "launch_angle\r": 32
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 99.1,
+    "launch_angle\r": 19
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 99.4,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 112.4,
+    "launch_angle\r": 22
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 86.8,
+    "launch_angle\r": 21
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 73.3,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 86.3,
+    "launch_angle\r": 13
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 111.9,
+    "launch_angle\r": 27
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 115.8,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 98.1,
+    "launch_angle\r": 8
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 101.8,
+    "launch_angle\r": 39
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 82.4,
+    "launch_angle\r": 18
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 110.8,
+    "launch_angle\r": 17
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 110.8,
+    "launch_angle\r": 32
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 102.2,
+    "launch_angle\r": 31
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 95.7,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "SI",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "triple",
+    "launch_speed": 94.6,
+    "launch_angle\r": 15
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 79,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 108.6,
+    "launch_angle\r": 25
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 114.1,
+    "launch_angle\r": 29
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 103.3,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "double",
+    "launch_speed": 102,
+    "launch_angle\r": 12
+}, {
+    "pitch_type": "CH",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 94.5,
+    "launch_angle\r": 11
+}, {
+    "pitch_type": "SL",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 108.4,
+    "launch_angle\r": 37
+}, {
+    "pitch_type": "FF",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "home_run",
+    "launch_speed": 107.9,
+    "launch_angle\r": 33
+}, {
+    "pitch_type": "FC",
+    "player_name": "Acuña Jr., Ronald",
+    "events": "single",
+    "launch_speed": 97.9,
+    "launch_angle\r": 11
+}]
