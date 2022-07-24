@@ -1,8 +1,8 @@
-var acuna = require('../data/acuna_data.json');
-var harper = require('../data/bryce_data.json');
-var mookie = require('../data/mookie_data.json');
-var shohei = require('../data/shohei_data.json');
-var tatis = require('../data/tatis_data.json');
+var acuna = require('../../data/acuna_data.json');
+var harper = require('../../data/bryce_data.json');
+var mookie = require('../../data/mookie_data.json');
+var shohei = require('../../data/shohei_data.json');
+var tatis = require('../../data/tatis_data.json');
 
 window.addEventListener('DOMContentLoaded', e => {
     //Data
@@ -22,12 +22,7 @@ window.addEventListener('DOMContentLoaded', e => {
     //Attributes of Legend
     let legendKeys = ["Home Run", "Triple", "Double", "Single"];
     
-    const tooltip = d3.select('body')
-        .append('div')
-        .attr("id", "tooltip")
-        .style("visibility", "hidden")
-    
-    let svg = d3.select('svg');
+    let svg = d3.select('#mookie');
 
     let drawCanvas = () => {
         svg.attr('width', width);
@@ -48,6 +43,15 @@ window.addEventListener('DOMContentLoaded', e => {
                         return item['launch_angle\r']
                     })])
     }
+
+    //need to rework tooltip
+    const tooltip = d3.select('body')
+        .append('div')
+        .attr("id", "tooltip")
+        .style("visibility", "hidden")
+        .style('background-color', 'lightblue')
+        .style('border', 'solid')
+        .style('border-width', '2px')
 
     let drawPoint = () => {
         svg.selectAll('circle')
@@ -83,19 +87,24 @@ window.addEventListener('DOMContentLoaded', e => {
                 }
             })
             .on('mouseover', function() {
-                let item = d3.select(this);
                 tooltip.style('visibility', 'visible')
                     .style('left', event.pageX+10+'px')
                     .style('top', event.pageY+80+'px')
                     //clean this up to make a solid tooltip
-                    .text('Pitch Type: ' + this.getAttribute('data-pitchtype'))    
+                    .html('Pitch Type: ' + this.getAttribute('data-pitchtype')) 
+                d3.select(this)
+                    .style('stroke', 'black')   
             })
             .on('mousemove', function() {
-                tooltip.style('left', event.pageX+10+'px')
+                tooltip
+                    .style("left", (d3.mouse(this)[0]+30) + "px")
+                    .style("top", (d3.mouse(this)[1]) + "px")
             })
-            .on('mouseout', () => {
+            .on('mouseleave', function() {
                 tooltip.transition()
                     .style('visibility', 'hidden')
+                d3.select(this)
+                    .style('stroke', 'none')
             })
     }
 
