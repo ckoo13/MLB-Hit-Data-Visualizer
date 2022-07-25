@@ -26,6 +26,7 @@ window.addEventListener('DOMContentLoaded', e => {
     }
 
 
+    //Setting the ranges for x-axis / y-axis
     xScale = d3.scaleLinear()
                 .range([margin.left, width - margin.right])
                 .domain([d3.min(values, (item) => {
@@ -38,7 +39,6 @@ window.addEventListener('DOMContentLoaded', e => {
                 .domain([0,d3.max(values, (item) => {
                     return item['launch_angle']
                 })])
-
 
     //Generating Axes
     //factory methods provided by D3 to generate axis
@@ -57,10 +57,6 @@ window.addEventListener('DOMContentLoaded', e => {
         .attr('id', 'y-axis')
         .attr('transform', 'translate(' + padding + ', 0)');
 
-    // Create the scatter variable: where both the circles and the brush take place
-    const scatter = svg.append('g')
-        .attr("clip-path", "url(#clip)")
-
     //Axis Titles
     svg.append("text")
     .attr("x", margin.left + (width - margin.left - margin.right) / 2)
@@ -74,8 +70,38 @@ window.addEventListener('DOMContentLoaded', e => {
     .attr("transform", "rotate(-90)")
     .attr("class", "label")
     .text("Launch Angle");
+    
+    //Zoom Logic:
 
-    //Drawing circles
+    //Creating zoom function
+        const zoom = d3.zoom()
+        .scaleExtent([0.5, 10])
+        // .extent([0,0], [width,height])
+        .on("zoom", zoomed);
+
+    //Creating a rectangle above the svg to use for zooming
+    let display = svg.append("rect")
+        .attr("width", width)
+        .attr("height", height)
+        .style("fill", "none")
+        .style("pointer-events", "all")
+        .attr('transform', 'translate(0, ' - (padding + height) +')')
+        .call(zoom)
+
+    // Create the scatter variable: where both the circles and the brush take place
+    const scatter = svg.append('g')
+        .attr("clip-path", "url(#clip)")
+
+    //Clip path rectangle so elements won't show up outside of this
+    let clip = svg.append("defs").append("SVG:clipPath")
+        .attr("id", "clip")
+        .append("SVG:rect")
+        .attr("width", width )
+        .attr("height", height - padding )
+        .attr("x", margin.left)
+        .attr("y", 0);
+    
+    //Drawing circles on the scatter so we can maintain all functionality with zoom feature
     scatter.selectAll('circle')
         .data(values)
         .enter()
@@ -215,32 +241,7 @@ window.addEventListener('DOMContentLoaded', e => {
             .attr("r", 5 )
     }
 
-    // Zoom Logic
-    
-    // Adding clip path so the circles that don't need to be shown don't show up
-    let clip = svg.append("defs").append("SVG:clipPath")
-        .attr("id", "clip")
-        .append("SVG:rect")
-        .attr("width", width )
-        .attr("height", height - padding )
-        .attr("x", margin.left)
-        .attr("y", 0);
-    
-    //Creating zoom function
-        const zoom = d3.zoom()
-        .scaleExtent([0.5, 10])
-        // .extent([0,0], [width,height])
-        .on("zoom", zoomed);
-
-    svg.append("rect")
-        .attr("width", width)
-        .attr("height", height)
-        .style("fill", "none")
-        .style("pointer-events", "all")
-        .attr('transform', 'translate(0, ' - (padding + height) +')')
-        .call(zoom);
-
-    //handling the zoom logic
+    //function that is handling the zoom logic 
     function zoomed() {
         // recover the new scale
         let newX = d3.event.transform.rescaleX(xScale);
@@ -250,8 +251,8 @@ window.addEventListener('DOMContentLoaded', e => {
         gX.call(d3.axisBottom(newX));
         gY.call(d3.axisLeft(newY)); 
 
-        //update circle position
-        svg
+        //update circle position on scatter where the circles are drawn
+        scatter
             .selectAll('circle')
             .attr('cx', function(item) {return newX(item['launch_speed'])})
             .attr('cy', function(item) {return newY(item['launch_angle'])})
@@ -259,7 +260,4 @@ window.addEventListener('DOMContentLoaded', e => {
 
     //Creating the graph functions
     drawCanvas();
-    // generateScales();
-    // drawPoint();
-    // generateAxes();
 })
