@@ -1,0 +1,4891 @@
+[{
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (37) on a fly ball to left field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 456,
+    "launch_speed": 111.1,
+    "launch_angle": 31,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to center fielder Cedric Mullins.   Isiah Kiner-Falefa scores.    DJ LeMahieu to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 245,
+    "launch_speed": 78.3,
+    "launch_angle": 45,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (16) on a sharp fly ball to left fielder Austin Hays.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 405,
+    "launch_speed": 104.9,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Austin Hays.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 223,
+    "launch_speed": 109.9,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (36) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 465,
+    "launch_speed": 113.5,
+    "launch_angle": 25,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (35) on a fly ball to center field.   Joey Gallo scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 436,
+    "launch_speed": 108.6,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (34) on a fly ball to left field.   Isiah Kiner-Falefa scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 410,
+    "launch_speed": 111,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (32) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 401,
+    "launch_speed": 102.6,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (33) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 444,
+    "launch_speed": 108.5,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Alex Verdugo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 262,
+    "launch_speed": 106.1,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (31) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 435,
+    "launch_speed": 112,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to center fielder Jarren Duran.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 219,
+    "launch_speed": 65.6,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Alex Verdugo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 160,
+    "launch_speed": 109.6,
+    "launch_angle": 7,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (14) on a sharp line drive to center fielder Jarren Duran.   Jose Trevino scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 271,
+    "launch_speed": 112,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (13) on a sharp fly ball to right fielder Ben Gamel.  DJ LeMahieu out at home on the throw, right fielder Ben Gamel to second baseman Josh VanMeter to catcher Michael Perez.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 383,
+    "launch_speed": 102.5,
+    "launch_angle": 31,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge hits a grand slam (30) to left field.   Isiah Kiner-Falefa scores.    Kyle Higashioka scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 419,
+    "launch_speed": 114.7,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (12) on a sharp line drive to left fielder Richie Palacios.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 269,
+    "launch_speed": 108.4,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (29) on a fly ball to left field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 429,
+    "launch_speed": 111.3,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Tony Kemp, deflected by shortstop Elvis Andrus.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 173,
+    "launch_speed": 100.2,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (28) on a line drive to left center field.   Aaron Hicks scores.    Matt Carpenter scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 417,
+    "launch_speed": 112,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Yordan Alvarez.   Jose Trevino scores.    DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 276,
+    "launch_speed": 103.8,
+    "launch_angle": 18,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (26) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 396,
+    "launch_speed": 99.9,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (27) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 406,
+    "launch_speed": 109,
+    "launch_angle": 41,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (11) on a sharp line drive to center fielder George Springer.   Joey Gallo scores.    DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 281,
+    "launch_speed": 107.9,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Lourdes Gurriel Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 291,
+    "launch_speed": 113.2,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (25) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 364,
+    "launch_speed": 104.1,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Rafael Ortega.   Kyle Higashioka to 3rd.    Joey Gallo to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 146,
+    "launch_speed": 97.6,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Jason Heyward.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 154,
+    "launch_speed": 103.3,
+    "launch_angle": 9,
+    "pitch_name": "Eephus"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Jason Heyward.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 245,
+    "launch_speed": 73.7,
+    "launch_angle": 31,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (24) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 431,
+    "launch_speed": 115.5,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (23) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 383,
+    "launch_speed": 107.3,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Ian Happ.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 204,
+    "launch_speed": 109,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (10) on a sharp fly ball to left fielder Trevor Larnach.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 397,
+    "launch_speed": 104.8,
+    "launch_angle": 23,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (22) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 431,
+    "launch_speed": 107.7,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Willi Castro.  DJ LeMahieu out at 3rd on the throw, left fielder Willi Castro to third baseman Harold Castro.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 311,
+    "launch_speed": 111.3,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (21) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 378,
+    "launch_speed": 106.4,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Willi Castro.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 275,
+    "launch_speed": 104.8,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (20) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 378,
+    "launch_speed": 104.2,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Harold Castro.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 181,
+    "launch_speed": 73.2,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Kody Clemens.   DJ LeMahieu scores.  Aaron Judge out at 2nd on the throw, left fielder Kody Clemens to second baseman Jonathan Schoop.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 251,
+    "launch_speed": 99.6,
+    "launch_angle": 18,
+    "pitch_name": "Eephus"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (19) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 405,
+    "launch_speed": 109.9,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Brett Phillips.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 220,
+    "launch_speed": 76.2,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (18) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 420,
+    "launch_speed": 107.4,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge hits a ground-rule double (9) on a fly ball down the left-field line.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 300,
+    "launch_speed": 85.8,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (17) on a fly ball to left field.   Anthony Rizzo scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 405,
+    "launch_speed": 103.1,
+    "launch_angle": 32,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (16) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 418,
+    "launch_speed": 112,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder AJ Pollock.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 195,
+    "launch_speed": 85.9,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (15) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 431,
+    "launch_speed": 111.1,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (8) on a fly ball to center fielder Luis Robert.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 342,
+    "launch_speed": 92.8,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (13) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 410,
+    "launch_speed": 105.5,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Austin Hays.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 153,
+    "launch_speed": 109.8,
+    "launch_angle": 8,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (7) on a sharp fly ball to left fielder Austin Hays.   DJ LeMahieu scores.  Aaron Judge out at 3rd on the throw, left fielder Austin Hays to third baseman Tyler Nevin.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 397,
+    "launch_speed": 100.8,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (14) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 422,
+    "launch_speed": 112.2,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (12) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 355,
+    "launch_speed": 103.8,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Luis Robert.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 315,
+    "launch_speed": 114.6,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (11) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 456,
+    "launch_speed": 114,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Lourdes Gurriel Jr.  Marwin Gonzalez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 222,
+    "launch_speed": 103.3,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (10) on a fly ball to left center field.   Jose Trevino scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 414,
+    "launch_speed": 112.5,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (9) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 427,
+    "launch_speed": 114.9,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (6) on a sharp line drive to left fielder Lourdes Gurriel Jr.  Jose Trevino scores.    Aaron Hicks scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 362,
+    "launch_speed": 110.5,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 265,
+    "launch_speed": 103,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (8) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 395,
+    "launch_speed": 106.8,
+    "launch_angle": 35,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (7) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 453,
+    "launch_speed": 113.5,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (6) on a fly ball to right center field.    Kyle Higashioka scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 389,
+    "launch_speed": 105.4,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (5) on a fly ball to left center field.   Kyle Higashioka scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 415,
+    "launch_speed": 113.6,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (4) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 392,
+    "launch_speed": 98.5,
+    "launch_angle": 34,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (5) on a sharp line drive to left fielder Steven Kwan.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 263,
+    "launch_speed": 109.6,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (2) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 397,
+    "launch_speed": 112,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (3) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 364,
+    "launch_speed": 112,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 178,
+    "launch_speed": 84.8,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (4) on a sharp line drive to left fielder Austin Meadows.   Isiah Kiner-Falefa scores.    Kyle Higashioka to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 181,
+    "launch_speed": 101.6,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Akil Baddoo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 142,
+    "launch_speed": 100,
+    "launch_angle": 6,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Cedric Mullins.   Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 279,
+    "launch_speed": 94.9,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (3) on a sharp fly ball to left fielder Lourdes Gurriel Jr.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 401,
+    "launch_speed": 106.3,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (1) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 413,
+    "launch_speed": 108.4,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (2) on a sharp line drive to left fielder Lourdes Gurriel Jr.  Josh Donaldson to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 149,
+    "launch_speed": 106.9,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Christian Arroyo.   Anthony Rizzo to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 214,
+    "launch_speed": 80,
+    "launch_angle": 47,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Alex Verdugo.   Anthony Rizzo to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 269,
+    "launch_speed": 107.5,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (1) on a sharp line drive to left fielder Alex Verdugo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 267,
+    "launch_speed": 109.3,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jackie Bradley Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 234,
+    "launch_speed": 76.2,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Manuel Margot.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 230,
+    "launch_speed": 75,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Manuel Margot.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 194,
+    "launch_speed": 67,
+    "launch_angle": 32,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (39) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 441,
+    "launch_speed": 115.3,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (38) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 455,
+    "launch_speed": 114.6,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (37) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 366,
+    "launch_speed": 106.4,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Teoscar Hernandez.   Anthony Rizzo to 3rd.    Aaron Judge to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 253,
+    "launch_speed": 90.1,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (24) on a sharp line drive to center fielder Enrique Hernandez.   DJ LeMahieu scores.    Anthony Rizzo scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 357,
+    "launch_speed": 118.4,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (23) on a sharp line drive to center fielder Enrique Hernandez.   DJ LeMahieu scores.    Anthony Rizzo to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 368,
+    "launch_speed": 112.7,
+    "launch_angle": 18,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (36) on a fly ball to right center field.    DJ LeMahieu scores.    Anthony Rizzo scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 415,
+    "launch_speed": 109.1,
+    "launch_angle": 29,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (22) on a sharp fly ball to right fielder Adolis Garcia.   Anthony Rizzo to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 371,
+    "launch_speed": 104,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Leody Taveras.   DJ LeMahieu scores.    Anthony Rizzo to 3rd.    Aaron Judge to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 275,
+    "launch_speed": 89.4,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (35) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 405,
+    "launch_speed": 107.4,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Harold Ramirez.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 129,
+    "launch_speed": 106.9,
+    "launch_angle": 6,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (34) on a fly ball to right center field.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 108,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (33) on a fly ball to right center field.    Anthony Rizzo scores.    Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 394,
+    "launch_speed": 107.3,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (31) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 424,
+    "launch_speed": 108.5,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (32) on a fly ball to left center field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 413,
+    "launch_speed": 110.6,
+    "launch_angle": 42,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Lourdes Gurriel.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 233,
+    "launch_speed": 91.5,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (21) on a sharp line drive to left fielder Ryan McKenna.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 347,
+    "launch_speed": 114.9,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (20) on a sharp line drive to left fielder Austin Hays.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 166,
+    "launch_speed": 113.9,
+    "launch_angle": 8,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (30) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 397,
+    "launch_speed": 100.6,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Juan Lagares.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 263,
+    "launch_speed": 108.6,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (19) on a sharp line drive to left fielder Mark Canha.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 332,
+    "launch_speed": 111.5,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (29) on a fly ball to left center field.   Anthony Rizzo scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 406,
+    "launch_speed": 110,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (28) on a fly ball to center field.   Kyle Higashioka scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 413,
+    "launch_speed": 99.8,
+    "launch_angle": 29,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Mark Canha.   Tyler Wade scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 215,
+    "launch_speed": 74.2,
+    "launch_angle": 22,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Joc Pederson.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 276,
+    "launch_speed": 110.3,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Adam Duvall.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 257,
+    "launch_speed": 85.7,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (27) on a line drive to right center field.    DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 361,
+    "launch_speed": 107,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder J.  D. Martinez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 253,
+    "launch_speed": 92.6,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Justin Upton.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 151,
+    "launch_speed": 63.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Jo Adell.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 318,
+    "launch_speed": 100.3,
+    "launch_angle": 20,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (16) on a sharp line drive to right fielder Brian Goodwin.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 236,
+    "launch_speed": 104.8,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Luis Robert.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 213,
+    "launch_speed": 86.2,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (26) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 421,
+    "launch_speed": 114.3,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Michael A.   Taylor.   DJ LeMahieu scores.  Brett Gardner out at 3rd on the throw, center fielder Michael A.   Taylor to third baseman Emmanuel Rivera.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 300,
+    "launch_speed": 100.2,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Michael A.   Taylor.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 207,
+    "launch_speed": 108.6,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Michael A.   Taylor.   Giancarlo Stanton to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 277,
+    "launch_speed": 85.5,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (15) on a line drive to left fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 160,
+    "launch_speed": 81.9,
+    "launch_angle": 13,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jarrod Dyson.   Tyler Wade scores.  Brett Gardner out at 3rd on the throw, right fielder Jarrod Dyson to third baseman Hanser Alberto.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 216,
+    "launch_speed": 89.6,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (14) on a sharp line drive to center fielder Jarred Kelenic.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 318,
+    "launch_speed": 105.3,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (23) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 421,
+    "launch_speed": 107.5,
+    "launch_angle": 28,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Jake Fraley.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 250,
+    "launch_speed": 109.1,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a pop up to first baseman Ryan Mountcastle.",
+    "bb_type": "popup",
+    "game_year": 2021,
+    "hit_distance_sc": 174,
+    "launch_speed": 96.6,
+    "launch_angle": 60,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Austin Hays.   Anthony Rizzo to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 179,
+    "launch_speed": 87.6,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (22) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 340,
+    "launch_speed": 101.5,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Bryan De La Cruz.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 213,
+    "launch_speed": 68,
+    "launch_angle": 41,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Brett Phillips.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 301,
+    "launch_speed": 103,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (21) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 419,
+    "launch_speed": 106.8,
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (13) on a line drive to left fielder Michael Brantley.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 202,
+    "launch_speed": 101.4,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (20) on a fly ball to left center field.   Tim Locastro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 429,
+    "launch_speed": 106.9,
+    "launch_angle": 32,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (12) on a sharp line drive to center fielder Jake Fraley.   Miguel Andujar scores.    DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 248,
+    "launch_speed": 102.1,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Billy McKinney.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 230,
+    "launch_speed": 90.3,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (19) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 387,
+    "launch_speed": 104.5,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (18) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 434,
+    "launch_speed": 109,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (11) on a sharp line drive to left fielder Scott Schebler.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 298,
+    "launch_speed": 116.4,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (17) on a fly ball to left center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 430,
+    "launch_speed": 106,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Hunter Renfroe.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 232,
+    "launch_speed": 107.4,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Enrique Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 176,
+    "launch_speed": 105.9,
+    "launch_angle": 8,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Jarrod Dyson.   Tyler Wade scores.    DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 250,
+    "launch_speed": 109.3,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (16) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 344,
+    "launch_speed": 100.7,
+    "launch_angle": 28,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (10) on a sharp line drive to center fielder Michael A.   Taylor.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 327,
+    "launch_speed": 107.8,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Hunter Dozier.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 179,
+    "launch_speed": 112.4,
+    "launch_angle": 7,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (9) on a sharp fly ball to center fielder Michael A.   Taylor.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 395,
+    "launch_speed": 102.1,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Seth Brown.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 144,
+    "launch_speed": 109.9,
+    "launch_angle": 5,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Mark Canha.   Clint Frazier scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 208,
+    "launch_speed": 109.2,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a pop up to first baseman Matt Olson.",
+    "bb_type": "popup",
+    "game_year": 2021,
+    "hit_distance_sc": 181,
+    "launch_speed": 65.5,
+    "launch_angle": 43,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Teoscar Hernandez.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 237,
+    "launch_speed": 119,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Gilberto Celestino.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 322,
+    "launch_speed": 93.6,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (8) on a sharp line drive to center fielder Gilberto Celestino.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 106.6,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (15) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 392,
+    "launch_speed": 106.5,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Enrique Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 260,
+    "launch_speed": 115.5,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (14) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 358,
+    "launch_speed": 111.4,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Hunter Renfroe.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 260,
+    "launch_speed": 100.7,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 309,
+    "launch_speed": 115.1,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge hits a ground-rule double (7) on a fly ball down the left-field line.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 331,
+    "launch_speed": 88.3,
+    "launch_angle": 33,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 219,
+    "launch_speed": 92,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (13) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 440,
+    "launch_speed": 112.2,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Adam Eaton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 234,
+    "launch_speed": 84.7,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Andrew Vaughn.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 317,
+    "launch_speed": 117.4,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Leury Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 175,
+    "launch_speed": 106.7,
+    "launch_angle": 9,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Adolis Garcia.   Gary Sanchez scores.  Gio Urshela out at 3rd on the throw, center fielder Adolis Garcia to third baseman Charlie Culberson to second baseman Nick Solak.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 152,
+    "launch_speed": 95.1,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Joey Gallo.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 234,
+    "launch_speed": 92.7,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Adolis Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 152,
+    "launch_speed": 108.2,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (12) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 443,
+    "launch_speed": 114.7,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Austin Hays.   DJ LeMahieu to 3rd.    Luke Voit to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 249,
+    "launch_speed": 89,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (11) on a fly ball to left center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 385,
+    "launch_speed": 96.6,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Austin Hays.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 197,
+    "launch_speed": 91.3,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (10) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 383,
+    "launch_speed": 105.3,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (9) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 383,
+    "launch_speed": 103.8,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (5) on a sharp line drive to left fielder Randy Arozarena.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 241,
+    "launch_speed": 110,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Brett Phillips.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 201,
+    "launch_speed": 78.3,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Austin Meadows.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 255,
+    "launch_speed": 81.8,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Brett Phillips.   Giancarlo Stanton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 268,
+    "launch_speed": 96.9,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (8) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 419,
+    "launch_speed": 106.4,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Juan Soto, deflected by first baseman Ryan Zimmerman.   DJ LeMahieu to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 186,
+    "launch_speed": 70.4,
+    "launch_angle": 50,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Kyle Tucker.   Giancarlo Stanton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 303,
+    "launch_speed": 104,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (4) on a sharp line drive to left fielder Akil Baddoo.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 316,
+    "launch_speed": 112.1,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Robbie Grossman.   Aaron Hicks scores.    Gary Sanchez scores.    Clint Frazier to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 253,
+    "launch_speed": 108.4,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (6) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 436,
+    "launch_speed": 111.3,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge hits a grand slam (7) to right field.   Rougned Odor scores.    DJ LeMahieu scores.    Giancarlo Stanton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 357,
+    "launch_speed": 100,
+    "launch_angle": 45,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (5) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 397,
+    "launch_speed": 116.2,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Austin Hays.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 227,
+    "launch_speed": 84.9,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (3) on a sharp line drive to left fielder Austin Hays.   Giancarlo Stanton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 221,
+    "launch_speed": 111.8,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 186,
+    "launch_speed": 103.2,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (2) on a line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 164,
+    "launch_speed": 81.1,
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Ehire Adrianza.   Aaron Hicks to 3rd.    DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 195,
+    "launch_speed": 82.4,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (1) on a sharp line drive to center fielder Brett Phillips.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 356,
+    "launch_speed": 107.9,
+    "launch_angle": 17,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (4) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 426,
+    "launch_speed": 111.9,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (3) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 368,
+    "launch_speed": 101.5,
+    "launch_angle": 23,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Austin Meadows.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 263,
+    "launch_speed": 112.9,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (2) on a fly ball to left center field.   Kyle Higashioka scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 432,
+    "launch_speed": 110.9,
+    "launch_angle": 27,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to pitcher Dean Kremer.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 103,
+    "launch_speed": 109.9,
+    "launch_angle": 4,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (1) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 344,
+    "launch_speed": 104,
+    "launch_angle": 38,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Lourdes Gurriel Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 165,
+    "launch_speed": 115.1,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Lourdes Gurriel Jr.  Clint Frazier to 3rd.    DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 196,
+    "launch_speed": 90.3,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (3) on a sharp line drive to left fielder Corey Dickerson.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 296,
+    "launch_speed": 103.7,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a soft fly ball to right fielder Lewis Brinson.   Mike Tauchman scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 205,
+    "launch_speed": 69.4,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Lourdes Gurriel Jr.  Kyle Higashioka scores.    DJ LeMahieu to 3rd.    Aaron Judge to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 276,
+    "launch_speed": 90.4,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Jonathan Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 83,
+    "launch_speed": 92.9,
+    "launch_angle": 4,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Randal Grichuk.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 146,
+    "launch_speed": 72.2,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder J.  D. Martinez.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 203,
+    "launch_speed": 104.2,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 293,
+    "launch_speed": 88.6,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (9) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 432,
+    "launch_speed": 113.1,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (8) on a fly ball to left center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 408,
+    "launch_speed": 105.5,
+    "launch_angle": 35,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to center fielder Kevin Kiermaier.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 240,
+    "launch_speed": 71.4,
+    "launch_angle": 40,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Jay Bruce.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 205,
+    "launch_speed": 111.1,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (7) on a line drive to left field.   Brett Gardner scores.    Thairo Estrada scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 371,
+    "launch_speed": 107.3,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Adam Haseley.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 272,
+    "launch_speed": 102.1,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (5) on a fly ball to left field.   Miguel Andujar scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 419,
+    "launch_speed": 107.9,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (6) on a fly ball to left center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 468,
+    "launch_speed": 107.4,
+    "launch_angle": 27,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (4) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 455,
+    "launch_speed": 110.8,
+    "launch_angle": 29,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (3) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 376,
+    "launch_speed": 99.5,
+    "launch_angle": 32,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (2) on a fly ball to left center field.   Gio Urshela scores.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 413,
+    "launch_speed": 107.3,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (1) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 386,
+    "launch_speed": 104.7,
+    "launch_angle": 39,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Austin Hays.   Gio Urshela scores.  Aaron Judge out at 2nd on the throw, center fielder Austin Hays to shortstop Jose Iglesias.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 300,
+    "launch_speed": 96.5,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (1) on a line drive to left fielder Andrew Stevenson.   Tyler Wade scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 229,
+    "launch_speed": 91.1,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (27) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 408,
+    "launch_speed": 104.7,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "triple",
+    "des": "Aaron Judge triples (1) on a sharp fly ball to center fielder Danny Santana.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 414,
+    "launch_speed": 111.3,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (26) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 420,
+    "launch_speed": 102.7,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (18) on a sharp line drive to center fielder Jonathan Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 356,
+    "launch_speed": 114.2,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (25) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 427,
+    "launch_speed": 105.9,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (17) on a sharp line drive to left fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 238,
+    "launch_speed": 100.3,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (24) on a fly ball to right center field.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 398,
+    "launch_speed": 109.5,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (23) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 348,
+    "launch_speed": 102.2,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Teoscar Hernandez.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 293,
+    "launch_speed": 103.7,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (22) on a fly ball to right center field.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 374,
+    "launch_speed": 104.1,
+    "launch_angle": 40,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Gorkys Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 257,
+    "launch_speed": 80.4,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (16) on a sharp line drive to center fielder Jackie Bradley Jr.  DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 184,
+    "launch_speed": 109.4,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Andrew Benintendi.   Mike Tauchman scores.    DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 252,
+    "launch_speed": 114.2,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (21) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 375,
+    "launch_speed": 99.1,
+    "launch_angle": 35,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (20) on a fly ball to right center field.    Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 366,
+    "launch_speed": 101.1,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (19) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 371,
+    "launch_speed": 101.9,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 162,
+    "launch_speed": 115.1,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (15) on a sharp line drive to left fielder Tim Lopes.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 252,
+    "launch_speed": 105.6,
+    "launch_angle": 15,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (14) on a sharp line drive to center fielder Keon Broxton.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 356,
+    "launch_speed": 109.7,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (18) on a fly ball to left field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 376,
+    "launch_speed": 106.5,
+    "launch_angle": 42,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (17) on a fly ball to center field.   DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 462,
+    "launch_speed": 114.1,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (16) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 404,
+    "launch_speed": 104.6,
+    "launch_angle": 31,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (15) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 424,
+    "launch_speed": 108.5,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Cody Bellinger.   DJ LeMahieu to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 192,
+    "launch_speed": 61.1,
+    "launch_angle": 35,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (14) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 414,
+    "launch_speed": 108.9,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Matt Beaty.   Mike Ford scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 207,
+    "launch_speed": 98.9,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 222,
+    "launch_speed": 95,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (13) on a sharp line drive to center fielder Mark Canha.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 184,
+    "launch_speed": 112.2,
+    "launch_angle": 7,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (13) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 467,
+    "launch_speed": 116,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (12) on a sharp line drive to left fielder Oscar Mercado.   Mike Tauchman scores.    DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 339,
+    "launch_speed": 100.6,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (11) on a line drive to right fielder Yasiel Puig.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 283,
+    "launch_speed": 91.8,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Tyler Naquin.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 237,
+    "launch_speed": 104.9,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Derek Fisher.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 231,
+    "launch_speed": 102.7,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Stevie Wilkerson.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 284,
+    "launch_speed": 93.7,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (9) on a line drive to right fielder Trey Mancini.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 162,
+    "launch_speed": 81.4,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (12) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 389,
+    "launch_speed": 106.7,
+    "launch_angle": 36,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge hits a ground-rule double (8) on a line drive down the left-field line.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 311,
+    "launch_speed": 103,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 217,
+    "launch_speed": 83.8,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 244,
+    "launch_speed": 108.6,
+    "launch_angle": 13,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder David Peralta.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 260,
+    "launch_speed": 89,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (7) on a sharp fly ball to center fielder Jackie Bradley Jr.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 413,
+    "launch_speed": 103.5,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 202,
+    "launch_speed": 102,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 240,
+    "launch_speed": 78.9,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (5) on a sharp fly ball to right fielder Marwin Gonzalez, deflected by center fielder Max Kepler.   Gio Urshela scores.    Mike Tauchman scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 405,
+    "launch_speed": 105.1,
+    "launch_angle": 38,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (6) on a sharp line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 340,
+    "launch_speed": 107.1,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (4) on a sharp line drive to left fielder Raimel Tapia.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 356,
+    "launch_speed": 111.4,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (11) on a fly ball to right center field.    DJ LeMahieu scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 413,
+    "launch_speed": 109.7,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 310,
+    "launch_speed": 109,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (10) on a fly ball to right center field.    Gleyber Torres scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 367,
+    "launch_speed": 100.9,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Randal Grichuk.   DJ LeMahieu to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 267,
+    "launch_speed": 113.7,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 249,
+    "launch_speed": 108.7,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (8) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 376,
+    "launch_speed": 104.1,
+    "launch_angle": 38,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (9) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 442,
+    "launch_speed": 116.3,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (3) on a sharp line drive to center fielder Michael Conforto.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 363,
+    "launch_speed": 108.6,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Lourdes Gurriel Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 251,
+    "launch_speed": 116.3,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 286,
+    "launch_speed": 97.1,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (6) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 405,
+    "launch_speed": 106.7,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jorge Soler.   Mike Tauchman to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 269,
+    "launch_speed": 91.7,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (5) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 369,
+    "launch_speed": 105.2,
+    "launch_angle": 36,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (2) on a sharp line drive to center fielder Billy Hamilton, deflected by right fielder Terrance Gore.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 329,
+    "launch_speed": 102.9,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder J.  D. Martinez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 273,
+    "launch_speed": 103.9,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Mookie Betts.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 339,
+    "launch_speed": 111.3,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Daniel Palka.   Mike Tauchman scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 206,
+    "launch_speed": 85.5,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (4) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 335,
+    "launch_speed": 101.6,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Michael Brantley.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 259,
+    "launch_speed": 106.9,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (3) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 347,
+    "launch_speed": 103.8,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Michael Brantley.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 262,
+    "launch_speed": 84.1,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (2) on a fly ball to center field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 418,
+    "launch_speed": 109.4,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (1) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 412,
+    "launch_speed": 110.3,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Nicholas Castellanos.   DJ LeMahieu scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 220,
+    "launch_speed": 104.7,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (1) on a sharp fly ball to center fielder Mikie Mahtook.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 384,
+    "launch_speed": 106.8,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Trey Mancini.   Greg Bird scores.    DJ LeMahieu scores.    Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 245,
+    "launch_speed": 96.5,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Dwight Smith.   DJ LeMahieu to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 269,
+    "launch_speed": 98.2,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (27) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 399,
+    "launch_speed": 105.2,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Tommy Pham.   Andrew McCutchen to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 216,
+    "launch_speed": 94.4,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Tommy Pham.   Gary Sanchez scores.    Brett Gardner to 3rd.    Andrew McCutchen to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 184,
+    "launch_speed": 84.9,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (22) on a line drive to center fielder Mallex Smith.   Andrew McCutchen scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 331,
+    "launch_speed": 93.1,
+    "launch_angle": 20,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (21) on a line drive to right fielder Adam Jones.   Aaron Hicks scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 272,
+    "launch_speed": 86.8,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Joey Rickard.   Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 200,
+    "launch_speed": 96.4,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder J.  D. Martinez.   Andrew McCutchen to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 183,
+    "launch_speed": 70,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Jake Bauers.   Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 225,
+    "launch_speed": 87.4,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (20) on a line drive to center fielder Matthew den Dekker.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 341,
+    "launch_speed": 112.1,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (26) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 407,
+    "launch_speed": 107.3,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Michael Conforto.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 189,
+    "launch_speed": 86.5,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Michael Brantley.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 326,
+    "launch_speed": 113.9,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Michael Brantley.   Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 170,
+    "launch_speed": 69.8,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (19) on a line drive to left fielder Michael Brantley.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 207,
+    "launch_speed": 95.9,
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Joey Rickard.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 207,
+    "launch_speed": 91.6,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Danny Valencia.   Austin Romine scores.    Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 196,
+    "launch_speed": 109.3,
+    "launch_angle": 6,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 176,
+    "launch_speed": 86.4,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (25) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 404,
+    "launch_speed": 109.2,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (24) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 346,
+    "launch_speed": 102.7,
+    "launch_angle": 45,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 255,
+    "launch_speed": 93.5,
+    "launch_angle": 17,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Ronald Acuna.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 206,
+    "launch_speed": 107.8,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (23) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 340,
+    "launch_speed": 97.6,
+    "launch_angle": 33,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Jackie Bradley Jr. , deflected by pitcher Justin Haley.   Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 129,
+    "launch_speed": 114.8,
+    "launch_angle": 4,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (22) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 409,
+    "launch_speed": 109.2,
+    "launch_angle": 38,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (21) on a fly ball to right center field.    Aaron Hicks scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 355,
+    "launch_speed": 102.5,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Rhys Hoskins.   Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 209,
+    "launch_speed": 103.9,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (20) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 355,
+    "launch_speed": 110.9,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a soft line drive to right fielder Carlos Gomez.   Gleyber Torres scores.    Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 124,
+    "launch_speed": 82.1,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (19) on a fly ball to right center field.    Clint Frazier scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 382,
+    "launch_speed": 107.8,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Ben Gamel.   Clint Frazier to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 165,
+    "launch_speed": 115.8,
+    "launch_angle": 7,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Denard Span.   Miguel Andujar scores.    Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 176,
+    "launch_speed": 114.6,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (17) on a sharp line drive to right fielder Carlos Gomez.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 411,
+    "launch_speed": 109.2,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (15) on a sharp line drive to right fielder Johnny Field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 208,
+    "launch_speed": 108.1,
+    "launch_angle": 8,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Johnny Field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 210,
+    "launch_speed": 91.9,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (14) on a sharp fly ball to center fielder Bryce Harper.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 392,
+    "launch_speed": 109.3,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (18) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 356,
+    "launch_speed": 96.9,
+    "launch_angle": 36,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (17) on a fly ball to center field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 404,
+    "launch_speed": 102.7,
+    "launch_angle": 28,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (13) on a sharp line drive to left fielder Trey Mancini.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 151,
+    "launch_speed": 110.3,
+    "launch_angle": 8,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (16) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 438,
+    "launch_speed": 108.9,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Tony Kemp.   Austin Romine to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 187,
+    "launch_speed": 67.9,
+    "launch_angle": 46,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Marwin Gonzalez.   Aaron Hicks to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 199,
+    "launch_speed": 112.9,
+    "launch_angle": 13,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (15) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 381,
+    "launch_speed": 109.1,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Mike Trout.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 221,
+    "launch_speed": 119.9,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (14) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 442,
+    "launch_speed": 112.5,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (13) on a fly ball to center field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 471,
+    "launch_speed": 112,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (12) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 436,
+    "launch_speed": 113.9,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (11) on a line drive to left fielder Joey Gallo.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 201,
+    "launch_speed": 112.4,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (10) on a fly ball to right fielder Mark Canha.   Brett Gardner to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 321,
+    "launch_speed": 99.2,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (11) on a fly ball to left field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 373,
+    "launch_speed": 104.7,
+    "launch_angle": 39,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (10) on a fly ball to right center field.    Miguel Andujar scores.    Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 391,
+    "launch_speed": 111.1,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (9) on a line drive to center field.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 429,
+    "launch_speed": 117,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (9) on a sharp line drive to right fielder Tyler Naquin.   Tyler Austin scores.    Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 281,
+    "launch_speed": 105.8,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (8) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 361,
+    "launch_speed": 99.1,
+    "launch_angle": 23,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (8) on a line drive to left fielder Rajai Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 190,
+    "launch_speed": 99.9,
+    "launch_angle": 13,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (7) on a line drive to right fielder Josh Reddick.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 134,
+    "launch_speed": 88.3,
+    "launch_angle": 7,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Josh Reddick.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 277,
+    "launch_speed": 111.8,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (6) on a line drive to left fielder Justin Upton.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 222,
+    "launch_speed": 115.4,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Justin Upton.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 226,
+    "launch_speed": 90.6,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (5) on a sharp line drive to left fielder Eddie Rosario.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 327,
+    "launch_speed": 106.6,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (7) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 371,
+    "launch_speed": 108.4,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (4) on a sharp line drive to center fielder Ryan LaMarre.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 339,
+    "launch_speed": 111.3,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (6) on a fly ball to left field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 443,
+    "launch_speed": 116.1,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Curtis Granderson.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 211,
+    "launch_speed": 79.6,
+    "launch_angle": 52,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (5) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 394,
+    "launch_speed": 105.8,
+    "launch_angle": 37,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (4) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 386,
+    "launch_speed": 108.2,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Derek Dietrich.   Miguel Andujar scores.    Ronald Torreyes to 3rd.    Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 157,
+    "launch_speed": 110.4,
+    "launch_angle": 6,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (3) on a sharp line drive to center fielder Jackie Bradley Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 378,
+    "launch_speed": 115.7,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder J.  D. Martinez.   Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 187,
+    "launch_speed": 114.7,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (3) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 444,
+    "launch_speed": 116.3,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Jackie Bradley Jr.  Neil Walker to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 265,
+    "launch_speed": 87.4,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 202,
+    "launch_speed": 95.9,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Anthony Santander.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 149,
+    "launch_speed": 69.6,
+    "launch_angle": 20,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (2) on a sharp line drive to left fielder Trey Mancini.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 227,
+    "launch_speed": 110.7,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to center fielder Adam Jones.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 229,
+    "launch_speed": 69.9,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (2) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 395,
+    "launch_speed": 105.5,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (1) on a fly ball to left field.   Ronald Torreyes scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 419,
+    "launch_speed": 108.9,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Rob Refsnyder.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 213,
+    "launch_speed": 98.5,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to center fielder Kevin Kiermaier.   Brett Gardner to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 241,
+    "launch_speed": 73.3,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Curtis Granderson.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 246,
+    "launch_speed": 85.2,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (1) on a sharp line drive to left fielder Curtis Granderson.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 291,
+    "launch_speed": 106.3,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Kevin Pillar.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 259,
+    "launch_speed": 81.2,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (52) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 496,
+    "launch_speed": 118.3,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (51) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 357,
+    "launch_speed": 104.1,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (24) on a sharp line drive to left fielder Corey Dickerson.   Jacoby Ellsbury scores.    Aaron Hicks scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 238,
+    "launch_speed": 107.1,
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (23) on a sharp line drive to right fielder Steven Souza Jr.  Aaron Hicks to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 196,
+    "launch_speed": 102.5,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (49) on a fly ball to right center field.    Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 389,
+    "launch_speed": 107.3,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (50) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 408,
+    "launch_speed": 109.6,
+    "launch_angle": 35,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge hits a home run (47).",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 378,
+    "launch_speed": 113.1,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (48) on a fly ball to left center field.   Chase Headley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 391,
+    "launch_speed": 98.9,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (22) on a sharp line drive to left fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 219,
+    "launch_speed": 114.3,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (21) on a sharp line drive to left fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 376,
+    "launch_speed": 111.3,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (46) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 454,
+    "launch_speed": 113.6,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (45) on a fly ball to right center field.    Greg Bird scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 349,
+    "launch_speed": 101.9,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 257,
+    "launch_speed": 79.9,
+    "launch_angle": 21,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (44) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 395,
+    "launch_speed": 108.9,
+    "launch_angle": 38,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (20) on a sharp line drive to left fielder Trey Mancini.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 393,
+    "launch_speed": 109.6,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (42) on a fly ball to right center field.    Clint Frazier scores.    Jacoby Ellsbury scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 418,
+    "launch_speed": 107.6,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (43) on a fly ball to left center field.   Clint Frazier scores.    Jacoby Ellsbury scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 448,
+    "launch_speed": 117.2,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to center fielder Adam Jones.   Jacoby Ellsbury to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 250,
+    "launch_speed": 73,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (41) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 463,
+    "launch_speed": 109.5,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (40) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 379,
+    "launch_speed": 103.3,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (19) on a sharp line drive to left fielder Delino DeShields.   Todd Frazier to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 306,
+    "launch_speed": 115.2,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (39) on a fly ball to center field.   Didi Gregorius scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 420,
+    "launch_speed": 109.8,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Joey Rickard, deflected by pitcher Jimmy Yacabonis.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 106,
+    "launch_speed": 69.2,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (38) on a fly ball to left center field.   Starlin Castro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 456,
+    "launch_speed": 115.1,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (18) on a sharp line drive to center fielder Andrew Benintendi.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 288,
+    "launch_speed": 111,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (17) on a sharp line drive to left fielder Ben Gamel.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 166,
+    "launch_speed": 107.6,
+    "launch_angle": 9,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder JaCoby Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 255,
+    "launch_speed": 104,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (16) on a fly ball to center fielder Andrew Romine.   Aaron Hicks scores.    Gary Sanchez to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 418,
+    "launch_speed": 105.4,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Alex Presley.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 198,
+    "launch_speed": 70.9,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Justin Upton.   Brett Gardner scores.    Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 280,
+    "launch_speed": 109.7,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Yoenis Cespedes.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 244,
+    "launch_speed": 78.1,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (37) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 457,
+    "launch_speed": 117,
+    "launch_angle": 35,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (15) on a sharp line drive to left fielder Yoenis Cespedes.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 292,
+    "launch_speed": 111.3,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (36) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 391,
+    "launch_speed": 103.9,
+    "launch_angle": 34,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge hits a ground-rule double (14) on a line drive down the left-field line.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 280,
+    "launch_speed": 101.4,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (35) on a line drive to center field.   Clint Frazier scores.    Didi Gregorius scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 394,
+    "launch_speed": 113.2,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Michael Brantley.   Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 226,
+    "launch_speed": 96,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Michael Brantley.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 191,
+    "launch_speed": 97.2,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Justin Upton.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 200,
+    "launch_speed": 109.8,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (34) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 400,
+    "launch_speed": 101.6,
+    "launch_angle": 30,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (33) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 397,
+    "launch_speed": 111.6,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Scott Schebler.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 260,
+    "launch_speed": 112.4,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (32) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 396,
+    "launch_speed": 108,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Mitch Haniger.   Chase Headley scores.    Brett Gardner to 3rd.    Gary Sanchez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 216,
+    "launch_speed": 77.7,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Domingo Santana.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 162,
+    "launch_speed": 77,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (30) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 432,
+    "launch_speed": 109.9,
+    "launch_angle": 32,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Jose Bautista.   Austin Romine to 3rd.    Brett Gardner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 201,
+    "launch_speed": 102.5,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (29) on a fly ball to center field.   Brett Gardner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 398,
+    "launch_speed": 108.2,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (28) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 456,
+    "launch_speed": 118.4,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (13) on a sharp line drive to right fielder Josh Reddick.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 349,
+    "launch_speed": 111.1,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (27) on a line drive to left field.   Brett Gardner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 418,
+    "launch_speed": 115.2,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (12) on a sharp line drive to center fielder Adam Engel.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 319,
+    "launch_speed": 101.8,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Carlos Gomez.   Mason Williams scores.    Austin Romine to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 221,
+    "launch_speed": 105.2,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Delino DeShields.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 231,
+    "launch_speed": 81.4,
+    "launch_angle": 20,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (26) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 439,
+    "launch_speed": 107.2,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (25) on a fly ball to center field.   Brett Gardner scores.    Aaron Hicks scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 425,
+    "launch_speed": 111,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (24) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 382,
+    "launch_speed": 108.3,
+    "launch_angle": 40,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (23) on a fly ball to right field.    Mason Williams scores.    Rob Refsnyder scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 379,
+    "launch_speed": 105.1,
+    "launch_angle": 32,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "triple",
+    "des": "Aaron Judge triples (3) on a sharp line drive to center fielder Jaycob Brugman.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 390,
+    "launch_speed": 109.9,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Chad Pinder.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 281,
+    "launch_speed": 111.6,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Eric Young Jr.  Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 229,
+    "launch_speed": 87.1,
+    "launch_angle": 17,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (22) on a fly ball to right center field.    Aaron Hicks scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 438,
+    "launch_speed": 112.5,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (11) on a sharp line drive to left fielder Trey Mancini.   Aaron Hicks to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 194,
+    "launch_speed": 100.1,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (20) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 495,
+    "launch_speed": 118.6,
+    "launch_angle": 28,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (21) on a line drive to center field.   Aaron Hicks scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 402,
+    "launch_speed": 111.8,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a soft line drive to right fielder Seth Smith.   Brett Gardner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 141,
+    "launch_speed": 70.3,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (10) on a sharp line drive to left fielder Trey Mancini.   Brett Gardner scores.    Aaron Hicks scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 261,
+    "launch_speed": 116.3,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (19) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 382,
+    "launch_speed": 121.1,
+    "launch_angle": 25,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Jackie Bradley Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 180,
+    "launch_speed": 98.2,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Andrew Benintendi.   Aaron Hicks to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 195,
+    "launch_speed": 90.5,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (9) on a sharp line drive to center fielder Jackie Bradley Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 364,
+    "launch_speed": 114.3,
+    "launch_angle": 14,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jose Bautista.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 184,
+    "launch_speed": 72.8,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (8) on a sharp line drive to center fielder Kevin Pillar.   Aaron Hicks scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 380,
+    "launch_speed": 116.2,
+    "launch_angle": 15,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (18) on a fly ball to right center field.    Gary Sanchez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 403,
+    "launch_speed": 112,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Adam Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 231,
+    "launch_speed": 117.3,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (7) on a sharp line drive to right fielder Seth Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 225,
+    "launch_speed": 112.1,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Joey Rickard.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 228,
+    "launch_speed": 87,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (6) on a sharp line drive to right fielder Seth Smith.   Gary Sanchez scores.    Starlin Castro scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 371,
+    "launch_speed": 112.9,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (17) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 431,
+    "launch_speed": 111.6,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge hits a grand slam (16) to center field.   Ronald Torreyes scores.    Gary Sanchez scores.    Matt Holliday scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 378,
+    "launch_speed": 112.2,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a fly ball to right fielder Matt Joyce.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 189,
+    "launch_speed": 67.7,
+    "launch_angle": 44,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Khris Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 150,
+    "launch_speed": 100.2,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jorge Soler.   Matt Holliday to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 258,
+    "launch_speed": 89.5,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (5) on a sharp line drive to left fielder Colby Rasmus.   Starlin Castro to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 145,
+    "launch_speed": 113.4,
+    "launch_angle": 7,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (15) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 392,
+    "launch_speed": 110.5,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Lorenzo Cain.   Aaron Judge to 2nd.  Aaron Judge advances to 2nd, on a fielding error by center fielder Lorenzo Cain.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 270,
+    "launch_speed": 108,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Alex Gordon.   Starlin Castro to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 258,
+    "launch_speed": 114.5,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (14) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 441,
+    "launch_speed": 109.7,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Jake Marisnick.   Starlin Castro scores.    Aaron Judge to 3rd.  Fielding error by left fielder Jake Marisnick.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 212,
+    "launch_speed": 111.7,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (4) on a sharp line drive to left fielder Jake Marisnick.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 352,
+    "launch_speed": 114.9,
+    "launch_angle": 16,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a soft line drive to right fielder Patrick Kivlehan.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 237,
+    "launch_speed": 80.6,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "triple",
+    "des": "Aaron Judge triples (2) on a fly ball to center fielder Jon Jay.   Starlin Castro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 402,
+    "launch_speed": 105.5,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (3) on a line drive to center fielder Jon Jay.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 227,
+    "launch_speed": 119,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (13) on a fly ball to center field.   Starlin Castro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 435,
+    "launch_speed": 112.5,
+    "launch_angle": 31,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to left fielder Steve Pearce.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 233,
+    "launch_speed": 80.1,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (11) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 337,
+    "launch_speed": 99,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (12) on a fly ball to left center field.   Starlin Castro scores.    Didi Gregorius scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 384,
+    "launch_speed": 108.8,
+    "launch_angle": 39,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jose Bautista.   Starlin Castro scores.    Jacoby Ellsbury to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 248,
+    "launch_speed": 83.1,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Hyun Soo Kim.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 200,
+    "launch_speed": 110.7,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (10) on a fly ball to center field.   Didi Gregorius scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 391,
+    "launch_speed": 110.5,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (9) on a line drive to center field.   Starlin Castro scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 435,
+    "launch_speed": 119.4,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (8) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 417,
+    "launch_speed": 113.5,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (7) on a fly ball to center field.   Starlin Castro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": "",
+    "launch_speed": 109.7,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to right fielder Jose Osuna.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 224,
+    "launch_speed": 90.5,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (2) on a sharp line drive to center fielder Andrew McCutchen.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 373,
+    "launch_speed": 104.9,
+    "launch_angle": 20,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (6) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 457,
+    "launch_speed": 115.6,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Andrew McCutchen.   Jacoby Ellsbury to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 196,
+    "launch_speed": 99.8,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (5) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 448,
+    "launch_speed": 115.5,
+    "launch_angle": 30,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to right fielder Avisail Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 214,
+    "launch_speed": 107.5,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (4) on a fly ball to left center field.   Starlin Castro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 385,
+    "launch_speed": 100.3,
+    "launch_angle": 30,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "triple",
+    "des": "Umpire reviewed (home run), call on the field was upheld: Aaron Judge triples (1), on fan interference.   Chase Headley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 377,
+    "launch_speed": 101.2,
+    "launch_angle": 27,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (3) on a fly ball to center field.   Chris Carter scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 437,
+    "launch_speed": 108.6,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to center fielder Kevin Kiermaier.   Starlin Castro scores.    Chase Headley to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 162,
+    "launch_speed": 116.5,
+    "launch_angle": 5,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (2) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 397,
+    "launch_speed": 109,
+    "launch_angle": 38,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "home_run",
+    "des": "Aaron Judge homers (1) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 376,
+    "launch_speed": 99.9,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a sharp line drive to left fielder Craig Gentry.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 340,
+    "launch_speed": 115.9,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "single",
+    "des": "Aaron Judge singles on a line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 266,
+    "launch_speed": 85.5,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Judge, Aaron",
+    "events": "double",
+    "des": "Aaron Judge doubles (1) on a line drive to left fielder Mallex Smith.   Starlin Castro scores.    Chase Headley to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 305,
+    "launch_speed": 90.3,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}]

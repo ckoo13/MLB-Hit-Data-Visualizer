@@ -1,0 +1,3721 @@
+[{
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Jake McCarthy.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 224,
+    "launch_speed": 109.3,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (20) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 387,
+    "launch_speed": 99.8,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Adam Duvall.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 243,
+    "launch_speed": 91.1,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Michael Harris II.  Luis Garcia out at home on the throw, center fielder Michael Harris II to catcher Travis d'Arnaud.   Josh Bell to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 283,
+    "launch_speed": 108.9,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (17) on a sharp line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 249,
+    "launch_speed": 108.2,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (18) on a fly ball to left center field.   Lane Thomas scores.    Luis Garcia scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 395,
+    "launch_speed": 104.1,
+    "launch_angle": 28,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (19) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 444,
+    "launch_speed": 112.3,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (17) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 400,
+    "launch_speed": 106.6,
+    "launch_angle": 26,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Ronald Acuna Jr.  Lane Thomas to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 288,
+    "launch_speed": 83.7,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (16) on a fly ball to center field.   Lane Thomas scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 418,
+    "launch_speed": 106.6,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 251,
+    "launch_speed": 98.2,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Nick Castellanos.   Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 267,
+    "launch_speed": 106.8,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Kyle Schwarber.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 216,
+    "launch_speed": 80.6,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Odubel Herrera.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 216,
+    "launch_speed": 82.6,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (15) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 364,
+    "launch_speed": 101.9,
+    "launch_angle": 33,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (16) on a line drive to right fielder Avisail Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 102,
+    "launch_speed": 103,
+    "launch_angle": 5,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (15) on a sharp line drive to right fielder Bligh Madris.   Ehire Adrianza scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 275,
+    "launch_speed": 106.1,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder Jack Suwinski.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 222,
+    "launch_speed": 101,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to left fielder Brad Miller.   Cesar Hernandez to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 216,
+    "launch_speed": 69.5,
+    "launch_angle": 41,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (14) on a sharp line drive to center fielder Leody Taveras.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 411,
+    "launch_speed": 109.4,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (13) on a sharp line drive to center fielder Adolis Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 382,
+    "launch_speed": 109.8,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (14) on a fly ball to right center field.    Maikel Franco scores.    Yadiel Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 428,
+    "launch_speed": 109.6,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (13) on a fly ball to center field.   Lane Thomas scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 406,
+    "launch_speed": 104.4,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Andrew McCutchen.   Lane Thomas scores.    Cesar Hernandez to 3rd.    Juan Soto to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 216,
+    "launch_speed": 75.9,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder Bryan De La Cruz.   Victor Robles scores.    Lane Thomas scores.    Ehire Adrianza to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 245,
+    "launch_speed": 106,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (12) on a fly ball to left fielder Jorge Soler.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 359,
+    "launch_speed": 97.4,
+    "launch_angle": 32,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (11) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 423,
+    "launch_speed": 110,
+    "launch_angle": 29,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (12) on a fly ball to right center field.    Cesar Hernandez scores.    Lane Thomas scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 419,
+    "launch_speed": 109.8,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (10) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 400,
+    "launch_speed": 110.3,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (11) on a sharp line drive to center fielder Mark Canha.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 278,
+    "launch_speed": 102.4,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (9) on a fly ball to left center field.   Lane Thomas scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 399,
+    "launch_speed": 103.4,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (10) on a fly ball to right fielder Randal Grichuk.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 350,
+    "launch_speed": 98.1,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (9) on a fly ball to left-center field.   Cesar Hernandez to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 365,
+    "launch_speed": 98.8,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Tyrone Taylor.   Cesar Hernandez scores.    Keibert Ruiz scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 56,
+    "launch_speed": 101.2,
+    "launch_angle": 1,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (8) on a line drive to right fielder Hunter Renfroe.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 234,
+    "launch_speed": 94.4,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (7) on a sharp fly ball to right fielder Kyle Tucker.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 360,
+    "launch_speed": 103.7,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Chas McCormick.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 197,
+    "launch_speed": 103.6,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (6) on a sharp fly ball to right fielder Starling Marte.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 393,
+    "launch_speed": 100.7,
+    "launch_angle": 26,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (8) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 394,
+    "launch_speed": 105.8,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (7) on a fly ball to right center field.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 411,
+    "launch_speed": 107.8,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Taylor Ward.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 212,
+    "launch_speed": 108.5,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (5) on a sharp line drive to left fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 368,
+    "launch_speed": 105.3,
+    "launch_angle": 22,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (6) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 411,
+    "launch_speed": 102,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (5) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 414,
+    "launch_speed": 104.3,
+    "launch_angle": 29,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Luis Gonzalez.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 220,
+    "launch_speed": 95.1,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Luis Gonzalez.   Cesar Hernandez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 75,
+    "launch_speed": 102.3,
+    "launch_angle": 4,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (4) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 409,
+    "launch_speed": 108.3,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Luis Gonzalez.   Alcides Escobar scores.    Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 363,
+    "launch_speed": 111.7,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a pop up to second baseman Jazz Chisholm Jr.  Cesar Hernandez to 3rd.",
+    "bb_type": "popup",
+    "game_year": 2022,
+    "hit_distance_sc": 106,
+    "launch_speed": 95.6,
+    "launch_angle": 67,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (4) on a sharp fly ball to center fielder Jesus Sanchez.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 390,
+    "launch_speed": 107.1,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Nationals challenged (tag play), call on the field was upheld: Juan Soto doubles (3) on a sharp fly ball to center fielder Mauricio Dubon.  Juan Soto out at 3rd on the throw, center fielder Mauricio Dubon to third baseman Wilmer Flores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 385,
+    "launch_speed": 103.3,
+    "launch_angle": 35,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Daulton Varsho.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 256,
+    "launch_speed": 99.4,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (3) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 382,
+    "launch_speed": 108.4,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Bryan Reynolds.   Cesar Hernandez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 249,
+    "launch_speed": 82.7,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Eddie Rosario.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 370,
+    "launch_speed": 107.8,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (2) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 451,
+    "launch_speed": 112.5,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Marcell Ozuna.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 249,
+    "launch_speed": 91.2,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Brandon Nimmo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 233,
+    "launch_speed": 110.5,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (1) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 428,
+    "launch_speed": 111,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 196,
+    "launch_speed": 103.6,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Nick Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 255,
+    "launch_speed": 78.3,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (28) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 368,
+    "launch_speed": 104.2,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (29) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 348,
+    "launch_speed": 98.8,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (27) on a fly ball to right field.    Alcides Escobar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 387,
+    "launch_speed": 104.8,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder Lewis Brinson.   Lane Thomas scores.    Alcides Escobar to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 290,
+    "launch_speed": 102.2,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (20) on a sharp line drive to right fielder Jesus Sanchez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 267,
+    "launch_speed": 116.5,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (19) on a sharp line drive to right fielder Jesus Sanchez.   Alcides Escobar scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 203,
+    "launch_speed": 112.8,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Lewis Brinson.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 261,
+    "launch_speed": 77.1,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Bryan De La Cruz.   Alcides Escobar to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 227,
+    "launch_speed": 97.8,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (26) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 454,
+    "launch_speed": 111.9,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (18) on a sharp line drive to left fielder Ryan Vilade.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 313,
+    "launch_speed": 104.9,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Bryan De La Cruz.   Alcides Escobar to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 185,
+    "launch_speed": 90.1,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Jesus Sanchez.   Lane Thomas scores.    Juan Soto to 3rd.  Juan Soto advances to 3rd, on a throwing error by right fielder Jesus Sanchez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 147,
+    "launch_speed": 76,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Lewis Brinson.   Jordy Mercer scores.    Lane Thomas to 3rd.  Fielding error by center fielder Lewis Brinson.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 296,
+    "launch_speed": 99.3,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "triple",
+    "des": "Juan Soto triples (2) on a fly ball to center fielder Bryan Reynolds, deflected by right fielder Ben Gamel.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 365,
+    "launch_speed": 92.8,
+    "launch_angle": 25,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (17) on a line drive down the left-field line.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 304,
+    "launch_speed": 95.8,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Yoshi Tsutsugo.   Alcides Escobar scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 258,
+    "launch_speed": 111.6,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Adam Duvall.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 166,
+    "launch_speed": 90.4,
+    "launch_angle": 9,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (25) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 432,
+    "launch_speed": 109.3,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Jorge Soler.   Lane Thomas scores.    Alcides Escobar to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 204,
+    "launch_speed": 112.1,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (24) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 349,
+    "launch_speed": 97.4,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (23) on a fly ball to center field.   Alcides Escobar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 412,
+    "launch_speed": 107.1,
+    "launch_angle": 29,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Bryce Harper.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 227,
+    "launch_speed": 113.7,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (16) on a line drive to center fielder Odubel Herrera.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 345,
+    "launch_speed": 96.1,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (22) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 401,
+    "launch_speed": 103.5,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to left fielder Jeff McNeil.   Alcides Escobar to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 193,
+    "launch_speed": 66.7,
+    "launch_angle": 32,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (21) on a fly ball to center field.   Alcides Escobar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 433,
+    "launch_speed": 114.1,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Lewis Brinson.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 261,
+    "launch_speed": 89.2,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to left fielder Christian Yelich.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 245,
+    "launch_speed": 73.9,
+    "launch_angle": 39,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Avisail Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 190,
+    "launch_speed": 107.9,
+    "launch_angle": 9,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (20) on a line drive to left field.   Victor Robles scores.    Alcides Escobar scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 386,
+    "launch_speed": 109.5,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (15) on a sharp line drive to center fielder Randal Grichuk.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 229,
+    "launch_speed": 116.6,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (14) on a sharp fly ball to right fielder Jorge Soler.   Victor Robles to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 378,
+    "launch_speed": 100.2,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Joc Pederson.   Victor Robles scores.    Alcides Escobar to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 315,
+    "launch_speed": 109.6,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (19) on a line drive to left center field.   Victor Robles scores.    Alcides Escobar scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 396,
+    "launch_speed": 106.7,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (13) on a fly ball to right fielder Bryce Harper.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 386,
+    "launch_speed": 105.7,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to left fielder Odubel Herrera.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 201,
+    "launch_speed": 65.5,
+    "launch_angle": 39,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Bryce Harper.   Adrian Sanchez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 282,
+    "launch_speed": 111.8,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Odubel Herrera.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 179,
+    "launch_speed": 92.6,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (12) on a sharp line drive to center fielder Rafael Ortega.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 284,
+    "launch_speed": 106.4,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Odubel Herrera.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 291,
+    "launch_speed": 107.8,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (18) on a fly ball to left center field.   Victor Robles scores.    Gerardo Parra scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 424,
+    "launch_speed": 108.8,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (17) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 398,
+    "launch_speed": 105.2,
+    "launch_angle": 30,
+    "pitch_name": ""
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (15) on a fly ball to left field.   Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 105.4,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (16) on a fly ball to center field.   Alcides Escobar scores.    Jordy Mercer scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 393,
+    "launch_speed": 102.4,
+    "launch_angle": 24,
+    "pitch_name": "Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (11) on a sharp line drive to left fielder Lewis Brinson.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 273,
+    "launch_speed": 104.4,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (14) on a fly ball to left field.   Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 362,
+    "launch_speed": 99.7,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Brian O'Grady.  Juan Soto out at 2nd on the throw, center fielder Brian O'Grady to second baseman Jurickson Profar.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 226,
+    "launch_speed": 107.1,
+    "launch_angle": 11,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (12) on a fly ball to right center field.    Alcides Escobar scores.    Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 407,
+    "launch_speed": 106.7,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (13) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 427,
+    "launch_speed": 108.4,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Steven Duggar.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 195,
+    "launch_speed": 106.5,
+    "launch_angle": 9,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (11) on a line drive to left center field.   Alcides Escobar scores.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 382,
+    "launch_speed": 106.1,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (10) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 388,
+    "launch_speed": 107.1,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Cody Bellinger.   Josh Harrison to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 234,
+    "launch_speed": 79.7,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Cody Bellinger.   Kyle Schwarber scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 244,
+    "launch_speed": 87.2,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (9) on a line drive to right field.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 378,
+    "launch_speed": 113.4,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (9) on a sharp line drive to right fielder Billy McKinney.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 387,
+    "launch_speed": 101.7,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (8) on a sharp line drive to left fielder Jesus Sanchez.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 343,
+    "launch_speed": 107.1,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (6) on a sharp line drive to center fielder Starling Marte.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 252,
+    "launch_speed": 111.1,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (7) on a sharp line drive to right fielder Jon Berti.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 291,
+    "launch_speed": 104.5,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Bryce Harper.   Trea Turner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 188,
+    "launch_speed": 80.5,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Billy McKinney.   Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 184,
+    "launch_speed": 101.4,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (5) on a sharp line drive to center fielder Albert Almora.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 300,
+    "launch_speed": 108.9,
+    "launch_angle": 14,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Kevin Pillar.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 189,
+    "launch_speed": 102.7,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Billy McKinney.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 221,
+    "launch_speed": 79,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Gregory Polanco.   Kyle Schwarber to 3rd.    Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 246,
+    "launch_speed": 83.9,
+    "launch_angle": 20,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Bryan Reynolds.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 140,
+    "launch_speed": 84,
+    "launch_angle": 9,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (8) on a line drive to center field.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 423,
+    "launch_speed": 110.3,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "triple",
+    "des": "Juan Soto triples (1) on a sharp fly ball to right fielder Bryce Harper.   Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 402,
+    "launch_speed": 102.8,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (7) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 397,
+    "launch_speed": 108.2,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (6) on a fly ball to center field.   Josh Harrison scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 437,
+    "launch_speed": 109.7,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Abraham Almonte.   Austin Voth scores.    Josh Harrison scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 245,
+    "launch_speed": 93.7,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Guillermo Heredia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 228,
+    "launch_speed": 83.7,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (5) on a fly ball to center field.   Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 409,
+    "launch_speed": 106.5,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder Abraham Almonte.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 186,
+    "launch_speed": 101.2,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Shogo Akiyama.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 236,
+    "launch_speed": 110.1,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Jesse Winker.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 183,
+    "launch_speed": 67.8,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Anthony Santander.   Trea Turner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 235,
+    "launch_speed": 98.3,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (4) on a sharp line drive to right fielder Anthony Santander.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 353,
+    "launch_speed": 102.8,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Austin Hays.   Yadiel Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 199,
+    "launch_speed": 72.9,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (4) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 421,
+    "launch_speed": 107.1,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Joc Pederson.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 212,
+    "launch_speed": 99,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ian Happ.   Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 179,
+    "launch_speed": 107.6,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Odubel Herrera.   Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 163,
+    "launch_speed": 105.4,
+    "launch_angle": 7,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (3) on a fly ball to center field.   Josh Harrison scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 424,
+    "launch_speed": 110.2,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Aaron Judge.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 183,
+    "launch_speed": 79.6,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (2) on a sharp line drive to right fielder Tommy Edman.   Andrew Stevenson to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 370,
+    "launch_speed": 112.7,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Tim Locastro.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 278,
+    "launch_speed": 101.7,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder Andrew Young.   Juan Soto to 2nd.  Juan Soto advances to 2nd, on a fielding error by left fielder Andrew Young.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 281,
+    "launch_speed": 108.1,
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Lane Thomas.   Trea Turner scores.    Juan Soto to 3rd.  Fielding error by center fielder Lane Thomas.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 225,
+    "launch_speed": 92.3,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (1) on a sharp line drive to right fielder Tommy Edman.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 381,
+    "launch_speed": 113.2,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Tommy Edman.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 210,
+    "launch_speed": 105.8,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Tommy Edman.   Victor Robles scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 168,
+    "launch_speed": 108.4,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (1) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 407,
+    "launch_speed": 109.5,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (2) on a line drive to right field.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 360,
+    "launch_speed": 106.6,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Chris Taylor.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 265,
+    "launch_speed": 105,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Cristian Pache.   Victor Robles scores.    Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 244,
+    "launch_speed": 115.3,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (14) on a line drive to left-center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 366,
+    "launch_speed": 113.3,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (13) on a sharp line drive to center fielder Guillermo Heredia.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 315,
+    "launch_speed": 107.5,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (13) on a fly ball to left center field.   Josh Harrison scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 384,
+    "launch_speed": 105.1,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (12) on a fly ball to left center field.   Andrew Stevenson scores.    Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 397,
+    "launch_speed": 106,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (12) on a line drive to center field.   Trea Turner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 369,
+    "launch_speed": 103.8,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Corey Dickerson.   Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 222,
+    "launch_speed": 87,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (11) on a sharp line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 398,
+    "launch_speed": 103.4,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (10) on a sharp line drive to center fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 188,
+    "launch_speed": 105,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Adam Duvall.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 279,
+    "launch_speed": 91.4,
+    "launch_angle": 17,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (9) on a sharp line drive to right fielder Nick Markakis.   Adam Eaton scores.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 343,
+    "launch_speed": 110.3,
+    "launch_angle": 19,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Roman Quinn.   Victor Robles scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 261,
+    "launch_speed": 88.9,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (7) on a sharp line drive to center fielder Roman Quinn.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 227,
+    "launch_speed": 111,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (10) on a fly ball to left center field.   Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 408,
+    "launch_speed": 109.1,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (11) on a fly ball to center field.   Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 409,
+    "launch_speed": 105.6,
+    "launch_angle": 25,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (9) on a fly ball to right center field.    Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 395,
+    "launch_speed": 97.8,
+    "launch_angle": 34,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (8) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 415,
+    "launch_speed": 106.8,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Jesus Sanchez.   Adam Eaton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 250,
+    "launch_speed": 110.3,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (6) on a line drive to right field.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 327,
+    "launch_speed": 107.8,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Lewis Brinson.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 224,
+    "launch_speed": 107.2,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (4) on a sharp line drive to center fielder Ender Inciarte.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 266,
+    "launch_speed": 107.1,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (7) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 445,
+    "launch_speed": 110,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (6) on a fly ball to center field.   Adam Eaton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 417,
+    "launch_speed": 106.2,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Austin Hays, deflected by pitcher Tommy Milone.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 137,
+    "launch_speed": 106.8,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to center fielder Austin Hays.   Trea Turner scores.    Adam Eaton to 3rd.    Asdrubal Cabrera to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 212,
+    "launch_speed": 98.8,
+    "launch_angle": 59,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (5) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 435,
+    "launch_speed": 109.3,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Billy Hamilton.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 258,
+    "launch_speed": 94.8,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (3) on a fly ball to right field.    Trea Turner scores.    Adam Eaton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 466,
+    "launch_speed": 112.9,
+    "launch_angle": 33,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (4) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 403,
+    "launch_speed": 102.6,
+    "launch_angle": 27,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (3) on a fly ball to right-center field.   Trea Turner scores.    Starlin Castro to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 373,
+    "launch_speed": 94.5,
+    "launch_angle": 28,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (2) on a fly ball to center field.   Starlin Castro scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 463,
+    "launch_speed": 108.6,
+    "launch_angle": 32,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Michael Conforto.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 255,
+    "launch_speed": 109.4,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (2) on a sharp line drive to left fielder Dwight Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 361,
+    "launch_speed": 107.2,
+    "launch_angle": 18,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Austin Hays.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 252,
+    "launch_speed": 102.3,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (1) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 370,
+    "launch_speed": 99.7,
+    "launch_angle": 39,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Michael Conforto.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 276,
+    "launch_speed": 98.2,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (1) on a sharp line drive to left fielder Brandon Nimmo.   Adam Eaton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 212,
+    "launch_speed": 101.1,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (32) on a sharp line drive to right fielder Franmil Reyes.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 381,
+    "launch_speed": 110,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (31) on a sharp line drive to center fielder Bradley Zimmer.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 302,
+    "launch_speed": 105.3,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Scott Kingery.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 212,
+    "launch_speed": 91,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Cardinals challenged (tag play), call on the field was upheld: Juan Soto doubles (30) on a sharp line drive to center fielder Harrison Bader.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 289,
+    "launch_speed": 100.7,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (29) on a sharp line drive to left fielder Nick Markakis.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 380,
+    "launch_speed": 106.3,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (34) on a line drive to left field.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 376,
+    "launch_speed": 105.1,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (33) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 370,
+    "launch_speed": 102.3,
+    "launch_angle": 37,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (28) on a sharp line drive to center fielder Billy Hamilton.   Trea Turner scores.    Adam Eaton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 338,
+    "launch_speed": 100.5,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (32) on a fly ball to center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 443,
+    "launch_speed": 108.9,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (27) on a sharp line drive to center fielder Brandon Nimmo.   Asdrubal Cabrera scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 273,
+    "launch_speed": 101.4,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (26) on a sharp line drive to center fielder Lewis Brinson.   Victor Robles scores.    Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 383,
+    "launch_speed": 103.8,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (31) on a fly ball to right field.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 376,
+    "launch_speed": 105.7,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (25) on a sharp line drive to right fielder Harold Ramirez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 220,
+    "launch_speed": 104.9,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (24) on a sharp line drive to right fielder Harold Ramirez.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 215,
+    "launch_speed": 108.6,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (30) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 407,
+    "launch_speed": 106.5,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (22) on a sharp line drive to center fielder Lewis Brinson.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 210,
+    "launch_speed": 107.8,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (23) on a sharp line drive to right fielder Curtis Granderson.   Max Scherzer scores.    Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 341,
+    "launch_speed": 101.9,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "triple",
+    "des": "Juan Soto triples (5) on a sharp fly ball to center fielder Anthony Santander.   Gerardo Parra scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 409,
+    "launch_speed": 104.3,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (21) on a line drive to right fielder Nicholas Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 171,
+    "launch_speed": 88.5,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Nicholas Castellanos.   Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 176,
+    "launch_speed": 108.5,
+    "launch_angle": 10,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (29) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 412,
+    "launch_speed": 103.7,
+    "launch_angle": 26,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (19) on a line drive to center fielder Starling Marte.   Adam Eaton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 284,
+    "launch_speed": 99,
+    "launch_angle": 15,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to left fielder Bryan Reynolds.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 222,
+    "launch_speed": 68.5,
+    "launch_angle": 37,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (20) on a sharp fly ball to left fielder Bryan Reynolds.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 382,
+    "launch_speed": 103.5,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (28) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 367,
+    "launch_speed": 97.7,
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (27) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 360,
+    "launch_speed": 98.3,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (26) on a fly ball to left field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 373,
+    "launch_speed": 101.7,
+    "launch_angle": 32,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Jesse Winker.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 275,
+    "launch_speed": 95.9,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Phillip Ervin.   Adam Eaton scores.    Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 251,
+    "launch_speed": 93.5,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (25) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 409,
+    "launch_speed": 107.5,
+    "launch_angle": 37,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (23) on a fly ball to center field.   Adam Eaton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 412,
+    "launch_speed": 100.8,
+    "launch_angle": 29,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (24) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 437,
+    "launch_speed": 111.8,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (18) on a line drive to right fielder Jeff McNeil.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 200,
+    "launch_speed": 80.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (22) on a fly ball to right center field.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 415,
+    "launch_speed": 104.8,
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (17) on a sharp line drive to center fielder Jarrod Dyson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 414,
+    "launch_speed": 108,
+    "launch_angle": 20,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (21) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 366,
+    "launch_speed": 104.7,
+    "launch_angle": 43,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Ronald Acuna.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 256,
+    "launch_speed": 84.4,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (20) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 422,
+    "launch_speed": 105.4,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (19) on a fly ball to center field.   Adam Eaton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 437,
+    "launch_speed": 109.2,
+    "launch_angle": 28,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Ronald Acuna.   Adam Eaton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 209,
+    "launch_speed": 107.9,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (18) on a fly ball to left center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 402,
+    "launch_speed": 104.2,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder A.  J. Pollock.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 194,
+    "launch_speed": 88.1,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (16) on a sharp line drive to right fielder Charlie Blackmon.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 200,
+    "launch_speed": 106.1,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Ian Desmond.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 192,
+    "launch_speed": 83.7,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Nick Markakis, deflected by second baseman Ozzie Albies.   Adam Eaton scores.    Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 169,
+    "launch_speed": 112.8,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (17) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 443,
+    "launch_speed": 111.3,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (16) on a fly ball to left center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 420,
+    "launch_speed": 108.5,
+    "launch_angle": 25,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Roman Quinn.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 270,
+    "launch_speed": 77.7,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Billy Hamilton.   Adam Eaton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 161,
+    "launch_speed": 102.8,
+    "launch_angle": 8,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Whit Merrifield.   Trea Turner scores.  Adam Eaton out at home on the throw, center fielder Whit Merrifield to shortstop Adalberto Mondesi to catcher Cam Gallagher.   Juan Soto to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 291,
+    "launch_speed": 109.2,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Jorge Soler.   Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 227,
+    "launch_speed": 102.8,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Whit Merrifield.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 271,
+    "launch_speed": 102.9,
+    "launch_angle": 17,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder JT Riddle.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 250,
+    "launch_speed": 109.2,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "triple",
+    "des": "Juan Soto triples (4) on a line drive to right fielder Yadiel Rivera.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 274,
+    "launch_speed": 91.7,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (15) on a fly ball to right center field.    Trea Turner scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 384,
+    "launch_speed": 95.8,
+    "launch_angle": 28,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (14) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 418,
+    "launch_speed": 109.4,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (13) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 387,
+    "launch_speed": 107.4,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (12) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 385,
+    "launch_speed": 102.4,
+    "launch_angle": 37,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ronald Acuna.   Trea Turner scores.  Juan Soto out at 2nd on the throw, center fielder Ronald Acuna to second baseman Ozzie Albies.   Adam Eaton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 321,
+    "launch_speed": 97.2,
+    "launch_angle": 19,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ronald Acuna.   Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 152,
+    "launch_speed": 81.6,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (15) on a sharp line drive to center fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 347,
+    "launch_speed": 106.8,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (14) on a sharp line drive to left fielder Jay Bruce.   Anthony Rendon scores.  Juan Soto out at 3rd, pitcher Nick Pivetta to third baseman Maikel Franco.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 257,
+    "launch_speed": 102.4,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Jay Bruce.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 229,
+    "launch_speed": 94.4,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Bryce Harper.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 239,
+    "launch_speed": 95.7,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Jarrod Dyson, deflected by second baseman Ildemaro Vargas.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 160,
+    "launch_speed": 83,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (11) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 399,
+    "launch_speed": 101.2,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder David Peralta.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 185,
+    "launch_speed": 83.3,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Leury Garcia.   Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 256,
+    "launch_speed": 106.2,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to center fielder Wil Myers.   Adam Eaton to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 245,
+    "launch_speed": 72.8,
+    "launch_angle": 33,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Charlie Tilson.   Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 240,
+    "launch_speed": 91.1,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (13) on a sharp line drive to right fielder Charlie Tilson.   Adam Eaton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 345,
+    "launch_speed": 105.1,
+    "launch_angle": 22,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (10) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 409,
+    "launch_speed": 107.4,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (12) on a fly ball to left fielder Jose Peraza.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 351,
+    "launch_speed": 97.7,
+    "launch_angle": 38,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (9) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 396,
+    "launch_speed": 103.9,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (11) on a line drive to right fielder Garrett Cooper.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 171,
+    "launch_speed": 99,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Garrett Cooper.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 235,
+    "launch_speed": 83.9,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Garrett Cooper.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 171,
+    "launch_speed": 87.1,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Garrett Cooper.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 283,
+    "launch_speed": 96.3,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (8) on a fly ball to center field.   Adam Eaton scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 399,
+    "launch_speed": 103,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Carlos Gomez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 249,
+    "launch_speed": 101.9,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "triple",
+    "des": "Juan Soto triples (1) on a sharp fly ball to center fielder Juan Lagares.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 393,
+    "launch_speed": 106.4,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 410,
+    "launch_speed": 109.1,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (9) on a line drive to right fielder Jeff McNeil.   Trea Turner scores.    Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 173,
+    "launch_speed": 97.9,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Juan Lagares.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 269,
+    "launch_speed": 82,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (8) on a sharp line drive to right fielder Jason Heyward.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 382,
+    "launch_speed": 103.5,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (6) on a line drive to right fielder Jason Heyward.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 286,
+    "launch_speed": 90.9,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Juan Lagares.   Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 268,
+    "launch_speed": 107.3,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Joc Pederson.   Wilmer Difo scores.    Michael A.   Taylor to 3rd.    Victor Robles to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 243,
+    "launch_speed": 95.9,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder Marcell Ozuna.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 164,
+    "launch_speed": 103.1,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (6) on a fly ball to center field.   Victor Robles scores.    Brian Dozier scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 403,
+    "launch_speed": 104.7,
+    "launch_angle": 31,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Wil Myers.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 277,
+    "launch_speed": 94.3,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (5) on a fly ball to right center field.    Victor Robles scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 414,
+    "launch_speed": 110.5,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Manuel Margot.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 195,
+    "launch_speed": 100.9,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (4) on a fly ball to right center field.    Victor Robles scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 400,
+    "launch_speed": 96.1,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 250,
+    "launch_speed": 99.2,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to left fielder David Dahl.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 269,
+    "launch_speed": 100.3,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Curtis Granderson.   Adam Eaton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 192,
+    "launch_speed": 72,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (5) on a line drive to left fielder Brandon Belt.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 371,
+    "launch_speed": 102.7,
+    "launch_angle": 23,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Steven Duggar.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 197,
+    "launch_speed": 88.6,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (3) on a fly ball to right field.    Adam Eaton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 394,
+    "launch_speed": 111.6,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (4) on a line drive to center fielder Starling Marte.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 278,
+    "launch_speed": 99.9,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Umpire reviewed (home run), call on the field was upheld: Juan Soto homers (2) on a fly ball to right field.    Brian Dozier scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 432,
+    "launch_speed": 112.7,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (3) on a sharp line drive to right fielder Bryce Harper.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 297,
+    "launch_speed": 110.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Michael Conforto.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 196,
+    "launch_speed": 98.2,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (1) on a fly ball to center field.   Adam Eaton scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 426,
+    "launch_speed": 103.9,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a fly ball to left fielder Andrew McCutchen.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 244,
+    "launch_speed": 73.3,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (22) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 440,
+    "launch_speed": 107.3,
+    "launch_angle": 25,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (25) on a sharp line drive to left fielder David Dahl.   Adam Eaton scores.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 325,
+    "launch_speed": 104,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (24) on a line drive to left fielder Rafael Ortega.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 220,
+    "launch_speed": 92.7,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (21) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 400,
+    "launch_speed": 107.7,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (23) on a sharp line drive to right fielder Brandon Nimmo.   Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 381,
+    "launch_speed": 109.4,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ender Inciarte.   Bryce Harper scores.    Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 239,
+    "launch_speed": 91.7,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (20) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 392,
+    "launch_speed": 102.7,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (19) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 401,
+    "launch_speed": 103,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (17) on a fly ball to right center field.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 415,
+    "launch_speed": 108.5,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (22) on a sharp line drive to right fielder Nick Williams.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 323,
+    "launch_speed": 101,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Nick Williams.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 198,
+    "launch_speed": 87.7,
+    "launch_angle": 15,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (18) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 402,
+    "launch_speed": 104.3,
+    "launch_angle": 32,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Ben Zobrist.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 205,
+    "launch_speed": 93.3,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (21) on a line drive to right fielder Ben Zobrist.   Bryce Harper to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 219,
+    "launch_speed": 98.6,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Marcell Ozuna.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 232,
+    "launch_speed": 92.7,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Keon Broxton.   Adam Eaton scores.    Bryce Harper to 3rd.    Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 254,
+    "launch_speed": 103.8,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Christian Yelich.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 199,
+    "launch_speed": 106.5,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (20) on a sharp line drive to right fielder Christian Yelich.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 278,
+    "launch_speed": 113.7,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Christian Yelich.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 274,
+    "launch_speed": 106.8,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (16) on a fly ball to left field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 369,
+    "launch_speed": 102.8,
+    "launch_angle": 38,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (19) on a sharp line drive to center fielder Roman Quinn.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 229,
+    "launch_speed": 105.8,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Jose Bautista.   Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 201,
+    "launch_speed": 94,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (18) on a sharp line drive to right fielder Nick Williams.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 196,
+    "launch_speed": 103.4,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (15) on a fly ball to left field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 372,
+    "launch_speed": 100.5,
+    "launch_angle": 34,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Jason Heyward.   Trea Turner scores.    Anthony Rendon to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 231,
+    "launch_speed": 86.7,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ender Inciarte.   Jefry Rodriguez scores.    Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 200,
+    "launch_speed": 89.3,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (14) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 386,
+    "launch_speed": 104.7,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (15) on a line drive to left-center field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 363,
+    "launch_speed": 101,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (16) on a sharp line drive to center fielder Billy Hamilton.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 404,
+    "launch_speed": 109.6,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (14) on a line drive to right fielder Brandon Nimmo.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 260,
+    "launch_speed": 88.5,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Cameron Maybin.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 244,
+    "launch_speed": 100.9,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Cameron Maybin.   Juan Soto to 2nd.  Juan Soto advances to 2nd, on a fielding error by center fielder Cameron Maybin.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 300,
+    "launch_speed": 107.1,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "triple",
+    "des": "Juan Soto triples (1) on a sharp line drive to center fielder Cameron Maybin.   Bryce Harper scores.    Matt Adams scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 305,
+    "launch_speed": 105.8,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (13) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 420,
+    "launch_speed": 104.3,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (12) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 391,
+    "launch_speed": 110,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (11) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 415,
+    "launch_speed": 102.1,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ender Inciarte.   Anthony Rendon to 3rd.    Juan Soto to 2nd.  Juan Soto advances to 2nd, on a throwing error by center fielder Ender Inciarte.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 274,
+    "launch_speed": 80.3,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (13) on a line drive to left fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 313,
+    "launch_speed": 92.7,
+    "launch_angle": 25,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (12) on a line drive to left fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 226,
+    "launch_speed": 106.6,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (10) on a fly ball to left center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 408,
+    "launch_speed": 104.8,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to right fielder Brandon Nimmo.   Adam Eaton to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 225,
+    "launch_speed": 102.1,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Michael Conforto.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 214,
+    "launch_speed": 79.6,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (9) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 368,
+    "launch_speed": 108.5,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Yadiel Rivera.   Trea Turner to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 257,
+    "launch_speed": 90.3,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (11) on a sharp line drive to right fielder Garrett Cooper.   Wilmer Difo scores.    Matt Adams scores.    Trea Turner to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 290,
+    "launch_speed": 110.4,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (10) on a sharp line drive to center fielder Cameron Maybin.   Michael A.   Taylor scores.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 387,
+    "launch_speed": 105,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (8) on a fly ball to center field.   Trea Turner scores.    Bryce Harper scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 419,
+    "launch_speed": 111.5,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (7) on a fly ball to left center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 383,
+    "launch_speed": 104.8,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Kevin Kiermaier.   Bryce Harper to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 202,
+    "launch_speed": 74.5,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto hits a ground-rule double (9) on a line drive to left-center field.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 360,
+    "launch_speed": 104.4,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (8) on a line drive to left fielder Rhys Hoskins.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 133,
+    "launch_speed": 82.3,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (7) on a line drive to left fielder Jace Peterson.   Bryce Harper scores.    Trea Turner scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 352,
+    "launch_speed": 97.7,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (6) on a sharp line drive to left fielder Trey Mancini.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 255,
+    "launch_speed": 106.5,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Adam Jones.   Adam Eaton to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 196,
+    "launch_speed": 108.4,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Aaron Judge.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 222,
+    "launch_speed": 112.4,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (5) on a sharp fly ball to center fielder Kevin Pillar.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 398,
+    "launch_speed": 107.9,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (5) on a fly ball to left field.   Daniel Murphy scores.    Matt Adams scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 338,
+    "launch_speed": 103.1,
+    "launch_angle": 45,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (6) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 436,
+    "launch_speed": 111.2,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Hunter Pence.   Mark Reynolds to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 246,
+    "launch_speed": 98.1,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (4) on a fly ball to left center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 365,
+    "launch_speed": 100.2,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (4) on a line drive to left fielder Johnny Field.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 270,
+    "launch_speed": 96.8,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to center fielder Ender Inciarte.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 159,
+    "launch_speed": 88.1,
+    "launch_angle": 9,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (3) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 358,
+    "launch_speed": 92.2,
+    "launch_angle": 33,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Trey Mancini.   Wilmer Difo scores.    Pedro Severino to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 141,
+    "launch_speed": 74.2,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Mark Trumbo.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 214,
+    "launch_speed": 112.2,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to center fielder Adam Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 201,
+    "launch_speed": 111.1,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a sharp line drive to right fielder Mark Trumbo.   Mark Reynolds to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 174,
+    "launch_speed": 106.7,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "single",
+    "des": "Juan Soto singles on a line drive to left fielder Craig Gentry.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 231,
+    "launch_speed": 84.9,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (3) on a line drive to center fielder Lewis Brinson.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 368,
+    "launch_speed": 99.9,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (1) on a sharp line drive to right fielder Brian Anderson.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 303,
+    "launch_speed": 106.2,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "double",
+    "des": "Juan Soto doubles (2) on a line drive to left fielder Derek Dietrich.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 167,
+    "launch_speed": 86.7,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (2) on a fly ball to left center field.   Mark Reynolds scores.    Pedro Severino scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 422,
+    "launch_speed": 106.8,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Soto, Juan",
+    "events": "home_run",
+    "des": "Juan Soto homers (1) on a fly ball to right field.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": "",
+    "launch_speed": 111.8,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}]

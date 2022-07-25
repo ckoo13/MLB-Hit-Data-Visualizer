@@ -1,0 +1,3191 @@
+[{
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (20) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 361,
+    "launch_speed": 110.2,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Zach McKinstry.   Luis Rengifo to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 205,
+    "launch_speed": 103,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Jose Siri.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 190,
+    "launch_speed": 89.5,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (2) on a line drive to right fielder Kyle Tucker.   Max Stassi scores.    Brandon Marsh scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 176,
+    "launch_speed": 92.1,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Austin Hays.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 243,
+    "launch_speed": 100.2,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Austin Hays.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 227,
+    "launch_speed": 87.1,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (19) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 418,
+    "launch_speed": 107.7,
+    "launch_angle": 33,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (18) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 394,
+    "launch_speed": 105.7,
+    "launch_angle": 36,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (17) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 420,
+    "launch_speed": 107.1,
+    "launch_angle": 29,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (15) on a sharp fly ball to left fielder AJ Pollock.   Taylor Ward scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 352,
+    "launch_speed": 100.6,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (14) on a sharp line drive to center fielder Luis Robert.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 375,
+    "launch_speed": 115.2,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Gavin Sheets.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 180,
+    "launch_speed": 98.7,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (16) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 462,
+    "launch_speed": 118,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (14) on a fly ball to center field.   Taylor Ward scores.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 423,
+    "launch_speed": 111.5,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (15) on a fly ball to right field.    Tyler Wade scores.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 438,
+    "launch_speed": 113.5,
+    "launch_angle": 32,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Michael A.   Taylor.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 264,
+    "launch_speed": 76.2,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (1) on a line drive to right fielder Mookie Betts.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 296,
+    "launch_speed": 98.2,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (13) on a line drive to center fielder Cody Bellinger.   Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 223,
+    "launch_speed": 94.5,
+    "launch_angle": 15,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (13) on a fly ball to right center field.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 388,
+    "launch_speed": 113.5,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (12) on a fly ball to right fielder Jeff McNeil.   Brandon Marsh scores.    Shohei Ohtani to 3rd.  Shohei Ohtani advances to 3rd, on a throwing error by second baseman Luis Guillorme.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 355,
+    "launch_speed": 99.7,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Jeff McNeil.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 155,
+    "launch_speed": 101.6,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (12) on a fly ball to center field.   Juan Lagares scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 394,
+    "launch_speed": 104.4,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Franchy Cordero.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 253,
+    "launch_speed": 104.1,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Christian Arroyo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 178,
+    "launch_speed": 99,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (11) on a fly ball to left fielder Alex Verdugo.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 381,
+    "launch_speed": 98.4,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Christian Arroyo, deflected by second baseman Trevor Story.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 215,
+    "launch_speed": 93.7,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (10) on a sharp line drive to right fielder Nick Castellanos.   Matt Duffy to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 181,
+    "launch_speed": 101.4,
+    "launch_angle": 13,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Aaron Judge.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 280,
+    "launch_speed": 97.7,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (9) on a line drive to right fielder Joey Gallo.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 201,
+    "launch_speed": 97.1,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (11) on a fly ball to center field.   Taylor Ward scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 425,
+    "launch_speed": 106.9,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (10) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 413,
+    "launch_speed": 108.8,
+    "launch_angle": 26,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (9) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 443,
+    "launch_speed": 108.9,
+    "launch_angle": 28,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Luis Barrera.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 192,
+    "launch_speed": 110.8,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Kole Calhoun.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 204,
+    "launch_speed": 85.7,
+    "launch_angle": 19,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (8) on a sharp line drive to center fielder Adolis Garcia.   Taylor Ward scores.    Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 409,
+    "launch_speed": 116.5,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (8) on a fly ball to center field.   Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 425,
+    "launch_speed": 108.3,
+    "launch_angle": 32,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (7) on a fly ball to center field.   Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 418,
+    "launch_speed": 110.1,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Chad Pinder.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 159,
+    "launch_speed": 83.5,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (7) on a sharp line drive to right fielder Ramon Laureano.   Brandon Marsh to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 164,
+    "launch_speed": 104.4,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (6) on a sharp fly ball to right fielder Harold Ramirez.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 368,
+    "launch_speed": 108.9,
+    "launch_angle": 26,
+    "pitch_name": "Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 217,
+    "launch_speed": 71.4,
+    "launch_angle": 21,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a fly ball to center fielder Kevin Kiermaier.   Mike Trout to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 255,
+    "launch_speed": 89.6,
+    "launch_angle": 50,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (5) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 407,
+    "launch_speed": 109.4,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani hits a grand slam (6) to left center field.   Andrew Velazquez scores.    Brandon Marsh scores.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 413,
+    "launch_speed": 109.8,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (5) on a sharp fly ball to left fielder Lane Thomas.   Luis Rengifo scores.    Taylor Ward scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 391,
+    "launch_speed": 101.5,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Yadiel Hernandez.   Mike Trout to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 270,
+    "launch_speed": 94.7,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Alex Verdugo.   Andrew Velazquez scores.    Taylor Ward to 3rd.    David Fletcher to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 334,
+    "launch_speed": 103.7,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp fly ball to center fielder Jackie Bradley Jr.  Taylor Ward to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 388,
+    "launch_speed": 109.2,
+    "launch_angle": 36,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Enrique Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 261,
+    "launch_speed": 87.8,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (4) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 419,
+    "launch_speed": 108.3,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Luis Robert.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 202,
+    "launch_speed": 85.2,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Myles Straw.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 263,
+    "launch_speed": 75.2,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (4) on a sharp line drive to right fielder Josh Naylor.   Taylor Ward scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 353,
+    "launch_speed": 108.2,
+    "launch_angle": 17,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Cedric Mullins.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 175,
+    "launch_speed": 101.3,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (3) on a fly ball to left fielder Michael Brantley.   Brandon Marsh scores.    Tyler Wade scores.    Andrew Velazquez to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 320,
+    "launch_speed": 92.8,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Kyle Tucker.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 164,
+    "launch_speed": 77,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (3) on a fly ball to right center field.    Andrew Velazquez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 390,
+    "launch_speed": 108,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (2) on a fly ball to right center field.    Andrew Velazquez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 415,
+    "launch_speed": 108.1,
+    "launch_angle": 35,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (1) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 406,
+    "launch_speed": 108,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (2) on a line drive to right fielder Kole Calhoun.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 252,
+    "launch_speed": 97.5,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Brian Anderson.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 269,
+    "launch_speed": 93,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani hits a ground-rule double (1) on a line drive to right field.   Tyler Wade to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 315,
+    "launch_speed": 119.1,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Jose Siri.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 207,
+    "launch_speed": 71.6,
+    "launch_angle": 20,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (46) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 418,
+    "launch_speed": 112.9,
+    "launch_angle": 20,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (8) on a line drive to right fielder Adolis Garcia.   Brandon Marsh scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 147,
+    "launch_speed": 106.7,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (7) on a sharp line drive to right fielder Mitch Haniger.   Brandon Marsh scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 155,
+    "launch_speed": 100.3,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (6) on a line drive to right fielder Mitch Haniger.   Brandon Marsh scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 299,
+    "launch_speed": 101.8,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Jose Siri.   Juan Lagares to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 231,
+    "launch_speed": 109.1,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (45) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 445,
+    "launch_speed": 116.1,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Starling Marte.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 270,
+    "launch_speed": 108.7,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to second baseman Cesar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 178,
+    "launch_speed": 76.8,
+    "launch_angle": 16,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Kyle Tucker.   David Fletcher to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 157,
+    "launch_speed": 95.2,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (44) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 368,
+    "launch_speed": 114.7,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (43) on a fly ball to right center field.    Luis Rengifo scores.    David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 426,
+    "launch_speed": 107.2,
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Adolis Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 261,
+    "launch_speed": 105.4,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (42) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 431,
+    "launch_speed": 111.8,
+    "launch_angle": 38,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (41) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 374,
+    "launch_speed": 110.7,
+    "launch_angle": 45,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Anthony Santander.   Juan Lagares to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 186,
+    "launch_speed": 103.5,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Victor Reyes.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 224,
+    "launch_speed": 92,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (40) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 430,
+    "launch_speed": 110.1,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (39) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 393,
+    "launch_speed": 107.3,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (25) on a sharp line drive to center fielder Randal Grichuk.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 385,
+    "launch_speed": 112,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (38) on a fly ball to center field.   Jo Adell scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 413,
+    "launch_speed": 105.6,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (5) on a line drive to right fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 171,
+    "launch_speed": 90.1,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (24) on a sharp line drive to right fielder DJ Peters.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 215,
+    "launch_speed": 109.9,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (23) on a sharp line drive to right fielder Ramon Laureano.   Matt Thaiss scores.    David Fletcher to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 172,
+    "launch_speed": 110.6,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Starling Marte.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 277,
+    "launch_speed": 87.7,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (37) on a fly ball to right field.    Jack Mayfield scores.    David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 388,
+    "launch_speed": 113.1,
+    "launch_angle": 22,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (36) on a fly ball to center field.   Juan Lagares scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 463,
+    "launch_speed": 110.4,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (35) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 414,
+    "launch_speed": 112.6,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (22) on a sharp line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 322,
+    "launch_speed": 104.8,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (21) on a sharp line drive to center fielder Gilberto Celestino.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 323,
+    "launch_speed": 113.8,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Angels challenged (home-plate collision), call on the field was upheld: Angels challenged (tag play), call on the field was upheld: Shohei Ohtani doubles (20) on a sharp line drive to center fielder Ramon Laureano.  David Fletcher out at home on the throw, center fielder Ramon Laureano to shortstop Elvis Andrus to catcher Sean Murphy.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 350,
+    "launch_speed": 115.9,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (34) on a fly ball to center field.   Jose Iglesias scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 419,
+    "launch_speed": 107.3,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Jarred Kelenic.   Luis Rengifo scores.    David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 281,
+    "launch_speed": 107.7,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (19) on a sharp line drive to right fielder Mitch Haniger.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 214,
+    "launch_speed": 106.6,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (33) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 463,
+    "launch_speed": 116.5,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (32) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 433,
+    "launch_speed": 114.5,
+    "launch_angle": 25,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a fly ball to left fielder Alex Verdugo.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 194,
+    "launch_speed": 64.4,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (18) on a sharp line drive to right fielder Hunter Renfroe.   David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 323,
+    "launch_speed": 107.5,
+    "launch_angle": 18,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Red Sox challenged (tag play), call on the field was overturned: Shohei Ohtani singles on a line drive to left fielder Danny Santana.  Jose Rojas out at home on the throw, left fielder Danny Santana to catcher Christian Vazquez.   Shohei Ohtani to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 210,
+    "launch_speed": 74,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (31) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 459,
+    "launch_speed": 112.5,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (29) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 416,
+    "launch_speed": 104.5,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (30) on a fly ball to left field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 111.1,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (28) on a line drive to right field.    David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 356,
+    "launch_speed": 112.4,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (27) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 395,
+    "launch_speed": 109.6,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (26) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 416,
+    "launch_speed": 117.2,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (17) on a line drive to right fielder Manuel Margot.   David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 347,
+    "launch_speed": 104.3,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (25) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 384,
+    "launch_speed": 107.5,
+    "launch_angle": 38,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (4) on a line drive to right fielder Manuel Margot.   Juan Lagares scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 224,
+    "launch_speed": 88.7,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (24) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 453,
+    "launch_speed": 116.1,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (23) on a fly ball to center field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 414,
+    "launch_speed": 103.5,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (22) on a fly ball to left field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 398,
+    "launch_speed": 107.6,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (20) on a line drive to right center field.    Justin Upton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 114.3,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (21) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 408,
+    "launch_speed": 109,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (19) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 435,
+    "launch_speed": 110.9,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (18) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 429,
+    "launch_speed": 115.8,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Mark Canha.   David Fletcher to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 218,
+    "launch_speed": 81.7,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Josh Reddick.   Taylor Ward to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 149,
+    "launch_speed": 108.8,
+    "launch_angle": 8,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (14) on a line drive to right fielder Pavin Smith.   Justin Upton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 285,
+    "launch_speed": 114.9,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (15) on a line drive to right fielder Pavin Smith.   Justin Upton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 371,
+    "launch_speed": 108.3,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Andrew Benintendi.   Justin Upton to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 226,
+    "launch_speed": 105,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (13) on a line drive to right fielder Hunter Dozier.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 304,
+    "launch_speed": 112.6,
+    "launch_angle": 17,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (17) on a fly ball to right center field.    Justin Upton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 470,
+    "launch_speed": 111.7,
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (12) on a line drive to left fielder Taylor Trammell.   Justin Upton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 280,
+    "launch_speed": 93.6,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (16) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 436,
+    "launch_speed": 112.5,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Chad Pinder.   Anthony Bemboom scores.    David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 232,
+    "launch_speed": 95.4,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Mark Canha.   David Fletcher to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 183,
+    "launch_speed": 109.7,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (15) on a fly ball to right field.    David Fletcher scores.    Justin Upton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 380,
+    "launch_speed": 117,
+    "launch_angle": 24,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (3) on a sharp line drive to center fielder Ramon Laureano.   Jose Iglesias scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 396,
+    "launch_speed": 102.3,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Harold Ramirez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 295,
+    "launch_speed": 97.8,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (14) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 440,
+    "launch_speed": 111.9,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (13) on a fly ball to right center field.    Juan Lagares scores.    Taylor Ward scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 431,
+    "launch_speed": 105.9,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (12) on a fly ball to right field.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 372,
+    "launch_speed": 96.6,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (11) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 370,
+    "launch_speed": 101.7,
+    "launch_angle": 33,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (10) on a fly ball to left fielder J.  D. Martinez.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 312,
+    "launch_speed": 95.2,
+    "launch_angle": 28,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Kyle Tucker.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 196,
+    "launch_speed": 94.7,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (8) on a sharp line drive to left fielder AJ Pollock.   David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 354,
+    "launch_speed": 104.7,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (9) on a line drive to right fielder Mookie Betts.   David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 368,
+    "launch_speed": 97.1,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (10) on a fly ball to center field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 428,
+    "launch_speed": 107.6,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (9) on a fly ball to center field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 427,
+    "launch_speed": 110.3,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (8) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 364,
+    "launch_speed": 97,
+    "launch_angle": 34,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Umpire reviewed (home run), call on the field was upheld: Shohei Ohtani doubles (6) on a sharp line drive to left fielder David Dahl.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 378,
+    "launch_speed": 105,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (5) on a sharp line drive to right fielder Joey Gallo.   Jose Iglesias scores.    David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 199,
+    "launch_speed": 113.8,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (7) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 440,
+    "launch_speed": 107.1,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (6) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 413,
+    "launch_speed": 108.3,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (4) on a sharp line drive to right fielder Kyle Tucker.   Scott Schebler scores.    David Fletcher to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 141,
+    "launch_speed": 101.9,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Myles Straw.   David Fletcher to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 189,
+    "launch_speed": 72.9,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (5) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 402,
+    "launch_speed": 107.2,
+    "launch_angle": 38,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Jake Cave.   David Fletcher to 3rd.    Shohei Ohtani to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 213,
+    "launch_speed": 78.6,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (4) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 431,
+    "launch_speed": 108.9,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (3) on a fly ball to left fielder Andrew Benintendi.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 265,
+    "launch_speed": 83.8,
+    "launch_angle": 28,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (2) on a sharp line drive to right fielder Kyle Isbel.   Jose Iglesias scores.    Kurt Suzuki scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 353,
+    "launch_speed": 119,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 181,
+    "launch_speed": 106.5,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (2) on a fly ball to right fielder Randal Grichuk.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 278,
+    "launch_speed": 82.1,
+    "launch_angle": 33,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (3) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 422,
+    "launch_speed": 108.2,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (1) on a fly ball to center fielder Jonathan Davis.   Max Stassi scores.    Jose Rojas scores.    David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 98.3,
+    "launch_angle": 30,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Teoscar Hernandez.   Dexter Fowler scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 278,
+    "launch_speed": 113.8,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Aledmys Diaz.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 273,
+    "launch_speed": 87.3,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (2) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 451,
+    "launch_speed": 115.2,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Adam Eaton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 204,
+    "launch_speed": 95.4,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (1) on a fly ball to right center field.    David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 421,
+    "launch_speed": 106.3,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (7) on a fly ball to center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 415,
+    "launch_speed": 109,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Leody Taveras.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 245,
+    "launch_speed": 104,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (6) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 385,
+    "launch_speed": 109.1,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Joey Gallo.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 205,
+    "launch_speed": 78.3,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Eli White.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 188,
+    "launch_speed": 75.9,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Michael Brantley.   Mike Trout scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 187,
+    "launch_speed": 65.3,
+    "launch_angle": 24,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Josh Reddick.   Mike Trout scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 208,
+    "launch_speed": 82.4,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Jake Fraley.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 227,
+    "launch_speed": 77.9,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Jake Fraley.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 241,
+    "launch_speed": 109.9,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (6) on a sharp line drive to right fielder Braden Bishop, deflected by first baseman Jose Marmolejos.   Andrelton Simmons to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 124,
+    "launch_speed": 100.7,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (5) on a fly ball to left center field.   Mike Trout scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 439,
+    "launch_speed": 111.3,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Mookie Betts.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 224,
+    "launch_speed": 87.4,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (4) on a line drive to left fielder AJ Pollock.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 218,
+    "launch_speed": 82.1,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (4) on a fly ball to center field.   Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 417,
+    "launch_speed": 110.4,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (3) on a line drive to right fielder Stephen Piscotty.   Anthony Rendon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 197,
+    "launch_speed": 84.2,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Nick Solak.   Mike Trout to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 303,
+    "launch_speed": 107.5,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (2) on a line drive to left fielder Shin-Soo Choo.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 220,
+    "launch_speed": 76.7,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (3) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 351,
+    "launch_speed": 102,
+    "launch_angle": 39,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (2) on a fly ball to center field.   Brian Goodwin scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 402,
+    "launch_speed": 105.4,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (1) on a fly ball to center field.   Mike Trout scores.    Anthony Rendon scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 402,
+    "launch_speed": 101,
+    "launch_angle": 27,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (1) on a sharp line drive to center fielder Kyle Lewis.   Anthony Rendon scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 388,
+    "launch_speed": 111.9,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Ramon Laureano.   Mike Trout to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 249,
+    "launch_speed": 86.3,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (18) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 403,
+    "launch_speed": 114.4,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Eloy Jimenez.   David Fletcher scores.    Shohei Ohtani to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 96,
+    "launch_speed": 111,
+    "launch_angle": 3,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (17) on a fly ball to left field.   Brian Goodwin scores.    Justin Upton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 403,
+    "launch_speed": 106.6,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (20) on a line drive to left fielder Eloy Jimenez.   David Fletcher scores.    Brian Goodwin scores.    Shohei Ohtani to 3rd.  Shohei Ohtani advances to 3rd, on a throwing error by shortstop Tim Anderson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 269,
+    "launch_speed": 95.3,
+    "launch_angle": 18,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (19) on a sharp line drive to left fielder Eloy Jimenez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 138,
+    "launch_speed": 108.6,
+    "launch_angle": 4,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (18) on a fly ball to left fielder Seth Brown.   David Fletcher scores.    Mike Trout to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 229,
+    "launch_speed": 74.6,
+    "launch_angle": 39,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (17) on a sharp line drive to center fielder Delino DeShields.   David Fletcher to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 369,
+    "launch_speed": 102.7,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Willie Calhoun.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 176,
+    "launch_speed": 91.6,
+    "launch_angle": 10,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Angels challenged (tag play), call on the field was upheld: Shohei Ohtani singles on a line drive to center fielder George Springer.  Shohei Ohtani out at 2nd on the throw, center fielder George Springer to first baseman Yuli Gurriel to shortstop Alex Bregman.   David Fletcher to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 237,
+    "launch_speed": 99.1,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (4) on a line drive to center fielder Delino DeShields.   David Fletcher scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 272,
+    "launch_speed": 100.2,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to second baseman Rougned Odor.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 155,
+    "launch_speed": 107.7,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (16) on a fly ball to center field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 431,
+    "launch_speed": 105.1,
+    "launch_angle": 23,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Adam Engel.   Luis Rengifo to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 194,
+    "launch_speed": 63.2,
+    "launch_angle": 24,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Melky Cabrera.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 176,
+    "launch_speed": 104.9,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (3) on a fly ball to left fielder Bryan Reynolds.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 254,
+    "launch_speed": 81.1,
+    "launch_angle": 33,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (14) on a line drive to left fielder Bryan Reynolds.   David Fletcher scores.    Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 197,
+    "launch_speed": 97,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Jackie Bradley Jr.  Matt Thaiss scores.    Max Stassi scores.    Mike Trout to 3rd.    Shohei Ohtani to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 243,
+    "launch_speed": 75.7,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Andrew Benintendi.   Brian Goodwin to 3rd.    Mike Trout to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 201,
+    "launch_speed": 94.1,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (13) on a sharp line drive to center fielder Jackie Bradley Jr.  Kole Calhoun to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 343,
+    "launch_speed": 105.7,
+    "launch_angle": 18,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Jackie Bradley Jr.  Wilfredo Tovar scores.    Kole Calhoun scores.    Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 254,
+    "launch_speed": 95.3,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (11) on a line drive to left fielder Tyler Naquin.   David Fletcher to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 257,
+    "launch_speed": 89.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder JaCoby Jones.   Brian Goodwin scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 149,
+    "launch_speed": 105.3,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (15) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 441,
+    "launch_speed": 107.1,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (2) on a line drive to right fielder Trey Mancini.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 230,
+    "launch_speed": 91.1,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (10) on a sharp fly ball to center fielder Mallex Smith.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 380,
+    "launch_speed": 100,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Dylan Moore.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 237,
+    "launch_speed": 110.9,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Jake Marisnick.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 244,
+    "launch_speed": 113.8,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Mac Williamson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 259,
+    "launch_speed": 90.2,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (14) on a fly ball to left center field.   David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 397,
+    "launch_speed": 106.3,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (13) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 423,
+    "launch_speed": 107.5,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (7) on a sharp line drive to center fielder Joey Gallo.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 377,
+    "launch_speed": 105.1,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (8) on a line drive to left fielder Willie Calhoun.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 342,
+    "launch_speed": 98.7,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Nomar Mazara.   Luis Rengifo to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 155,
+    "launch_speed": 83.2,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (11) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 391,
+    "launch_speed": 102.3,
+    "launch_angle": 36,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (12) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 447,
+    "launch_speed": 109.5,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (6) on a sharp line drive to right fielder Stephen Piscotty.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 241,
+    "launch_speed": 110.3,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (10) on a fly ball to center field.   Tommy La Stella scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 406,
+    "launch_speed": 104.7,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (5) on a sharp line drive to right fielder Yasiel Puig.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 329,
+    "launch_speed": 115.1,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Jesse Winker.   Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 239,
+    "launch_speed": 94.2,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Jesse Winker.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 276,
+    "launch_speed": 104.8,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Jose Martinez.   David Fletcher to 3rd.    Luis Rengifo to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 142,
+    "launch_speed": 105.5,
+    "launch_angle": 7,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (4) on a line drive to left fielder Lourdes Gurriel Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 149,
+    "launch_speed": 97.5,
+    "launch_angle": 6,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (9) on a fly ball to left field.   Tommy La Stella scores.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 375,
+    "launch_speed": 99.6,
+    "launch_angle": 29,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (3) on a sharp line drive to center fielder Teoscar Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 170,
+    "launch_speed": 104.8,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to third baseman Joey Wendle, deflected by pitcher Diego Castillo.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 109,
+    "launch_speed": 93.9,
+    "launch_angle": 5,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Austin Meadows.   Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 269,
+    "launch_speed": 94.8,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (1) on a line drive to right fielder Avisail Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 165,
+    "launch_speed": 90.7,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (2) on a sharp line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 354,
+    "launch_speed": 107.9,
+    "launch_angle": 17,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Kevin Kiermaier.   Tommy La Stella to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 228,
+    "launch_speed": 81.5,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (8) on a line drive to left center field.   Tommy La Stella scores.    Mike Trout scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 414,
+    "launch_speed": 110.6,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (7) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 416,
+    "launch_speed": 107.6,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a fly ball to right fielder Cody Bellinger.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 239,
+    "launch_speed": 71.1,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (6) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 396,
+    "launch_speed": 106.9,
+    "launch_angle": 35,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Stephen Piscotty.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 185,
+    "launch_speed": 110.1,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Stephen Piscotty.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 201,
+    "launch_speed": 112.4,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (5) on a fly ball to center field.   Luis Rengifo scores.    Tommy La Stella scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 400,
+    "launch_speed": 104.3,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (4) on a fly ball to center field.   Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 388,
+    "launch_speed": 104.1,
+    "launch_angle": 34,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (3) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 362,
+    "launch_speed": 107.2,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Stephen Piscotty.   Tommy La Stella scores.    Mike Trout scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 246,
+    "launch_speed": 103.4,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Ramon Laureano.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 157,
+    "launch_speed": 85.5,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 233,
+    "launch_speed": 86.7,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (1) on a fly ball to right field.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 393,
+    "launch_speed": 111,
+    "launch_angle": 39,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Whit Merrifield.   Mike Trout to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 287,
+    "launch_speed": 95.7,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 217,
+    "launch_speed": 100.1,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 289,
+    "launch_speed": 108.5,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (1) on a fly ball to center field.   Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 429,
+    "launch_speed": 111.6,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 281,
+    "launch_speed": 82.8,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Joey Rickard.   Andrelton Simmons scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 212,
+    "launch_speed": 88.3,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Dwight Smith Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 262,
+    "launch_speed": 105,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Nicholas Castellanos.   David Fletcher scores.    Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 211,
+    "launch_speed": 111.2,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Mark Canha.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 224,
+    "launch_speed": 103.1,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (21) on a sharp line drive to right fielder Stephen Piscotty.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 221,
+    "launch_speed": 111.5,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Nick Martini.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 230,
+    "launch_speed": 83.7,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (22) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 375,
+    "launch_speed": 105,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Delino DeShields.   Kole Calhoun scores.    Mike Trout to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 208,
+    "launch_speed": 67,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (21) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 428,
+    "launch_speed": 112.9,
+    "launch_angle": 36,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (20) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 418,
+    "launch_speed": 103.8,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (20) on a sharp line drive to center fielder Guillermo Heredia.   Michael Hermosillo to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 322,
+    "launch_speed": 108.1,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (19) on a sharp line drive to right fielder Nomar Mazara.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 359,
+    "launch_speed": 108.3,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (18) on a sharp line drive to center fielder Delino DeShields.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 313,
+    "launch_speed": 105.6,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Joey Gallo.   Mike Trout scores.    Justin Upton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 163,
+    "launch_speed": 109,
+    "launch_angle": 7,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (17) on a sharp line drive to right fielder Ryan Cordell.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 265,
+    "launch_speed": 102.3,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (19) on a fly ball to center field.   David Fletcher scores.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 412,
+    "launch_speed": 105.6,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (18) on a fly ball to right center field.    David Fletcher scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": "",
+    "launch_speed": 97.8,
+    "launch_angle": 40,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Joey Gallo.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 279,
+    "launch_speed": 109.8,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (17) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 361,
+    "launch_speed": 107.3,
+    "launch_angle": 45,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (16) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 413,
+    "launch_speed": 102.6,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder George Springer.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 234,
+    "launch_speed": 111.6,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (15) on a fly ball to center field.   David Fletcher scores.    Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": "",
+    "launch_speed": 106.8,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder David Dahl.   Mike Trout to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 287,
+    "launch_speed": 83.2,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (14) on a fly ball to center field.   Mike Trout scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 416,
+    "launch_speed": 104.3,
+    "launch_angle": 29,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (16) on a line drive to right fielder Josh Reddick.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 217,
+    "launch_speed": 79.6,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (13) on a fly ball to center field.   Justin Upton scores.    Albert Pujols scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 410,
+    "launch_speed": 106.7,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Mark Canha.   Kole Calhoun scores.    Justin Upton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 294,
+    "launch_speed": 97.5,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Ramon Laureano.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 274,
+    "launch_speed": 88.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (12) on a fly ball to left center field.   Kole Calhoun scores.    Justin Upton scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 411,
+    "launch_speed": 107.2,
+    "launch_angle": 34,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Michael Brantley.   Kole Calhoun scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 214,
+    "launch_speed": 79.2,
+    "launch_angle": 19,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (14) on a sharp line drive to center fielder Leonys Martin.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 400,
+    "launch_speed": 102.6,
+    "launch_angle": 24,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (11) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 443,
+    "launch_speed": 110.7,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (10) on a fly ball to left center field.   Kole Calhoun scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 374,
+    "launch_speed": 102.6,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Leonys Martin.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 191,
+    "launch_speed": 86.2,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Michael Brantley.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 264,
+    "launch_speed": 84.3,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Kevin Kiermaier.   Kole Calhoun to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 157,
+    "launch_speed": 101.5,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (13) on a sharp line drive to right fielder Mitch Haniger.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 371,
+    "launch_speed": 113.2,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (9) on a fly ball to right center field.    Kole Calhoun scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 446,
+    "launch_speed": 110.4,
+    "launch_angle": 33,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (8) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 435,
+    "launch_speed": 107.7,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (11) on a sharp line drive to right fielder Josh Reddick.   Justin Upton to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 331,
+    "launch_speed": 106.5,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (12) on a sharp line drive to right fielder Josh Reddick.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 230,
+    "launch_speed": 106.9,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (10) on a sharp line drive to center fielder Andrew Toles.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 355,
+    "launch_speed": 103.4,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to left fielder Denard Span.   Jefry Marte scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 220,
+    "launch_speed": 104.5,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (7) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 443,
+    "launch_speed": 108.8,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (8) on a sharp line drive to center fielder Delino DeShields.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 357,
+    "launch_speed": 101.7,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (6) on a sharp line drive to left fielder Dwight Smith Jr.  Albert Pujols to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 360,
+    "launch_speed": 110.4,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Kevin Pillar.   Mike Trout scores.    Justin Upton scores.    Michael Hermosillo to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 190,
+    "launch_speed": 71.1,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (5) on a sharp line drive to center fielder Mallex Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 380,
+    "launch_speed": 110.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (6) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 411,
+    "launch_speed": 102.8,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Josh Reddick.  Mike Trout out at 3rd on the throw, right fielder Josh Reddick to third baseman Alex Bregman.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 165,
+    "launch_speed": 95.1,
+    "launch_angle": 11,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to left fielder Eddie Rosario.   Martin Maldonado to 3rd.    Justin Upton to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 170,
+    "launch_speed": 91.5,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (4) on a sharp line drive to right fielder Max Kepler.   Albert Pujols scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 274,
+    "launch_speed": 111.4,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (5) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 414,
+    "launch_speed": 108.7,
+    "launch_angle": 32,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Charlie Blackmon.   Ian Kinsler to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 194,
+    "launch_speed": 106.6,
+    "launch_angle": 8,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (3) on a line drive to left fielder Ben Gamel.   Justin Upton scores.    Albert Pujols to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 319,
+    "launch_speed": 95.3,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Dee Gordon.   Albert Pujols to 3rd.  Albert Pujols advances to 3rd, on a throwing error by center fielder Dee Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 285,
+    "launch_speed": 104.2,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Anthony Santander.   Justin Upton scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 291,
+    "launch_speed": 109.1,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (4) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 410,
+    "launch_speed": 112,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to right fielder Andrew McCutchen.   Ian Kinsler to 3rd.    Justin Upton to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 253,
+    "launch_speed": 94.8,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Austin Jackson.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 196,
+    "launch_speed": 86.9,
+    "launch_angle": 13,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "double",
+    "des": "Shohei Ohtani doubles (1) on a line drive to left fielder Paulo Orlando.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 275,
+    "launch_speed": 83,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a line drive to center fielder Abraham Almonte.   Zack Cozart to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 266,
+    "launch_speed": 101.9,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "triple",
+    "des": "Shohei Ohtani triples (1) on a sharp line drive to right fielder Jorge Soler.   Kole Calhoun scores.    Andrelton Simmons scores.    Luis Valbuena scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 335,
+    "launch_speed": 106,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (3) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 449,
+    "launch_speed": 112.4,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (2) on a fly ball to center field.   Andrelton Simmons scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 400,
+    "launch_speed": 100,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to right fielder Lonnie Chisenhall, deflected by second baseman Jason Kipnis.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 178,
+    "launch_speed": 100.6,
+    "launch_angle": 12,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "home_run",
+    "des": "Shohei Ohtani homers (1) on a fly ball to center field.   Andrelton Simmons scores.    Luis Valbuena scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 397,
+    "launch_speed": 104.5,
+    "launch_angle": 35,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ohtani, Shohei",
+    "events": "single",
+    "des": "Shohei Ohtani singles on a sharp line drive to center fielder Bradley Zimmer.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 271,
+    "launch_speed": 112.8,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}]

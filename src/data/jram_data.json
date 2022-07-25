@@ -1,0 +1,5561 @@
+[{
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Andrew Vaughn, deflected by second baseman Josh Harrison.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 205,
+    "launch_speed": 96.9,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (32) on a line drive to left fielder Eloy Jimenez.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 197,
+    "launch_speed": 93.7,
+    "launch_angle": 10,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (31) on a fly ball to left fielder AJ Pollock.   Steven Kwan to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 224,
+    "launch_speed": 78.6,
+    "launch_angle": 49,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (19) on a line drive to right field.    Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 385,
+    "launch_speed": 107.2,
+    "launch_angle": 21,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (18) on a fly ball to right field.    Steven Kwan scores.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 358,
+    "launch_speed": 103.2,
+    "launch_angle": 43,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Andrew Vaughn.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 225,
+    "launch_speed": 79,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Kyle Isbel.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 278,
+    "launch_speed": 78.3,
+    "launch_angle": 24,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (17) on a fly ball to center field.   Steven Kwan scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 415,
+    "launch_speed": 103.7,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (29) on a line drive to left fielder Andrew Benintendi.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 193,
+    "launch_speed": 95,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Michael A.   Taylor.   Steven Kwan scores.    Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 72,
+    "launch_speed": 104.4,
+    "launch_angle": 2,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (28) on a line drive to right fielder Kyle Isbel.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 289,
+    "launch_speed": 87,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (27) on a fly ball to left fielder Robbie Grossman.   Amed Rosario to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 205,
+    "launch_speed": 70.4,
+    "launch_angle": 52,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Riley Greene.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 170,
+    "launch_speed": 66.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (26) on a sharp line drive to center fielder Aaron Judge.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 370,
+    "launch_speed": 105.1,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to center fielder Gilberto Celestino.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 182,
+    "launch_speed": 106.1,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Max Kepler.   Steven Kwan to 3rd.    Amed Rosario to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 167,
+    "launch_speed": 100.9,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (24) on a sharp line drive to left fielder Nick Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 213,
+    "launch_speed": 101.4,
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (25) on a sharp line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 295,
+    "launch_speed": 100.8,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (23) on a sharp line drive to right fielder Jackie Bradley Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 229,
+    "launch_speed": 108.7,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to right fielder Jackie Bradley Jr.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 229,
+    "launch_speed": 68.9,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 220,
+    "launch_speed": 82.5,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (21) on a line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 234,
+    "launch_speed": 73.5,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Randal Grichuk.   Amed Rosario to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 249,
+    "launch_speed": 96,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Yonathan Daza.   Amed Rosario to 3rd.    Jose Ramirez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 297,
+    "launch_speed": 97.5,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (17) on a sharp line drive to left fielder Seth Brown.   Myles Straw scores.    Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 265,
+    "launch_speed": 105.9,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (15) on a fly ball to left fielder Seth Brown.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 269,
+    "launch_speed": 81.9,
+    "launch_angle": 32,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (14) on a line drive to left fielder Seth Brown.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 314,
+    "launch_speed": 96.8,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (16) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 415,
+    "launch_speed": 108.5,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (15) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 383,
+    "launch_speed": 97.3,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (13) on a sharp line drive to right fielder Adolis Garcia.   Myles Straw scores.  Amed Rosario out at home on the throw, right fielder Adolis Garcia to second baseman Marcus Semien to catcher Jonah Heim.   Jose Ramirez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 361,
+    "launch_speed": 103.3,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (14) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 372,
+    "launch_speed": 101.4,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Anthony Santander.   Myles Straw to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 125,
+    "launch_speed": 101.8,
+    "launch_angle": 4,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Kyle Isbel.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 216,
+    "launch_speed": 87.8,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (13) on a line drive to right field.    Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 343,
+    "launch_speed": 101,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Whit Merrifield.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 273,
+    "launch_speed": 97.7,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (12) on a fly ball to right field.    Myles Straw scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 422,
+    "launch_speed": 106.4,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (11) on a line drive to right fielder Jose Siri.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 207,
+    "launch_speed": 85,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (10) on a line drive to right fielder Kyle Tucker.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 317,
+    "launch_speed": 89.9,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (11) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 388,
+    "launch_speed": 104.1,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (10) on a fly ball to center field.   Luke Maile scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 409,
+    "launch_speed": 99.4,
+    "launch_angle": 29,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (9) on a sharp line drive to right fielder Kyle Tucker.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 317,
+    "launch_speed": 100,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (3) on a sharp line drive to center fielder Derek Hill.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 340,
+    "launch_speed": 105,
+    "launch_angle": 16,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (9) on a line drive to right field.    Myles Straw scores.    Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 371,
+    "launch_speed": 106.5,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (8) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 364,
+    "launch_speed": 95.4,
+    "launch_angle": 36,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Nick Gordon.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 285,
+    "launch_speed": 101.1,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Adam Engel.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 196,
+    "launch_speed": 95.3,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (2) on a line drive to right fielder Teoscar Hernandez.   Steven Kwan scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 204,
+    "launch_speed": 83,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (8) on a line drive to right fielder Teoscar Hernandez.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 321,
+    "launch_speed": 89.9,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Seth Brown.   Steven Kwan to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 239,
+    "launch_speed": 72.9,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 411,
+    "launch_speed": 105.7,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (7) on a line drive to right fielder Billy McKinney.   Myles Straw scores.    Owen Miller scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 232,
+    "launch_speed": 101,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to center fielder Brandon Marsh.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 244,
+    "launch_speed": 72.7,
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (5) on a fly ball to center field.   Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 389,
+    "launch_speed": 98,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (6) on a fly ball to right field.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 380,
+    "launch_speed": 95.8,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (6) on a sharp line drive to right fielder Taylor Ward.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 260,
+    "launch_speed": 100.8,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Aaron Judge.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 235,
+    "launch_speed": 79.5,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez hits a grand slam (4) to left field.   Austin Hedges scores.    Myles Straw scores.    Ernie Clement scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 386,
+    "launch_speed": 111.6,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (5) on a line drive to right fielder Adam Engel.   Steven Kwan scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 194,
+    "launch_speed": 99.5,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Joc Pederson.  Jose Ramirez out at 2nd on the throw, left fielder Joc Pederson to second baseman Thairo Estrada.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 246,
+    "launch_speed": 95.2,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Austin Slater.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 180,
+    "launch_speed": 101.2,
+    "launch_angle": 8,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (4) on a fly ball to left fielder Austin Slater.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 269,
+    "launch_speed": 85.7,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (3) on a line drive to center field.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 406,
+    "launch_speed": 105.8,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (3) on a sharp line drive to right fielder Tyler Naquin.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 215,
+    "launch_speed": 109.5,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (1) on a line drive to left fielder Tommy Pham, deflected by center fielder Nick Senzel.   Andres Gimenez scores.    Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 261,
+    "launch_speed": 77.8,
+    "launch_angle": 26,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Nick Senzel, deflected by shortstop Kyle Farmer.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 178,
+    "launch_speed": 61.7,
+    "launch_angle": 21,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez hits a grand slam (2) to right field.   Austin Hedges scores.    Myles Straw scores.    Steven Kwan scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 375,
+    "launch_speed": 103.6,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder Andrew Benintendi.   Ernie Clement scores.    Steven Kwan to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2022,
+    "hit_distance_sc": 229,
+    "launch_speed": 72.9,
+    "launch_angle": 36,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (2) on a sharp line drive to center fielder Michael A.   Taylor.   Steven Kwan to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 405,
+    "launch_speed": 109.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Michael A.   Taylor.   Myles Straw scores.    Steven Kwan to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 338,
+    "launch_speed": 95.9,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (1) on a line drive to right field.    Steven Kwan scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 369,
+    "launch_speed": 107.6,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (1) on a line drive to left fielder Andrew Benintendi.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2022,
+    "hit_distance_sc": 249,
+    "launch_speed": 89.3,
+    "launch_angle": 14,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Leody Taveras.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 244,
+    "launch_speed": 92.5,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to center fielder Leody Taveras.   Myles Straw scores.    Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 150,
+    "launch_speed": 100.4,
+    "launch_angle": 7,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (5) on a sharp line drive to center fielder Michael A.   Taylor.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 307,
+    "launch_speed": 107.5,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (31) on a line drive to left fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 293,
+    "launch_speed": 85.8,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Andrew Benintendi.   Myles Straw to 3rd.    Amed Rosario to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 246,
+    "launch_speed": 99.2,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Billy Hamilton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 282,
+    "launch_speed": 83.7,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (36) on a fly ball to right center field.    Myles Straw scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 398,
+    "launch_speed": 100.6,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Andrew Vaughn.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 247,
+    "launch_speed": 105,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Kyle Isbel.   Myles Straw to 3rd.    Oscar Mercado to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 229,
+    "launch_speed": 93.9,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (35) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 389,
+    "launch_speed": 104.7,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Aaron Judge.   Bradley Zimmer to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 287,
+    "launch_speed": 96.2,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Aaron Judge.   Andres Gimenez scores.    Ernie Clement scores.    Oscar Mercado to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 265,
+    "launch_speed": 90.2,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (34) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 428,
+    "launch_speed": 110.3,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (30) on a sharp line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 395,
+    "launch_speed": 108.5,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Byron Buxton.   Bradley Zimmer scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 148,
+    "launch_speed": 94,
+    "launch_angle": 6,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Max Kepler.  Jose Ramirez out at 2nd on the throw, right fielder Max Kepler to shortstop Nick Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 360,
+    "launch_speed": 109.9,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (29) on a sharp line drive to left fielder Nick Gordon.   Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 330,
+    "launch_speed": 107.6,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (33) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 362,
+    "launch_speed": 94,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Hunter Renfroe.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 173,
+    "launch_speed": 104,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (32) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 397,
+    "launch_speed": 101.7,
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (28) on a fly ball to left fielder Kyle Schwarber.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 347,
+    "launch_speed": 94.6,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (31) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 383,
+    "launch_speed": 99.9,
+    "launch_angle": 30,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (27) on a fly ball to center fielder Jarren Duran.   Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 359,
+    "launch_speed": 94.2,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Jarren Duran.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 184,
+    "launch_speed": 81.3,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (30) on a fly ball to left field.   Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 378,
+    "launch_speed": 98.5,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Adolis Garcia.   Andres Gimenez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 194,
+    "launch_speed": 97.8,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Adolis Garcia.   Amed Rosario to 3rd.    Jose Ramirez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 245,
+    "launch_speed": 73.2,
+    "launch_angle": 28,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (29) on a fly ball to left center field.   Myles Straw scores.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 395,
+    "launch_speed": 100.4,
+    "launch_angle": 27,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (26) on a line drive to left fielder Justin Upton.  Amed Rosario out at home on the throw, left fielder Justin Upton to second baseman David Fletcher to catcher Max Stassi.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 99.8,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Juan Lagares.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 266,
+    "launch_speed": 95.5,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (28) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 103.5,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (25) on a line drive to center fielder Nick Gordon.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 293,
+    "launch_speed": 99.3,
+    "launch_angle": 13,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (27) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 104.4,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (24) on a line drive to left fielder Brent Rooker.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 180,
+    "launch_speed": 78.4,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (26) on a line drive to right field.    Austin Hedges scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 376,
+    "launch_speed": 103.2,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (23) on a line drive to center fielder Victor Reyes.   Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 281,
+    "launch_speed": 92,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (4) on a sharp line drive to center fielder Victor Reyes.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 364,
+    "launch_speed": 109.4,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (22) on a sharp line drive to center fielder Victor Reyes.   Bradley Zimmer to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 343,
+    "launch_speed": 108.4,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Victor Reyes.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 169,
+    "launch_speed": 80.8,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (25) on a fly ball to right field.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 345,
+    "launch_speed": 92.4,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (3) on a sharp fly ball to right fielder Nick Castellanos, deflected by center fielder Aristides Aquino.   Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 371,
+    "launch_speed": 102,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (21) on a line drive to left fielder Akil Baddoo.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 270,
+    "launch_speed": 93.5,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (20) on a line drive to right fielder Victor Reyes.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 279,
+    "launch_speed": 99.9,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (24) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 377,
+    "launch_speed": 99,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (23) on a fly ball to left field.   Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 408,
+    "launch_speed": 106.1,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (19) on a line drive down the right-field line.   Myles Straw scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 306,
+    "launch_speed": 108.9,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Brian Goodwin.   Bradley Zimmer scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 188,
+    "launch_speed": 105.8,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (22) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 381,
+    "launch_speed": 108.3,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (21) on a fly ball to right center field.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 410,
+    "launch_speed": 106.1,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (20) on a line drive to left field.   Cesar Hernandez scores.    Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 410,
+    "launch_speed": 106.7,
+    "launch_angle": 27,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (2) on a line drive to right fielder Randy Arozarena.   Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 328,
+    "launch_speed": 95.1,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (19) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 348,
+    "launch_speed": 104.3,
+    "launch_angle": 21,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (18) on a line drive to left fielder Yordan Alvarez.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 281,
+    "launch_speed": 79.4,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (18) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 344,
+    "launch_speed": 96.9,
+    "launch_angle": 41,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (17) on a fly ball to right field.    Cesar Hernandez scores.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 399,
+    "launch_speed": 106,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Daz Cameron.   Ernie Clement scores.    Yu Chang to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 198,
+    "launch_speed": 91.6,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (17) on a line drive to right fielder Daz Cameron.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 229,
+    "launch_speed": 94.1,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 269,
+    "launch_speed": 76.7,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (16) on a fly ball to right center field.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 404,
+    "launch_speed": 106.4,
+    "launch_angle": 35,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Austin Hays.   Cesar Hernandez scores.    Amed Rosario scores.    Jose Ramirez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 155,
+    "launch_speed": 104.4,
+    "launch_angle": 6,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (15) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 107.9,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder DJ Stewart.   Cesar Hernandez scores.    Amed Rosario to 3rd.    Jose Ramirez to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 272,
+    "launch_speed": 87.4,
+    "launch_angle": 39,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (15) on a sharp line drive to right fielder Anthony Santander.   Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 333,
+    "launch_speed": 103.1,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jake Bauers.   Bradley Zimmer scores.    Amed Rosario to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 210,
+    "launch_speed": 99.7,
+    "launch_angle": 11,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (14) on a sharp fly ball to right fielder Jake Bauers.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 377,
+    "launch_speed": 101.1,
+    "launch_angle": 24,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Jake Fraley.   Cesar Hernandez to 3rd.    Amed Rosario to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 164,
+    "launch_speed": 91.4,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (14) on a fly ball to right field.    Cesar Hernandez scores.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 425,
+    "launch_speed": 106,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (13) on a sharp line drive to right fielder Tommy Edman.   Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 100.7,
+    "launch_angle": 21,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder DJ Stewart.   Amed Rosario to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 170,
+    "launch_speed": 69.4,
+    "launch_angle": 61,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to shortstop Freddy Galvis.   Cesar Hernandez to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 211,
+    "launch_speed": 64.5,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (11) on a sharp line drive to center fielder Billy Hamilton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 366,
+    "launch_speed": 105.4,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (12) on a line drive to center fielder Billy Hamilton.   Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 246,
+    "launch_speed": 85.1,
+    "launch_angle": 16,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (13) on a fly ball to right center field.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 419,
+    "launch_speed": 103.1,
+    "launch_angle": 30,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to center fielder Jonathan Davis.   Cesar Hernandez scores.    Amed Rosario to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 160,
+    "launch_speed": 108.6,
+    "launch_angle": 6,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (10) on a line drive to left fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 157,
+    "launch_speed": 112.1,
+    "launch_angle": 8,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 229,
+    "launch_speed": 104.8,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (9) on a sharp fly ball to left fielder Trevor Larnach.   Cesar Hernandez scores.    Jose Ramirez to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 361,
+    "launch_speed": 106.8,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Rob Refsnyder.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 229,
+    "launch_speed": 99.3,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (12) on a fly ball to left center field.   Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 429,
+    "launch_speed": 108.9,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (7) on a sharp line drive to left fielder Jarred Kelenic.   Jordan Luplow to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 290,
+    "launch_speed": 107.9,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (6) on a line drive to left fielder Jarred Kelenic.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 225,
+    "launch_speed": 92.4,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (5) on a sharp line drive to center fielder Kyle Lewis.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 389,
+    "launch_speed": 104.6,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (11) on a fly ball to right field.    Amed Rosario scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 361,
+    "launch_speed": 95.8,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (10) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 387,
+    "launch_speed": 104.5,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (4) on a sharp line drive to right fielder Nick Castellanos.   Cesar Hernandez scores.    Amed Rosario scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 298,
+    "launch_speed": 100.6,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Nick Senzel.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 241,
+    "launch_speed": 76.4,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (9) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 407,
+    "launch_speed": 108.5,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Andrew Benintendi.   Amed Rosario to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 249,
+    "launch_speed": 88,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (4) on a sharp line drive to right fielder Leury Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 253,
+    "launch_speed": 101.4,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (8) on a fly ball to right field.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 390,
+    "launch_speed": 103.3,
+    "launch_angle": 38,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 356,
+    "launch_speed": 96.2,
+    "launch_angle": 33,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 284,
+    "launch_speed": 103.4,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (6) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 411,
+    "launch_speed": 108.6,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (5) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 340,
+    "launch_speed": 101.2,
+    "launch_angle": 25,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Aaron Judge.   Cesar Hernandez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 256,
+    "launch_speed": 92.6,
+    "launch_angle": 17,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Umpire reviewed (home run), call on the field was upheld: Jose Ramirez triples (1) on a sharp fly ball to right fielder Aaron Judge.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 377,
+    "launch_speed": 102.5,
+    "launch_angle": 37,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Aaron Hicks.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 170,
+    "launch_speed": 99.3,
+    "launch_angle": 8,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (2) on a line drive to right fielder Clint Frazier.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 236,
+    "launch_speed": 71.9,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (4) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 420,
+    "launch_speed": 106.4,
+    "launch_angle": 29,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Nick Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 193,
+    "launch_speed": 88.5,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Nick Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 226,
+    "launch_speed": 72.2,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (3) on a fly ball to right center field.    Andres Gimenez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 392,
+    "launch_speed": 104.5,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (1) on a fly ball to right field.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 355,
+    "launch_speed": 107.9,
+    "launch_angle": 39,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (2) on a line drive to right field.    Ben Gamel scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 367,
+    "launch_speed": 108.2,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jarrod Dyson.   Cesar Hernandez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 166,
+    "launch_speed": 105.7,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Akil Baddoo.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 201,
+    "launch_speed": 110.4,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Nomar Mazara.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 216,
+    "launch_speed": 103.6,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (15) on a fly ball down the left-field line.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 256,
+    "launch_speed": 77.5,
+    "launch_angle": 41,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (16) on a fly ball to left fielder JT Riddle.   Cesar Hernandez to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 398,
+    "launch_speed": 100.9,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (14) on a fly ball down the left-field line.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 250,
+    "launch_speed": 84,
+    "launch_angle": 53,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (12) on a sharp line drive to left fielder Eloy Jimenez.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 205,
+    "launch_speed": 107.6,
+    "launch_angle": 10,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (13) on a line drive to center fielder Jarrod Dyson.   Delino DeShields scores.    Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 376,
+    "launch_speed": 98,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (17) on a fly ball to right center field.    Francisco Lindor scores.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 408,
+    "launch_speed": 103.5,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (11) on a sharp line drive to right fielder Nomar Mazara.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 235,
+    "launch_speed": 101,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (16) on a fly ball to right center field.    Francisco Lindor scores.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 392,
+    "launch_speed": 105.7,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (14) on a line drive to left field.   Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 378,
+    "launch_speed": 107.4,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (15) on a fly ball to left center field.   Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 405,
+    "launch_speed": 101.1,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder Jorge Bonifacio.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 260,
+    "launch_speed": 79.9,
+    "launch_angle": 30,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Jorge Bonifacio.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 202,
+    "launch_speed": 82.6,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (13) on a line drive to right center field.    Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 394,
+    "launch_speed": 103,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (12) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 404,
+    "launch_speed": 101.3,
+    "launch_angle": 30,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Indians challenged (tag play), call on the field was overturned: Jose Ramirez doubles (9) on a line drive to left fielder Jorge Bonifacio.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 48,
+    "launch_speed": 96.4,
+    "launch_angle": 1,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (8) on a sharp line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 298,
+    "launch_speed": 107.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (11) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 420,
+    "launch_speed": 103.9,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 271,
+    "launch_speed": 77.9,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jake Cave.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 199,
+    "launch_speed": 87.9,
+    "launch_angle": 15,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (10) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 406,
+    "launch_speed": 111.7,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (9) on a fly ball to right field.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 353,
+    "launch_speed": 90.6,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (8) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 411,
+    "launch_speed": 108.2,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Harrison Bader.  Sandy Leon out at home on the throw, center fielder Harrison Bader to catcher Yadier Molina.   Cesar Hernandez to 3rd.    Jose Ramirez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 269,
+    "launch_speed": 97.4,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 383,
+    "launch_speed": 106.7,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Dexter Fowler.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 161,
+    "launch_speed": 104.4,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Umpire reviewed (home run), call on the field was upheld: Jose Ramirez homers (6) on a fly ball to right field.    Delino DeShields scores.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 352,
+    "launch_speed": 89.6,
+    "launch_angle": 32,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (6) on a sharp line drive to center fielder JaCoby Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 301,
+    "launch_speed": 104.8,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Victor Reyes.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 166,
+    "launch_speed": 84.1,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (5) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 434,
+    "launch_speed": 109.7,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (5) on a sharp line drive to right fielder Cameron Maybin.   Sandy Leon scores.    Oscar Mercado scores.    Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 324,
+    "launch_speed": 100.6,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Victor Reyes.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 276,
+    "launch_speed": 94.7,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (4) on a line drive to left fielder Victor Reyes.   Sandy Leon to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 242,
+    "launch_speed": 92.5,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (3) on a sharp line drive to center fielder Ian Happ.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 247,
+    "launch_speed": 100.9,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Nomar Mazara.   Sandy Leon scores.    Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 266,
+    "launch_speed": 104.1,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (1) on a line drive to right fielder Nick Castellanos.   Cesar Hernandez scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 190,
+    "launch_speed": 84.2,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (3) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 416,
+    "launch_speed": 105.7,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (4) on a fly ball to left center field.   Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 375,
+    "launch_speed": 104.3,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a pop up to shortstop Freddy Galvis.   Sandy Leon to 3rd.    Cesar Hernandez to 2nd.",
+    "bb_type": "popup",
+    "game_year": 2020,
+    "hit_distance_sc": 218,
+    "launch_speed": 69.3,
+    "launch_angle": 41,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 248,
+    "launch_speed": 99.1,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Adam Engel.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 236,
+    "launch_speed": 99.6,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Adam Engel.   Cesar Hernandez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 204,
+    "launch_speed": 98.6,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Adam Engel.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 250,
+    "launch_speed": 96.2,
+    "launch_angle": 16,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Leury Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 185,
+    "launch_speed": 68.8,
+    "launch_angle": 21,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (2) on a sharp line drive to left fielder Nicky Delmonico.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 256,
+    "launch_speed": 100.2,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (2) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 394,
+    "launch_speed": 106.4,
+    "launch_angle": 32,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Franchy Cordero.   Cesar Hernandez scores.    Jose Ramirez to 3rd.  Fielding error by right fielder Franchy Cordero.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 275,
+    "launch_speed": 101.4,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (1) on a fly ball to right center field.    Yu Chang scores.    Cesar Hernandez scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 382,
+    "launch_speed": 97.5,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (1) on a line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 371,
+    "launch_speed": 98,
+    "launch_angle": 23,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (23) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 375,
+    "launch_speed": 100.6,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez hits a grand slam (21) to right field.   Carlos Santana scores.    Yasiel Puig scores.    Jordan Luplow scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 365,
+    "launch_speed": 96.4,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (22) on a fly ball to left field.   Yasiel Puig scores.    Jordan Luplow scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 416,
+    "launch_speed": 103.5,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (33) on a line drive to right fielder Bubba Starling, deflected by first baseman Ryan O'Hearn.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 162,
+    "launch_speed": 90.5,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Michael Conforto.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 259,
+    "launch_speed": 74.9,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Cameron Maybin.   Yasiel Puig to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 140,
+    "launch_speed": 81,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (32) on a line drive to right fielder Aaron Judge.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 166,
+    "launch_speed": 95.7,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Cameron Maybin.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 173,
+    "launch_speed": 82.4,
+    "launch_angle": 12,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (20) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 398,
+    "launch_speed": 96.3,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (19) on a fly ball to right center field.    Yasiel Puig scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 378,
+    "launch_speed": 96.9,
+    "launch_angle": 25,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez hits a grand slam (18) to center field.   Francisco Lindor scores.    Greg Allen scores.    Carlos Santana scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 405,
+    "launch_speed": 102.2,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (17) on a fly ball to left field.   Carlos Santana scores.    Franmil Reyes scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 425,
+    "launch_speed": 101.4,
+    "launch_angle": 28,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (31) on a line drive to right fielder Mookie Betts.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 366,
+    "launch_speed": 99.2,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (30) on a sharp line drive to left fielder Eddie Rosario.   Carlos Santana scores.    Yasiel Puig to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 340,
+    "launch_speed": 104.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Jake Cave.   Yasiel Puig to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 151,
+    "launch_speed": 102.3,
+    "launch_angle": 8,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (15) on a fly ball to right field.    Carlos Santana scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 393,
+    "launch_speed": 104.9,
+    "launch_angle": 39,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (28) on a sharp line drive to right fielder Nomar Mazara.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 214,
+    "launch_speed": 107.8,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (16) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 401,
+    "launch_speed": 104.5,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Rangers challenged (fair or foul in outfield), call on the field was upheld: Jose Ramirez doubles (27) on a line drive to right fielder Scott Heineman.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 258,
+    "launch_speed": 98.2,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (26) on a line drive to right-center field.   Carlos Santana to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 359,
+    "launch_speed": 97,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (25) on a fly ball to left fielder Justin Upton.   Jose Ramirez to 3rd.  Jose Ramirez advances to 3rd, on a throwing error by left fielder Justin Upton.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 194,
+    "launch_speed": 72.1,
+    "launch_angle": 54,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (24) on a sharp line drive to right fielder Kole Calhoun.   Carlos Santana scores.    Yasiel Puig to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 267,
+    "launch_speed": 103.6,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (13) on a fly ball to center field.   Oscar Mercado scores.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 422,
+    "launch_speed": 102.1,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Hunter Dozier.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 217,
+    "launch_speed": 85.1,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (12) on a fly ball to right field.    Oscar Mercado scores.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 428,
+    "launch_speed": 107.2,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jorge Soler.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 255,
+    "launch_speed": 98.4,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (22) on a sharp line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 229,
+    "launch_speed": 109.8,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (11) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 396,
+    "launch_speed": 99.2,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (23) on a sharp line drive to center fielder Billy Hamilton.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 244,
+    "launch_speed": 106.3,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Randal Grichuk.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 255,
+    "launch_speed": 94.5,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (21) on a sharp fly ball to center fielder Randal Grichuk.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 407,
+    "launch_speed": 102.7,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (10) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 385,
+    "launch_speed": 99.1,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (20) on a sharp line drive to right fielder Jorge Soler.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 188,
+    "launch_speed": 104.8,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jorge Soler.   Oscar Mercado scores.    Carlos Santana to 3rd.    Greg Allen to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 250,
+    "launch_speed": 100,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (9) on a fly ball to left field.   Jordan Luplow scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 380,
+    "launch_speed": 99.6,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (19) on a sharp line drive to right fielder Nicholas Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 212,
+    "launch_speed": 101.8,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (18) on a line drive to right fielder Nicholas Castellanos.   Jordan Luplow scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 339,
+    "launch_speed": 98.7,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Christin Stewart.  Jose Ramirez out at 2nd on the throw, left fielder Christin Stewart to second baseman Harold Castro.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 323,
+    "launch_speed": 112.1,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (17) on a sharp line drive to right fielder Nicholas Castellanos.   Carlos Santana scores.    Jordan Luplow scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 208,
+    "launch_speed": 105.7,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (8) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 369,
+    "launch_speed": 100.3,
+    "launch_angle": 41,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 183,
+    "launch_speed": 95.9,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 268,
+    "launch_speed": 82.5,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Yasiel Puig.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 195,
+    "launch_speed": 104.3,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (15) on a line drive to right fielder Yasiel Puig.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 342,
+    "launch_speed": 98,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (6) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 350,
+    "launch_speed": 99.9,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 403,
+    "launch_speed": 104.1,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Whit Merrifield.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 275,
+    "launch_speed": 100.4,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder Alex Gordon.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 202,
+    "launch_speed": 69.8,
+    "launch_angle": 47,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (13) on a line drive to right fielder Whit Merrifield.   Jason Kipnis to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 192,
+    "launch_speed": 85.3,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (14) on a line drive to left fielder Alex Gordon.   Carlos Santana scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 219,
+    "launch_speed": 89.5,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Nicholas Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 202,
+    "launch_speed": 75,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (2) on a line drive to right fielder Nicholas Castellanos.   Jason Kipnis scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 131,
+    "launch_speed": 98.4,
+    "launch_angle": 7,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Nicholas Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 207,
+    "launch_speed": 73.5,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (5) on a fly ball to right field.    Oscar Mercado scores.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 431,
+    "launch_speed": 105.5,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (12) on a fly ball down the left-field line.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 243,
+    "launch_speed": 74.9,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Christin Stewart.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 237,
+    "launch_speed": 96,
+    "launch_angle": 13,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (1) on a fly ball to center fielder JaCoby Jones.   Carlos Santana scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 385,
+    "launch_speed": 95.4,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to right fielder Cameron Maybin.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 250,
+    "launch_speed": 72.8,
+    "launch_angle": 39,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Brett Gardner.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 212,
+    "launch_speed": 104.8,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Eddie Rosario.   Jordan Luplow scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 154,
+    "launch_speed": 76.6,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (11) on a sharp line drive to right fielder Charlie Tilson.   Jason Kipnis to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 323,
+    "launch_speed": 102.5,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (10) on a sharp line drive to left fielder Charlie Tilson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 205,
+    "launch_speed": 108.2,
+    "launch_angle": 10,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (9) on a line drive to right field.   Francisco Lindor scores.    Carlos Santana scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 353,
+    "launch_speed": 107.5,
+    "launch_angle": 21,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (8) on a line drive to center fielder Jackie Bradley Jr.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 366,
+    "launch_speed": 96.2,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Brock Holt.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 242,
+    "launch_speed": 100.6,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to right fielder Avisail Garcia.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 215,
+    "launch_speed": 67.3,
+    "launch_angle": 43,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Tommy Pham.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 201,
+    "launch_speed": 103.4,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Joey Rickard.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 147,
+    "launch_speed": 78.8,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Trey Mancini.   Carlos Santana scores.    Carlos Gonzalez to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 209,
+    "launch_speed": 68.3,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (4) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 399,
+    "launch_speed": 104.5,
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (3) on a fly ball to right center field.    Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 412,
+    "launch_speed": 104.2,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Charlie Tilson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 180,
+    "launch_speed": 91.6,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (6) on a sharp line drive to right fielder Mitch Haniger.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 241,
+    "launch_speed": 105.3,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Braden Bishop.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 271,
+    "launch_speed": 87.3,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (5) on a fly ball to center fielder Mitch Haniger.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 373,
+    "launch_speed": 99.8,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Brian Anderson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 244,
+    "launch_speed": 99.1,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Tony Kemp.   Roberto Perez to 3rd.    Jake Bauers to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 232,
+    "launch_speed": 94,
+    "launch_angle": 14,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder Josh Reddick.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 212,
+    "launch_speed": 63.5,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Josh Reddick.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 252,
+    "launch_speed": 98.9,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (2) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 389,
+    "launch_speed": 107.2,
+    "launch_angle": 24,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Brian Anderson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 231,
+    "launch_speed": 91.3,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Indians challenged (tag play), call on the field was overturned: Jose Ramirez singles on a line drive to center fielder Ender Inciarte.   Leonys Martin to 3rd.    Jose Ramirez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 221,
+    "launch_speed": 72,
+    "launch_angle": 21,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Domingo Santana.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 239,
+    "launch_speed": 80.9,
+    "launch_angle": 19,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (1) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 401,
+    "launch_speed": 105.3,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (3) on a sharp line drive to right fielder Jorge Soler.   Leonys Martin to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 362,
+    "launch_speed": 108.1,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (2) on a line drive to center fielder Randal Grichuk.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 342,
+    "launch_speed": 91.8,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (1) on a line drive to left fielder Eloy Jimenez.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 284,
+    "launch_speed": 97.8,
+    "launch_angle": 17,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (38) on a line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 245,
+    "launch_speed": 77.7,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (39) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 421,
+    "launch_speed": 102.3,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (37) on a sharp line drive to center fielder Adam Engel.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 292,
+    "launch_speed": 105.3,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Avisail Garcia.   Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 180,
+    "launch_speed": 94.3,
+    "launch_angle": 11,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (36) on a line drive to right fielder Nick Castellanos.   Michael Brantley scores.    Jose Ramirez to 3rd.  Jose Ramirez advances to 3rd, on a fielding error by right fielder Nick Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 255,
+    "launch_speed": 86.8,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (4) on a sharp line drive to center fielder JaCoby Jones.   Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 384,
+    "launch_speed": 101.2,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder JaCoby Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 162,
+    "launch_speed": 84.1,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (38) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 391,
+    "launch_speed": 101.2,
+    "launch_angle": 34,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (35) on a fly ball to center fielder Mallex Smith.   Francisco Lindor scores.    Michael Brantley to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 231,
+    "launch_speed": 70.1,
+    "launch_angle": 39,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder Billy McKinney.   Michael Brantley to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 218,
+    "launch_speed": 73.5,
+    "launch_angle": 47,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Kevin Pillar.   Greg Allen scores.    Jason Kipnis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 174,
+    "launch_speed": 85.3,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Billy McKinney.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 202,
+    "launch_speed": 100.9,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (34) on a fly ball to center fielder Brian Goodwin.   Francisco Lindor scores.    Yandy Diaz to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 372,
+    "launch_speed": 96.5,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (33) on a line drive to center fielder Jake Cave, deflected by left fielder Eddie Rosario.   Greg Allen scores.    Francisco Lindor scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 333,
+    "launch_speed": 98.1,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (32) on a sharp line drive to left fielder Andrew Benintendi.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 233,
+    "launch_speed": 108.7,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (37) on a fly ball to right field.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 387,
+    "launch_speed": 104.2,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (36) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 384,
+    "launch_speed": 98.5,
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (35) on a fly ball to right field.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 358,
+    "launch_speed": 89.7,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Preston Tucker.   Francisco Lindor scores.    Michael Brantley to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 9,
+    "launch_speed": 105.7,
+    "launch_angle": -12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a soft fly ball to left fielder Preston Tucker.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 191,
+    "launch_speed": 63.7,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (34) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 424,
+    "launch_speed": 105.9,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Ryan LaMarre.   Michael Brantley to 3rd.    Jose Ramirez to 2nd.  Jose Ramirez advances to 2nd, on a fielding error by center fielder Ryan LaMarre.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 261,
+    "launch_speed": 97,
+    "launch_angle": 12,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (30) on a line drive to right fielder Avisail Garcia.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 262,
+    "launch_speed": 96.7,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 237,
+    "launch_speed": 96.2,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (33) on a fly ball to right field.    Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 423,
+    "launch_speed": 103.8,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Max Kepler.   Rajai Davis to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 171,
+    "launch_speed": 103.1,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (29) on a soft fly ball to left fielder Eddie Rosario.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": "",
+    "launch_speed": 93.1,
+    "launch_angle": 32,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Max Kepler.   Greg Allen scores.    Michael Brantley to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 252,
+    "launch_speed": 84.5,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (28) on a sharp line drive to right fielder Max Kepler.   Greg Allen scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 346,
+    "launch_speed": 101.1,
+    "launch_angle": 19,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Max Kepler.   Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 203,
+    "launch_speed": 98,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (32) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 375,
+    "launch_speed": 98.1,
+    "launch_angle": 35,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (31) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 392,
+    "launch_speed": 103.6,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Joey Gallo, deflected by first baseman Jurickson Profar.   Michael Brantley scores.  Fielding error by right fielder Joey Gallo.  Jose Ramirez out at 3rd on the throw, right fielder Joey Gallo to first baseman Jurickson Profar to shortstop Elvis Andrus to third baseman Adrian Beltre.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 135,
+    "launch_speed": 101.6,
+    "launch_angle": 6,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (3) on a fly ball to right fielder Joey Gallo, deflected by center fielder Carlos Tocci.   Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 404,
+    "launch_speed": 97.6,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (30) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 413,
+    "launch_speed": 100.5,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (27) on a fly ball to center fielder Carlos Tocci.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 386,
+    "launch_speed": 98.8,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Aaron Hicks.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 195,
+    "launch_speed": 68.1,
+    "launch_angle": 19,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (29) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 400,
+    "launch_speed": 102.6,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (2) on a line drive to right fielder Giancarlo Stanton.   Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 218,
+    "launch_speed": 79.4,
+    "launch_angle": 19,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (28) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 364,
+    "launch_speed": 104.3,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (27) on a fly ball to right field.    Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 377,
+    "launch_speed": 100.7,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (26) on a fly ball to right field.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 373,
+    "launch_speed": 106.4,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (26) on a sharp line drive to right fielder Scott Schebler.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 325,
+    "launch_speed": 105,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (25) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 387,
+    "launch_speed": 98.6,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (25) on a line drive to right fielder Stephen Piscotty.   Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 330,
+    "launch_speed": 93.8,
+    "launch_angle": 22,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Stephen Piscotty.   Greg Allen scores.    Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 224,
+    "launch_speed": 76.2,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (23) on a fly ball to right fielder Jorge Bonifacio.   Francisco Lindor to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 327,
+    "launch_speed": 88.8,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (24) on a sharp line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 172,
+    "launch_speed": 110.2,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (21) on a fly ball to left fielder Matt Joyce.   Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 375,
+    "launch_speed": 98.8,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (22) on a sharp line drive to right fielder Stephen Piscotty.   Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 371,
+    "launch_speed": 104.6,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (24) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 411,
+    "launch_speed": 100.1,
+    "launch_angle": 33,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Stephen Piscotty.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 227,
+    "launch_speed": 90.6,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Dexter Fowler.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 243,
+    "launch_speed": 92.2,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Harrison Bader.   Michael Brantley to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 225,
+    "launch_speed": 98.6,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (23) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 391,
+    "launch_speed": 104.6,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Leonys Martin.   Francisco Lindor scores.  Michael Brantley out at 3rd on the throw, center fielder Leonys Martin to catcher James McCann to third baseman Jeimer Candelario.   Jose Ramirez to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 200,
+    "launch_speed": 88,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (22) on a fly ball to center field.   Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 396,
+    "launch_speed": 97.7,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Charlie Tilson.   Francisco Lindor to 3rd.    Michael Brantley to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 246,
+    "launch_speed": 76.1,
+    "launch_angle": 27,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (21) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 388,
+    "launch_speed": 101.3,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Indians challenged (tag play), call on the field was upheld: Jose Ramirez singles on a sharp line drive to right fielder Max Kepler.  Jose Ramirez out at 2nd on the throw, right fielder Max Kepler to shortstop Ehire Adrianza.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 264,
+    "launch_speed": 105.9,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (20) on a fly ball to right center field.    Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 388,
+    "launch_speed": 102.5,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Trayce Thompson.   Michael Brantley to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 247,
+    "launch_speed": 104.1,
+    "launch_angle": 17,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (20) on a line drive to center fielder Adam Engel.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 285,
+    "launch_speed": 86.3,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Charlie Tilson.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 250,
+    "launch_speed": 102.7,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (1) on a sharp fly ball to right fielder Nick Castellanos.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 400,
+    "launch_speed": 103.3,
+    "launch_angle": 33,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Nick Castellanos.   Michael Brantley to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 301,
+    "launch_speed": 94.7,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (19) on a line drive to right fielder Domingo Santana.   Francisco Lindor scores.    Michael Brantley to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 182,
+    "launch_speed": 97.5,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (19) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 347,
+    "launch_speed": 93.5,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 253,
+    "launch_speed": 87.2,
+    "launch_angle": 18,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (18) on a fly ball to center fielder Ryan LaMarre.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 386,
+    "launch_speed": 99.9,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (18) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 365,
+    "launch_speed": 95.4,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Max Kepler.   Michael Brantley to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 356,
+    "launch_speed": 106.2,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (17) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 416,
+    "launch_speed": 102,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (16) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 420,
+    "launch_speed": 102.2,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (17) on a sharp line drive to left fielder Charlie Tilson.   Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 327,
+    "launch_speed": 94.8,
+    "launch_angle": 25,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (16) on a line drive to right fielder George Springer.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 344,
+    "launch_speed": 104.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (15) on a fly ball to right center field.    Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 388,
+    "launch_speed": 103,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (15) on a sharp line drive to left fielder Marwin Gonzalez.   Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 371,
+    "launch_speed": 100.5,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Jake Marisnick.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 209,
+    "launch_speed": 78.1,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Ian Happ.   Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 147,
+    "launch_speed": 86.6,
+    "launch_angle": 9,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (14) on a fly ball to right field.    Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 363,
+    "launch_speed": 99.8,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Niko Goodrum.   Greg Allen to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 270,
+    "launch_speed": 100.7,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (13) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 359,
+    "launch_speed": 92.9,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (12) on a fly ball to left field.   Rajai Davis scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 394,
+    "launch_speed": 109.5,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (11) on a fly ball to right fielder Jorge Soler.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 205,
+    "launch_speed": 71.4,
+    "launch_angle": 31,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to shortstop Alcides Escobar, deflected by pitcher Brad Keller.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 125,
+    "launch_speed": 92.4,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (11) on a fly ball to right center field.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 397,
+    "launch_speed": 104.3,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (10) on a sharp line drive to right fielder Domingo Santana.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 293,
+    "launch_speed": 104.2,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (10) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 434,
+    "launch_speed": 105.8,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez hits a ground-rule double (9) on a line drive down the left-field line.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 237,
+    "launch_speed": 78,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (8) on a sharp line drive to left fielder Brett Gardner.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 239,
+    "launch_speed": 103.7,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (9) on a fly ball to right center field.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 389,
+    "launch_speed": 98,
+    "launch_angle": 26,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (8) on a fly ball to right field.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 397,
+    "launch_speed": 102.7,
+    "launch_angle": 33,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Dwight Smith Jr.  Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 187,
+    "launch_speed": 91.6,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (7) on a line drive to right fielder Teoscar Hernandez.   Francisco Lindor scores.    Jason Kipnis to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 179,
+    "launch_speed": 62.3,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (5) on a sharp line drive to right fielder Nomar Mazara.   Bradley Zimmer scores.    Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 347,
+    "launch_speed": 104.5,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Dee Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 197,
+    "launch_speed": 83,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Indians challenged (catch or drop), call on the field was overturned: Jose Ramirez doubles (4) on a line drive to left fielder Ben Gamel.   Yan Gomes scores.    Jason Kipnis scores.    Francisco Lindor to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 332,
+    "launch_speed": 108.2,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Mitch Haniger.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 231,
+    "launch_speed": 97.4,
+    "launch_angle": 14,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Ian Happ.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 201,
+    "launch_speed": 107.5,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Indians challenged (tag play), call on the field was upheld: Jose Ramirez singles on a line drive to right fielder Jason Heyward.  Rajai Davis out at home on the throw, right fielder Jason Heyward to catcher Willson Contreras.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 176,
+    "launch_speed": 95.9,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Ian Happ.   Jason Kipnis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 208,
+    "launch_speed": 78.1,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (2) on a line drive to left fielder Ian Happ.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": "",
+    "launch_speed": 98.8,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (1) on a sharp line drive to right fielder Anthony Santander.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 366,
+    "launch_speed": 102.1,
+    "launch_angle": 22,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (6) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 365,
+    "launch_speed": 101.7,
+    "launch_angle": 37,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (7) on a fly ball to right center field.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 354,
+    "launch_speed": 99,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (5) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 377,
+    "launch_speed": 104.1,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to first baseman Chris Davis.   Jason Kipnis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 103,
+    "launch_speed": 103.1,
+    "launch_angle": 5,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Adam Jones.   Jason Kipnis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 279,
+    "launch_speed": 95,
+    "launch_angle": 12,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (3) on a fly ball to right field.    Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 357,
+    "launch_speed": 98.3,
+    "launch_angle": 39,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Mikie Mahtook.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 174,
+    "launch_speed": 87.8,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (2) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 396,
+    "launch_speed": 107.1,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Mikie Mahtook.",
+    "bb_type": "line_drive",
+    "game_year": 2018,
+    "hit_distance_sc": 215,
+    "launch_speed": 100.4,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (1) on a fly ball to right center field.    Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2018,
+    "hit_distance_sc": 392,
+    "launch_speed": 103.4,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (56) on a line drive to right fielder Alen Hanson.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 181,
+    "launch_speed": 101.6,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (55) on a line drive to left fielder Nicky Delmonico.   Roberto Perez scores.    Austin Jackson scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 337,
+    "launch_speed": 98.6,
+    "launch_angle": 19,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (54) on a line drive to center fielder Adam Engel, deflected by left fielder Nicky Delmonico.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 282,
+    "launch_speed": 84.8,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (53) on a sharp line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 252,
+    "launch_speed": 107.4,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (29) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 401,
+    "launch_speed": 103.3,
+    "launch_angle": 20,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Guillermo Heredia.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 272,
+    "launch_speed": 93.2,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (28) on a fly ball to left center field.   Austin Jackson scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 373,
+    "launch_speed": 100.4,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Justin Upton.   Austin Jackson scores.  Jose Ramirez out at 2nd on the throw, left fielder Justin Upton to second baseman Brandon Phillips.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 185,
+    "launch_speed": 69.9,
+    "launch_angle": 20,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Mike Trout.   Austin Jackson to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 194,
+    "launch_speed": 105.1,
+    "launch_angle": 6,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (27) on a fly ball to left field.   Austin Jackson scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 425,
+    "launch_speed": 101.8,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (49) on a line drive to left fielder Alex Gordon.   Greg Allen to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 316,
+    "launch_speed": 94.6,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to center fielder Lorenzo Cain.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 216,
+    "launch_speed": 67.5,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (50) on a line drive to center fielder Lorenzo Cain.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 254,
+    "launch_speed": 97,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (48) on a sharp line drive to center fielder JaCoby Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 266,
+    "launch_speed": 101.1,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (26) on a fly ball to right field.    Francisco Lindor scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 391,
+    "launch_speed": 103,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (25) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 413,
+    "launch_speed": 102.9,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (24) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 370,
+    "launch_speed": 98.5,
+    "launch_angle": 34,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (23) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 387,
+    "launch_speed": 99.2,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (46) on a sharp line drive to left fielder Mikie Mahtook.   Austin Jackson to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 297,
+    "launch_speed": 108.3,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (45) on a line drive to center fielder JaCoby Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 345,
+    "launch_speed": 93.1,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (22) on a fly ball to right center field.    Austin Jackson scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 341,
+    "launch_speed": 96.1,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (21) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 361,
+    "launch_speed": 101.4,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (47) on a line drive to center fielder JaCoby Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 407,
+    "launch_speed": 101.4,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (6) on a fly ball to center fielder Mikie Mahtook.   Bradley Zimmer scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 384,
+    "launch_speed": 98.1,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (44) on a line drive to right fielder Alex Presley.   Gio Urshela to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 288,
+    "launch_speed": 93.2,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (43) on a line drive to left fielder Brett Gardner.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 333,
+    "launch_speed": 98.8,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (20) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 404,
+    "launch_speed": 104.2,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (19) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 384,
+    "launch_speed": 97.2,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 211,
+    "launch_speed": 95.2,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 204,
+    "launch_speed": 102.7,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (40) on a line drive to right fielder Mookie Betts.   Bradley Zimmer to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 333,
+    "launch_speed": 98.4,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (39) on a sharp line drive to center fielder Lorenzo Cain.   Jason Kipnis scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 402,
+    "launch_speed": 104.2,
+    "launch_angle": 20,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (38) on a fly ball to left fielder Andrew Benintendi.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 336,
+    "launch_speed": 94.9,
+    "launch_angle": 29,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (37) on a fly ball to right fielder Steven Souza Jr.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 209,
+    "launch_speed": 66,
+    "launch_angle": 26,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (36) on a soft fly ball to left fielder Corey Dickerson.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 209,
+    "launch_speed": 66.8,
+    "launch_angle": 40,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (34) on a line drive to left fielder Clint Frazier.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 180,
+    "launch_speed": 58.8,
+    "launch_angle": 38,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Clint Frazier.   Bradley Zimmer scores.    Michael Brantley scores.    Jose Ramirez to 3rd.  Throwing error by right fielder Clint Frazier.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 206,
+    "launch_speed": 98.2,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (33) on a line drive to left fielder Brock Holt.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 352,
+    "launch_speed": 97.7,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Mookie Betts.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 214,
+    "launch_speed": 103.8,
+    "launch_angle": 11,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Melky Cabrera.   Carlos Santana scores.    Francisco Lindor scores.    Edwin Encarnacion to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 209,
+    "launch_speed": 74.4,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (18) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 383,
+    "launch_speed": 100.7,
+    "launch_angle": 35,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (31) on a line drive to center fielder Mike Trout.   Edwin Encarnacion scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 310,
+    "launch_speed": 91.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (30) on a line drive to center fielder Kevin Pillar.   Michael Brantley scores.    Edwin Encarnacion to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 275,
+    "launch_speed": 91.2,
+    "launch_angle": 16,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Denard Span.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 184,
+    "launch_speed": 95.7,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Denard Span.   Bradley Zimmer scores.    Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 226,
+    "launch_speed": 88.5,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (29) on a sharp line drive to left fielder Gorkys Hernandez.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 181,
+    "launch_speed": 106,
+    "launch_angle": 8,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (28) on a line drive to right fielder Matt Joyce.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 298,
+    "launch_speed": 98.2,
+    "launch_angle": 18,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (17) on a fly ball to right center field.    Edwin Encarnacion scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 375,
+    "launch_speed": 98.4,
+    "launch_angle": 32,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (16) on a fly ball to right center field.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 408,
+    "launch_speed": 101.2,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Manuel Margot.   Edwin Encarnacion scores.  Jose Ramirez out at 2nd on the throw, center fielder Manuel Margot to first baseman Wil Myers to shortstop Erick Aybar to second baseman Carlos Asuaje.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 163,
+    "launch_speed": 100.8,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Hunter Renfroe.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 193,
+    "launch_speed": 78.7,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (27) on a sharp line drive to center fielder Manuel Margot.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 300,
+    "launch_speed": 106.4,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (5) on a line drive to center fielder Manuel Margot.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 332,
+    "launch_speed": 93.4,
+    "launch_angle": 21,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (14) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 368,
+    "launch_speed": 98.8,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Mikie Mahtook.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 207,
+    "launch_speed": 86.5,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (15) on a line drive to right field.    Michael Brantley scores.    Edwin Encarnacion scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 365,
+    "launch_speed": 102.2,
+    "launch_angle": 21,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (26) on a line drive to right fielder J.  D. Martinez.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 297,
+    "launch_speed": 98.7,
+    "launch_angle": 18,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (13) on a fly ball to right field.    Edwin Encarnacion scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 415,
+    "launch_speed": 106.3,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (25) on a line drive to right fielder Shin-Soo Choo.   Edwin Encarnacion to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 154,
+    "launch_speed": 86,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Nomar Mazara.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 156,
+    "launch_speed": 77.1,
+    "launch_angle": 14,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to center fielder Carlos Gomez.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 206,
+    "launch_speed": 104,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 169,
+    "launch_speed": 91.4,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (12) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 385,
+    "launch_speed": 104.4,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (4) on a sharp fly ball to second baseman Jonathan Schoop, deflected by right fielder Seth Smith.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 319,
+    "launch_speed": 100.1,
+    "launch_angle": 47,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Joey Rickard.   Francisco Lindor to 3rd.    Jason Kipnis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 180,
+    "launch_speed": 98.6,
+    "launch_angle": 10,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to center fielder Adam Jones.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 243,
+    "launch_speed": 70.1,
+    "launch_angle": 34,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (22) on a sharp line drive to right fielder Seth Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 247,
+    "launch_speed": 104.9,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (3) on a sharp line drive to center fielder Adam Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 374,
+    "launch_speed": 104.4,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (23) on a line drive to right fielder Seth Smith.   Jason Kipnis to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 267,
+    "launch_speed": 95.5,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (21) on a line drive to center fielder Max Kepler.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 368,
+    "launch_speed": 98.8,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (20) on a fly ball to right fielder Max Kepler.   Jason Kipnis to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 309,
+    "launch_speed": 84.9,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (18) on a fly ball to right fielder Robbie Grossman.   Erik Gonzalez scores.    Jason Kipnis scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 371,
+    "launch_speed": 98.8,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a soft fly ball to center fielder Byron Buxton.  Daniel Robertson out at 3rd on the throw, center fielder Byron Buxton to third baseman Miguel Sano.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 197,
+    "launch_speed": 60.5,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (11) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 365,
+    "launch_speed": 96.1,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (10) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 371,
+    "launch_speed": 97.3,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (17) on a sharp line drive to left fielder Eddie Rosario.   Edwin Encarnacion to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 377,
+    "launch_speed": 101.7,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 147,
+    "launch_speed": 78.5,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (15) on a line drive to right fielder Yasiel Puig, deflected by center fielder Joc Pederson.   Daniel Robertson scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 227,
+    "launch_speed": 102.9,
+    "launch_angle": 9,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (9) on a line drive to right field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 380,
+    "launch_speed": 106,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (14) on a line drive to right fielder Yasiel Puig.   Edwin Encarnacion to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 301,
+    "launch_speed": 90.7,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (13) on a line drive to center fielder Adam Engel.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 271,
+    "launch_speed": 96,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Avisail Garcia.   Daniel Robertson to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 154,
+    "launch_speed": 90.6,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (8) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 438,
+    "launch_speed": 102.7,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Ian Desmond.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 159,
+    "launch_speed": 99.8,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to center fielder Lorenzo Cain.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 231,
+    "launch_speed": 104.6,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Alex Gordon.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 213,
+    "launch_speed": 72.5,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Rajai Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 236,
+    "launch_speed": 100.1,
+    "launch_angle": 9,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (12) on a line drive to right fielder Matt Joyce.   Carlos Santana scores.    Edwin Encarnacion to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 146,
+    "launch_speed": 106.9,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Khris Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 217,
+    "launch_speed": 82.9,
+    "launch_angle": 16,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (11) on a line drive to center fielder Rajai Davis.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 282,
+    "launch_speed": 98.6,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (10) on a sharp line drive to right fielder Matt Joyce.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 325,
+    "launch_speed": 105.7,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Jorge Bonifacio.   Carlos Santana to 3rd.    Edwin Encarnacion to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 168,
+    "launch_speed": 104.9,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (9) on a line drive to left fielder Jorge Soler.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 251,
+    "launch_speed": 89.5,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jorge Bonifacio.   Edwin Encarnacion to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 201,
+    "launch_speed": 92.8,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (7) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 417,
+    "launch_speed": 105.3,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (8) on a line drive to right fielder Scott Schebler.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 211,
+    "launch_speed": 80.2,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to right fielder Josh Reddick.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 217,
+    "launch_speed": 66.1,
+    "launch_angle": 28,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (2) on a fly ball to left fielder Norichika Aoki.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 332,
+    "launch_speed": 91.5,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Kevin Kiermaier.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 193,
+    "launch_speed": 87.9,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Steven Souza Jr.  Carlos Santana to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 184,
+    "launch_speed": 78.7,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (7) on a fly ball to center fielder Peter Bourjos.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 383,
+    "launch_speed": 95.2,
+    "launch_angle": 29,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Byron Buxton.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 213,
+    "launch_speed": 92.4,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Jorge Soler.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 197,
+    "launch_speed": 98,
+    "launch_angle": 9,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "triple",
+    "des": "Jose Ramirez triples (1) on a sharp fly ball to right fielder Jim Adduci.   Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 379,
+    "launch_speed": 102.7,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to third baseman Nick Castellanos.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 152,
+    "launch_speed": 99.5,
+    "launch_angle": 8,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (6) on a line drive to right fielder Ben Gamel.   Carlos Santana scores.    Francisco Lindor scores.    Edwin Encarnacion to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 183,
+    "launch_speed": 77.2,
+    "launch_angle": 18,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Umpire reviewed (home run), call on the field was overturned: Jose Ramirez homers (6) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 394,
+    "launch_speed": 102.4,
+    "launch_angle": 22,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Josh Reddick.   Edwin Encarnacion to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 261,
+    "launch_speed": 88,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (5) on a line drive to center fielder Josh Reddick.   Michael Brantley scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 324,
+    "launch_speed": 89.4,
+    "launch_angle": 25,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder George Springer.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 192,
+    "launch_speed": 97.4,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (4) on a line drive to right fielder Norichika Aoki.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 292,
+    "launch_speed": 93.8,
+    "launch_angle": 20,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Jacob May.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 261,
+    "launch_speed": 90.9,
+    "launch_angle": 16,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (5) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 403,
+    "launch_speed": 103.1,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (4) on a fly ball to right center field.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 384,
+    "launch_speed": 101.8,
+    "launch_angle": 33,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to right fielder Robbie Grossman.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 251,
+    "launch_speed": 93.8,
+    "launch_angle": 16,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (3) on a line drive to right fielder Tyler Collins.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 194,
+    "launch_speed": 81.6,
+    "launch_angle": 17,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder Andrew Romine.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 272,
+    "launch_speed": 86.5,
+    "launch_angle": 16,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (3) on a fly ball to center field.   Francisco Lindor scores.    Edwin Encarnacion scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 410,
+    "launch_speed": 102.7,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a fly ball to left fielder Justin Upton.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 230,
+    "launch_speed": 69.4,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (2) on a fly ball to right center field.    Francisco Lindor scores.    Michael Brantley scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 398,
+    "launch_speed": 103.4,
+    "launch_angle": 35,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to center fielder JaCoby Jones.   Edwin Encarnacion to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 174,
+    "launch_speed": 90.8,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Tyler Collins.   Francisco Lindor to 3rd.    Brandon Guyer to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 259,
+    "launch_speed": 100.1,
+    "launch_angle": 15,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Melky Cabrera.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 178,
+    "launch_speed": 83.8,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a line drive to left fielder Melky Cabrera.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 144,
+    "launch_speed": 69.9,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (2) on a line drive to center fielder Jacob May.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 337,
+    "launch_speed": 97.9,
+    "launch_angle": 21,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder David Peralta.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 143,
+    "launch_speed": 102.7,
+    "launch_angle": 7,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "double",
+    "des": "Jose Ramirez doubles (1) on a line drive to right fielder Chris Owings.   Francisco Lindor scores.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 403,
+    "launch_speed": 101.8,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "single",
+    "des": "Jose Ramirez singles on a sharp line drive to right fielder Shin-Soo Choo.   Carlos Santana scores.    Francisco Lindor scores.  Jose Ramirez out at 2nd on the throw, right fielder Shin-Soo Choo to first baseman Mike Napoli.",
+    "bb_type": "line_drive",
+    "game_year": 2017,
+    "hit_distance_sc": 194,
+    "launch_speed": 102.5,
+    "launch_angle": 9,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Ramírez, José",
+    "events": "home_run",
+    "des": "Jose Ramirez homers (1) on a fly ball to center field.   Edwin Encarnacion scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2017,
+    "hit_distance_sc": 440,
+    "launch_speed": 105.9,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}]
