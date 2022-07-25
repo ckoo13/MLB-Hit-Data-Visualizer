@@ -200,7 +200,16 @@ svg {
 .checkbox-container {
     display: flex;
     flex-direction: column;
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 20px;
+    text-align: center;
 }
+
+.checkbox-label {
+    margin-bottom: 10px;
+}
+
 
 
 /*!*************************************************************************************************************************************!*\

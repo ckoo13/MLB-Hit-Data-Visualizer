@@ -180,10 +180,10 @@ window.addEventListener('DOMContentLoaded', e => {
         .append('div')
         .attr("id", "tooltip")
         .style("visibility", "hidden")
-        .style('background-color', 'lightblue')
+        .style('background-color', 'white')
         .style('border', 'solid')
         .style('border-width', '2px')
-        .style('opacity', 0.75)
+        .style('opacity', 1)
 
     //Grouping Logic
     const highlight = function() {

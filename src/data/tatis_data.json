@@ -1,793 +1,1991 @@
 [{
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a fly ball to right fielder Mike Yastrzemski.   Trent Grisham to 3rd.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 229,
-        "launch_speed": 68.6,
-        "launch_angle": 34,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a line drive to right fielder LaMonte Wade.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 233,
-        "launch_speed": 92.1,
-        "launch_angle": 13,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (42) on a fly ball to left center field.   Webster Rivas scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 467,
-        "launch_speed": 116.6,
-        "launch_angle": 25,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a sharp line drive to left fielder Eddie Rosario.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 163,
-        "launch_speed": 107,
-        "launch_angle": 9,
-        "pitch_name\r": "Curveball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (40) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 393,
-        "launch_speed": 106.1,
-        "launch_angle": 37,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a sharp line drive to center fielder Mike Yastrzemski.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 232,
-        "launch_speed": 111.2,
-        "launch_angle": 8,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a line drive to right fielder LaMonte Wade.   Trent Grisham scores.    Joe Musgrove to 3rd.    Fernando Tatis to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 198,
-        "launch_speed": 89.3,
-        "launch_angle": 13,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a sharp line drive to center fielder Mike Yastrzemski.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 174,
-        "launch_speed": 110.6,
-        "launch_angle": 7,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (39) on a line drive to left field.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 371,
-        "launch_speed": 111.3,
-        "launch_angle": 21,
-        "pitch_name\r": "Split-Finger\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis doubles (28) on a sharp fly ball to center fielder Steven Duggar.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 399,
-        "launch_speed": 105.1,
-        "launch_angle": 24,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis doubles (27) on a sharp line drive to right fielder LaMonte Wade.   Trent Grisham scores.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 327,
-        "launch_speed": 106,
-        "launch_angle": 18,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (38) on a fly ball to center field.   Manny Machado scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 400,
-        "launch_speed": 101.8,
-        "launch_angle": 28,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a line drive to left fielder Steven Souza.   Manny Machado scores.    Fernando Tatis to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 216,
-        "launch_speed": 78.4,
-        "launch_angle": 20,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis singles on a line drive to right fielder Mookie Betts.   Ha-Seong Kim to 3rd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 198,
-        "launch_speed": 72,
-        "launch_angle": 23,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (37) on a fly ball to left center field.   Austin Nola scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 444,
-        "launch_speed": 115.2,
-        "launch_angle": 21,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis doubles (26) on a line drive to right fielder Jake McCarthy.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 369,
-        "launch_speed": 105.8,
-        "launch_angle": 20,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (36) on a fly ball to left center field.   Trent Grisham scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 444,
-        "launch_speed": 103.2,
-        "launch_angle": 29,
-        "pitch_name\r": "Knuckle Curve\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis doubles (25) on a sharp fly ball to center fielder Ketel Marte.   Manny Machado scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 408,
-        "launch_speed": 104.3,
-        "launch_angle": 23,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis doubles (24) on a sharp line drive to left fielder Justin Upton.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 211,
-        "launch_speed": 106.8,
-        "launch_angle": 13,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (35) on a fly ball to right field.    Victor Caratini scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 368,
-        "launch_speed": 104.2,
-        "launch_angle": 32,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (34) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 450,
-        "launch_speed": 104.8,
-        "launch_angle": 30,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis doubles (22) on a sharp line drive to right fielder Charlie Blackmon.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 404,
-        "launch_speed": 106.7,
-        "launch_angle": 22,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (33) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 382,
-        "launch_speed": 92.9,
-        "launch_angle": 32,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (32) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 416,
-        "launch_speed": 105,
-        "launch_angle": 40,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Connor Joe.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 239,
-        "launch_speed": 112,
-        "launch_angle": 12,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (20) on a sharp line drive to left fielder Raimel Tapia.   Tommy Pham scores.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 297,
-        "launch_speed": 115.2,
-        "launch_angle": 18,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (31) on a fly ball to left center field.   Adam Frazier scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 440,
-        "launch_speed": 111.8,
-        "launch_angle": 32,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (19) on a sharp line drive to center fielder Ramon Laureano.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 275,
-        "launch_speed": 103.9,
-        "launch_angle": 14,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (30) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 409,
-        "launch_speed": 111,
-        "launch_angle": 40,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (29) on a fly ball to left center field.   Tommy Pham scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 411,
-        "launch_speed": 104.4,
-        "launch_angle": 26,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a line drive to left fielder Orlando Arcia.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 204,
-        "launch_speed": 79.9,
-        "launch_angle": 19,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis homers (30) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 419,
-        "launch_speed": 110.6,
-        "launch_angle": 21,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to center fielder Victor Robles.   Blake Snell scores.    Tommy Pham to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 182,
-        "launch_speed": 111.8,
-        "launch_angle": 9,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a fly ball to right fielder Juan Soto.   Tommy Pham to 2nd.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 225,
-        "launch_speed": 69.5,
-        "launch_angle": 41,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Josh Harrison.   Webster Rivas scores.    Tommy Pham to 3rd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 354,
-        "launch_speed": 113.3,
-        "launch_angle": 21,
-        "pitch_name\r": "Split-Finger\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (28) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 433,
-        "launch_speed": 113.3,
-        "launch_angle": 24,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a fly ball to right fielder Juan Soto.   Tommy Pham scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 187,
-        "launch_speed": 85.9,
-        "launch_angle": 60,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to center fielder Victor Robles.   Victor Caratini to 3rd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 176,
-        "launch_speed": 111,
-        "launch_angle": 8,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (27) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 399,
-        "launch_speed": 116,
-        "launch_angle": 24,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (17) on a sharp line drive to left fielder Andrew McCutchen.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 344,
-        "launch_speed": 105.1,
-        "launch_angle": 19,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (15) on a sharp line drive to right fielder Bryce Harper.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 294,
-        "launch_speed": 111.7,
-        "launch_angle": 14,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (16) on a sharp line drive to center fielder Odubel Herrera.   Jake Cronenworth scores.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 305,
-        "launch_speed": 107.2,
-        "launch_angle": 15,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Jesse Winker.   Tommy Pham to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 255,
-        "launch_speed": 108.6,
-        "launch_angle": 14,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (26) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 393,
-        "launch_speed": 104.7,
-        "launch_angle": 34,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Jesse Winker.   Victor Caratini to 3rd.    Craig Stammen to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 213,
-        "launch_speed": 112.3,
-        "launch_angle": 11,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (25) on a fly ball to center field.   Tommy Pham scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 415,
-        "launch_speed": 109.2,
-        "launch_angle": 27,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (24) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 373,
-        "launch_speed": 98.5,
-        "launch_angle": 27,
-        "pitch_name\r": "Curveball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (23) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 400,
-        "launch_speed": 111.9,
-        "launch_angle": 34,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (13) on a sharp line drive to left fielder Zach Reks.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 243,
-        "launch_speed": 103.5,
-        "launch_angle": 19,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (12) on a line drive to left fielder Jesse Winker.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 167,
-        "launch_speed": 79.6,
-        "launch_angle": 16,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (22) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 397,
-        "launch_speed": 107.9,
-        "launch_angle": 40,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (11) on a line drive to left fielder Raimel Tapia.   Tommy Pham scores.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 297,
-        "launch_speed": 99.6,
-        "launch_angle": 19,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (21) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 477,
-        "launch_speed": 113.1,
-        "launch_angle": 26,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (20) on a fly ball to right center field.    Manny Machado scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 431,
-        "launch_speed": 104.5,
-        "launch_angle": 27,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  hits a grand slam (19) to left center field.   Jake Cronenworth scores.    Jurickson Profar scores.    Tommy Pham scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 444,
-        "launch_speed": 112.2,
-        "launch_angle": 22,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (18) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 408,
-        "launch_speed": 109.4,
-        "launch_angle": 33,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (10) on a sharp line drive to left fielder Dominic Smith.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 278,
-        "launch_speed": 113.3,
-        "launch_angle": 11,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a line drive to center fielder Kris Bryant.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 193,
-        "launch_speed": 66.4,
-        "launch_angle": 25,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to right fielder Billy McKinney.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 219,
-        "launch_speed": 107.9,
-        "launch_angle": 10,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (17) on a fly ball to center field.   Manny Machado scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 401,
-        "launch_speed": 104.3,
-        "launch_angle": 37,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (16) on a fly ball to right center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 423,
-        "launch_speed": 109,
-        "launch_angle": 26,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (15) on a fly ball to left field.   Manny Machado scores.    Jake Cronenworth scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 448,
-        "launch_speed": 114.9,
-        "launch_angle": 30,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (14) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 408,
-        "launch_speed": 104,
-        "launch_angle": 29,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a fly ball to shortstop Willy Adames.   Jurickson Profar scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 215,
-        "launch_speed": 64,
-        "launch_angle": 34,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (8) on a sharp line drive to left fielder Jackie Bradley.   Tommy Pham scores.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 311,
-        "launch_speed": 110.8,
-        "launch_angle": 20,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Sam Haggerty.   Jurickson Profar scores.    Jake Cronenworth to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 198,
-        "launch_speed": 111,
-        "launch_angle": 11,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  hits a grand slam (13) to center field.   Tommy Pham scores.    Jurickson Profar scores.    Jake Cronenworth scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 447,
-        "launch_speed": 111.8,
-        "launch_angle": 27,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (12) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 441,
-        "launch_speed": 109.7,
-        "launch_angle": 26,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (7) on a sharp line drive to left fielder Jarred Kelenic.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 333,
-        "launch_speed": 106.7,
-        "launch_angle": 20,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (11) on a fly ball to right center field.    Trent Grisham scores.    Jurickson Profar scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 393,
-        "launch_speed": 105.8,
-        "launch_angle": 30,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (4) on a sharp line drive to left fielder Raimel Tapia.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 183,
-        "launch_speed": 112,
-        "launch_angle": 11,
-        "pitch_name\r": "Changeup\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (10) on a fly ball to right center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 415,
-        "launch_speed": 108.4,
-        "launch_angle": 28,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (5) on a sharp line drive to left fielder Raimel Tapia.   Trent Grisham scores.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 299,
-        "launch_speed": 100.2,
-        "launch_angle": 22,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (9) on a fly ball to center field.   Victor Caratini scores.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 454,
-        "launch_speed": 108.4,
-        "launch_angle": 29,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a fly ball to shortstop Brandon Crawford.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 200,
-        "launch_speed": 62,
-        "launch_angle": 36,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (8) on a fly ball to right field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 338,
-        "launch_speed": 103.4,
-        "launch_angle": 42,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (3) on a sharp line drive to center fielder Pavin Smith.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 367,
-        "launch_speed": 103.8,
-        "launch_angle": 19,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (7) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 408,
-        "launch_speed": 104.2,
-        "launch_angle": 30,
-        "pitch_name\r": "Sinker\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a line drive to left fielder Chris Taylor.   Victor Caratini to 2nd.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 251,
-        "launch_speed": 85.3,
-        "launch_angle": 20,
-        "pitch_name\r": "Knuckle Curve\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (6) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 414,
-        "launch_speed": 105.2,
-        "launch_angle": 28,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (5) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 383,
-        "launch_speed": 103.7,
-        "launch_angle": 35,
-        "pitch_name\r": "Cutter\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (4) on a fly ball to left field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 419,
-        "launch_speed": 115.9,
-        "launch_angle": 27,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (3) on a fly ball to left center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 431,
-        "launch_speed": 113.4,
-        "launch_angle": 27,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder AJ Pollock.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 154,
-        "launch_speed": 112,
-        "launch_angle": 6,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "double",
-        "des": "Fernando Tatis Jr.  doubles (1) on a sharp line drive to left fielder Tyrone Taylor.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 230,
-        "launch_speed": 112,
-        "launch_angle": 14,
-        "pitch_name\r": "Slider\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (2) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 410,
-        "launch_speed": 106.1,
-        "launch_angle": 27,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "home_run",
-        "des": "Fernando Tatis Jr.  homers (1) on a fly ball to center field.",
-        "bb_type": "fly_ball",
-        "hit_distance_sc": 465,
-        "launch_speed": 112.6,
-        "launch_angle": 24,
-        "pitch_name\r": "4-Seam Fastball\r"
-    }, {
-        "player_name": "Tatis Jr., Fernando",
-        "events": "single",
-        "des": "Fernando Tatis Jr.  singles on a line drive to left fielder David Peralta.",
-        "bb_type": "line_drive",
-        "hit_distance_sc": 248,
-        "launch_speed": 93.1,
-        "launch_angle": 17,
-        "pitch_name\r": "4-Seam Fastball"
-    }]
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a fly ball to right fielder Mike Yastrzemski.   Trent Grisham to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 229,
+    "launch_speed": 68.6,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder LaMonte Wade.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 233,
+    "launch_speed": 92.1,
+    "launch_angle": 13,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (42) on a fly ball to left center field.   Webster Rivas scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 467,
+    "launch_speed": 116.6,
+    "launch_angle": 25,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to left fielder Eddie Rosario.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 163,
+    "launch_speed": 107,
+    "launch_angle": 9,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (40) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 393,
+    "launch_speed": 106.1,
+    "launch_angle": 37,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to center fielder Mike Yastrzemski.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 232,
+    "launch_speed": 111.2,
+    "launch_angle": 8,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder LaMonte Wade.   Trent Grisham scores.    Joe Musgrove to 3rd.    Fernando Tatis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 198,
+    "launch_speed": 89.3,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to center fielder Mike Yastrzemski.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 174,
+    "launch_speed": 110.6,
+    "launch_angle": 7,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (39) on a line drive to left field.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 371,
+    "launch_speed": 111.3,
+    "launch_angle": 21,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (28) on a sharp fly ball to center fielder Steven Duggar.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 399,
+    "launch_speed": 105.1,
+    "launch_angle": 24,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (27) on a sharp line drive to right fielder LaMonte Wade.   Trent Grisham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 327,
+    "launch_speed": 106,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (38) on a fly ball to center field.   Manny Machado scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 101.8,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to left fielder Steven Souza.   Manny Machado scores.    Fernando Tatis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 216,
+    "launch_speed": 78.4,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Mookie Betts.   Ha-Seong Kim to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 198,
+    "launch_speed": 72,
+    "launch_angle": 23,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (37) on a fly ball to left center field.   Austin Nola scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 444,
+    "launch_speed": 115.2,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (26) on a line drive to right fielder Jake McCarthy.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 369,
+    "launch_speed": 105.8,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (36) on a fly ball to left center field.   Trent Grisham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 444,
+    "launch_speed": 103.2,
+    "launch_angle": 29,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (25) on a sharp fly ball to center fielder Ketel Marte.   Manny Machado scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 408,
+    "launch_speed": 104.3,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (24) on a sharp line drive to left fielder Justin Upton.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 211,
+    "launch_speed": 106.8,
+    "launch_angle": 13,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (35) on a fly ball to right field.    Victor Caratini scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 368,
+    "launch_speed": 104.2,
+    "launch_angle": 32,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (34) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 450,
+    "launch_speed": 104.8,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (22) on a sharp line drive to right fielder Charlie Blackmon.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 404,
+    "launch_speed": 106.7,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (33) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 382,
+    "launch_speed": 92.9,
+    "launch_angle": 32,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (32) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 416,
+    "launch_speed": 105,
+    "launch_angle": 40,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Connor Joe.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 239,
+    "launch_speed": 112,
+    "launch_angle": 12,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (20) on a sharp line drive to left fielder Raimel Tapia.   Tommy Pham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 297,
+    "launch_speed": 115.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (31) on a fly ball to left center field.   Adam Frazier scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 440,
+    "launch_speed": 111.8,
+    "launch_angle": 32,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (19) on a sharp line drive to center fielder Ramon Laureano.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 275,
+    "launch_speed": 103.9,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (30) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 409,
+    "launch_speed": 111,
+    "launch_angle": 40,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (29) on a fly ball to left center field.   Tommy Pham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 411,
+    "launch_speed": 104.4,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to left fielder Orlando Arcia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 204,
+    "launch_speed": 79.9,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (30) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 419,
+    "launch_speed": 110.6,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to center fielder Victor Robles.   Blake Snell scores.    Tommy Pham to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 182,
+    "launch_speed": 111.8,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a fly ball to right fielder Juan Soto.   Tommy Pham to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 225,
+    "launch_speed": 69.5,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Josh Harrison.   Webster Rivas scores.    Tommy Pham to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 354,
+    "launch_speed": 113.3,
+    "launch_angle": 21,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (28) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 433,
+    "launch_speed": 113.3,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a fly ball to right fielder Juan Soto.   Tommy Pham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 187,
+    "launch_speed": 85.9,
+    "launch_angle": 60,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to center fielder Victor Robles.   Victor Caratini to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 176,
+    "launch_speed": 111,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (27) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 399,
+    "launch_speed": 116,
+    "launch_angle": 24,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (17) on a sharp line drive to left fielder Andrew McCutchen.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 344,
+    "launch_speed": 105.1,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (15) on a sharp line drive to right fielder Bryce Harper.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 294,
+    "launch_speed": 111.7,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (16) on a sharp line drive to center fielder Odubel Herrera.   Jake Cronenworth scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 305,
+    "launch_speed": 107.2,
+    "launch_angle": 15,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Jesse Winker.   Tommy Pham to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 255,
+    "launch_speed": 108.6,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (26) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 393,
+    "launch_speed": 104.7,
+    "launch_angle": 34,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Jesse Winker.   Victor Caratini to 3rd.    Craig Stammen to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 213,
+    "launch_speed": 112.3,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (25) on a fly ball to center field.   Tommy Pham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 415,
+    "launch_speed": 109.2,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (24) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 373,
+    "launch_speed": 98.5,
+    "launch_angle": 27,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (23) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 400,
+    "launch_speed": 111.9,
+    "launch_angle": 34,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (13) on a sharp line drive to left fielder Zach Reks.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 243,
+    "launch_speed": 103.5,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (12) on a line drive to left fielder Jesse Winker.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 167,
+    "launch_speed": 79.6,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (22) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 397,
+    "launch_speed": 107.9,
+    "launch_angle": 40,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (11) on a line drive to left fielder Raimel Tapia.   Tommy Pham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 297,
+    "launch_speed": 99.6,
+    "launch_angle": 19,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (21) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 477,
+    "launch_speed": 113.1,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (20) on a fly ball to right center field.    Manny Machado scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 431,
+    "launch_speed": 104.5,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  hits a grand slam (19) to left center field.   Jake Cronenworth scores.    Jurickson Profar scores.    Tommy Pham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 444,
+    "launch_speed": 112.2,
+    "launch_angle": 22,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (18) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 408,
+    "launch_speed": 109.4,
+    "launch_angle": 33,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (10) on a sharp line drive to left fielder Dominic Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 278,
+    "launch_speed": 113.3,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to center fielder Kris Bryant.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 193,
+    "launch_speed": 66.4,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to right fielder Billy McKinney.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 219,
+    "launch_speed": 107.9,
+    "launch_angle": 10,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (17) on a fly ball to center field.   Manny Machado scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 401,
+    "launch_speed": 104.3,
+    "launch_angle": 37,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (16) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 423,
+    "launch_speed": 109,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (15) on a fly ball to left field.   Manny Machado scores.    Jake Cronenworth scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 448,
+    "launch_speed": 114.9,
+    "launch_angle": 30,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (14) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 408,
+    "launch_speed": 104,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a fly ball to shortstop Willy Adames.   Jurickson Profar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 215,
+    "launch_speed": 64,
+    "launch_angle": 34,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (8) on a sharp line drive to left fielder Jackie Bradley.   Tommy Pham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 311,
+    "launch_speed": 110.8,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Sam Haggerty.   Jurickson Profar scores.    Jake Cronenworth to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 198,
+    "launch_speed": 111,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  hits a grand slam (13) to center field.   Tommy Pham scores.    Jurickson Profar scores.    Jake Cronenworth scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 447,
+    "launch_speed": 111.8,
+    "launch_angle": 27,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (12) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 441,
+    "launch_speed": 109.7,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (7) on a sharp line drive to left fielder Jarred Kelenic.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 333,
+    "launch_speed": 106.7,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (11) on a fly ball to right center field.    Trent Grisham scores.    Jurickson Profar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 393,
+    "launch_speed": 105.8,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (4) on a sharp line drive to left fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 183,
+    "launch_speed": 112,
+    "launch_angle": 11,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (10) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 415,
+    "launch_speed": 108.4,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (5) on a sharp line drive to left fielder Raimel Tapia.   Trent Grisham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 299,
+    "launch_speed": 100.2,
+    "launch_angle": 22,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (9) on a fly ball to center field.   Victor Caratini scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 454,
+    "launch_speed": 108.4,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a fly ball to shortstop Brandon Crawford.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 200,
+    "launch_speed": 62,
+    "launch_angle": 36,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (8) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 338,
+    "launch_speed": 103.4,
+    "launch_angle": 42,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (3) on a sharp line drive to center fielder Pavin Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 367,
+    "launch_speed": 103.8,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (7) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 408,
+    "launch_speed": 104.2,
+    "launch_angle": 30,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to left fielder Chris Taylor.   Victor Caratini to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 251,
+    "launch_speed": 85.3,
+    "launch_angle": 20,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (6) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 414,
+    "launch_speed": 105.2,
+    "launch_angle": 28,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (5) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 383,
+    "launch_speed": 103.7,
+    "launch_angle": 35,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (4) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 419,
+    "launch_speed": 115.9,
+    "launch_angle": 27,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (3) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 431,
+    "launch_speed": 113.4,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder AJ Pollock.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 154,
+    "launch_speed": 112,
+    "launch_angle": 6,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (1) on a sharp line drive to left fielder Tyrone Taylor.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 230,
+    "launch_speed": 112,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (2) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 410,
+    "launch_speed": 106.1,
+    "launch_angle": 27,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (1) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2021,
+    "hit_distance_sc": 465,
+    "launch_speed": 112.6,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to left fielder David Peralta.",
+    "bb_type": "line_drive",
+    "game_year": 2021,
+    "hit_distance_sc": 248,
+    "launch_speed": 93.1,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (17) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 424,
+    "launch_speed": 105.9,
+    "launch_angle": 30,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (16) on a fly ball to left center field.   Trent Grisham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 458,
+    "launch_speed": 110.9,
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Alex Dickerson.   Jurickson Profar scores.    Trent Grisham to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 245,
+    "launch_speed": 113.1,
+    "launch_angle": 11,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to center fielder Kyle Lewis.   Jorge Mateo scores.    Trent Grisham to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 252,
+    "launch_speed": 84.2,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (11) on a sharp line drive to center fielder Kyle Lewis.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 384,
+    "launch_speed": 100.3,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to left fielder Alex Dickerson.   Trent Grisham to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 256,
+    "launch_speed": 110.7,
+    "launch_angle": 15,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to center fielder Ramon Laureano.   Trent Grisham to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 148,
+    "launch_speed": 89.3,
+    "launch_angle": 11,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (15) on a fly ball to right center field.    Trent Grisham scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 394,
+    "launch_speed": 103.9,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (10) on a sharp line drive to center fielder Ramon Laureano.   Trent Grisham to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 189,
+    "launch_speed": 102.7,
+    "launch_angle": 8,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (9) on a sharp line drive to center fielder Ramon Laureano.   Luis Campusano scores.    Trent Grisham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 410,
+    "launch_speed": 113.3,
+    "launch_angle": 16,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (14) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 396,
+    "launch_speed": 105.1,
+    "launch_angle": 31,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis Jr.  triples (2) on a sharp line drive to center fielder Sam Hilliard.   Austin Nola scores.    Jurickson Profar scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 327,
+    "launch_speed": 102.9,
+    "launch_angle": 17,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Raimel Tapia.   Trent Grisham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 214,
+    "launch_speed": 102.9,
+    "launch_angle": 12,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (7) on a sharp line drive to center fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 425,
+    "launch_speed": 104.2,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to right fielder Charlie Blackmon.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 273,
+    "launch_speed": 101.7,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  doubles (6) on a sharp line drive to center fielder Sam Hilliard.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 393,
+    "launch_speed": 103,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (13) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 448,
+    "launch_speed": 110.4,
+    "launch_angle": 31,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a fly ball to right fielder Josh Reddick.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 257,
+    "launch_speed": 73.3,
+    "launch_angle": 30,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to center fielder Myles Straw.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 161,
+    "launch_speed": 111.3,
+    "launch_angle": 9,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a line drive to left fielder Nick Solak.   Austin Hedges to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 240,
+    "launch_speed": 99.3,
+    "launch_angle": 13,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (12) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 419,
+    "launch_speed": 106.6,
+    "launch_angle": 30,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis Jr.  singles on a sharp line drive to left fielder Nick Solak.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 227,
+    "launch_speed": 113.3,
+    "launch_angle": 14,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  hits a grand slam (11) to right center field.   Jurickson Profar scores.    Josh Naylor scores.    Trent Grisham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 407,
+    "launch_speed": 109.8,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (10) on a line drive to left center field.   Austin Hedges scores.    Trent Grisham scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 405,
+    "launch_speed": 112.6,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis Jr.  homers (9) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 410,
+    "launch_speed": 111.8,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis Jr.  hits a ground-rule double (5) on a line drive to right-center field.   Edward Olivares scores.    Manny Machado scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 381,
+    "launch_speed": 106,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to left fielder Joc Pederson.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 149,
+    "launch_speed": 112.1,
+    "launch_angle": 7,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (8) on a fly ball to left field.   Jurickson Profar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 418,
+    "launch_speed": 102,
+    "launch_angle": 32,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to left fielder Jon Jay.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 149,
+    "launch_speed": 98.2,
+    "launch_angle": 10,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (7) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 402,
+    "launch_speed": 101,
+    "launch_angle": 31,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (6) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 394,
+    "launch_speed": 110.2,
+    "launch_angle": 26,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (5) on a line drive to center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 434,
+    "launch_speed": 109.7,
+    "launch_angle": 20,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (4) on a fly ball to left field.   Jurickson Profar scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 430,
+    "launch_speed": 112.1,
+    "launch_angle": 34,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (3) on a fly ball to right center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 394,
+    "launch_speed": 105.7,
+    "launch_angle": 33,
+    "pitch_name": "Knuckle Curve"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (3) on a line drive to right fielder Charlie Blackmon.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 365,
+    "launch_speed": 95.1,
+    "launch_angle": 22,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Charlie Blackmon.   Francisco Mejia scores.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 266,
+    "launch_speed": 103.8,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (2) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 395,
+    "launch_speed": 97.5,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to left fielder Alex Dickerson.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 190,
+    "launch_speed": 104.5,
+    "launch_angle": 11,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (1) on a fly ball to right field.    Wil Myers scores.    Francisco Mejia scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2020,
+    "hit_distance_sc": 346,
+    "launch_speed": 100.6,
+    "launch_angle": 33,
+    "pitch_name": "Split-Finger"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to right fielder Kole Calhoun.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 198,
+    "launch_speed": 104,
+    "launch_angle": 9,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis hits a ground-rule double (2) on a line drive to left-center field.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 374,
+    "launch_speed": 99.6,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (1) on a sharp line drive to right fielder Kole Calhoun.",
+    "bb_type": "line_drive",
+    "game_year": 2020,
+    "hit_distance_sc": 358,
+    "launch_speed": 104.2,
+    "launch_angle": 22,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a fly ball to right fielder Avisail Garcia.  Fernando Tatis out at 1st on the throw, right fielder Avisail Garcia to first baseman Ji-Man Choi.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 220,
+    "launch_speed": 74,
+    "launch_angle": 27,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis triples (6) on a sharp line drive to right fielder Charlie Blackmon.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 332,
+    "launch_speed": 100.2,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (13) on a sharp line drive to center fielder Raimel Tapia.   Manuel Margot scores.    Luis Urias scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 305,
+    "launch_speed": 109.6,
+    "launch_angle": 13,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (22) on a fly ball to right field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 357,
+    "launch_speed": 101.3,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Mallex Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 268,
+    "launch_speed": 85.7,
+    "launch_angle": 21,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (21) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 409,
+    "launch_speed": 110.8,
+    "launch_angle": 26,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (20) on a fly ball to left field.   Luis Urias scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 420,
+    "launch_speed": 106.3,
+    "launch_angle": 28,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a fly ball to right fielder Joc Pederson.   Francisco Mejia scores.    Ian Kinsler to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 182,
+    "launch_speed": 62.1,
+    "launch_angle": 35,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis hits a ground-rule double (12) on a line drive down the left-field line.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 297,
+    "launch_speed": 113.2,
+    "launch_angle": 15,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a fly ball to right fielder Cody Bellinger.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 211,
+    "launch_speed": 66.9,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (19) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 435,
+    "launch_speed": 108.9,
+    "launch_angle": 26,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (18) on a line drive to left center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 400,
+    "launch_speed": 108.2,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (17) on a fly ball to center field.   Cal Quantrill scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 414,
+    "launch_speed": 106.4,
+    "launch_angle": 20,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Kevin Pillar.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 263,
+    "launch_speed": 83.8,
+    "launch_angle": 19,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Jeff McNeil.   Ian Kinsler to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 253,
+    "launch_speed": 88.3,
+    "launch_angle": 17,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (11) on a sharp line drive to left fielder Dominic Smith.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 323,
+    "launch_speed": 107,
+    "launch_angle": 14,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a fly ball to left fielder Dominic Smith.   Austin Hedges scores.    Francisco Mejia to 2nd.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 214,
+    "launch_speed": 79.6,
+    "launch_angle": 53,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (10) on a sharp line drive to center fielder Juan Lagares.   Eric Hosmer scores.    Francisco Mejia to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 347,
+    "launch_speed": 110.6,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to right fielder Jason Heyward.   Luis Urias scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 200,
+    "launch_speed": 101.8,
+    "launch_angle": 8,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Jason Heyward.   Francisco Mejia scores.    Luis Urias scores.    Greg Garcia to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 198,
+    "launch_speed": 87.2,
+    "launch_angle": 13,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (16) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 468,
+    "launch_speed": 108.4,
+    "launch_angle": 25,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to pitcher Jon Lester.   Eric Lauer to 3rd.    Fernando Tatis to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 62,
+    "launch_speed": 93.5,
+    "launch_angle": 2,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (15) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 418,
+    "launch_speed": 104.6,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 248,
+    "launch_speed": 87.9,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Ronald Acuna.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 159,
+    "launch_speed": 95,
+    "launch_angle": 10,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a fly ball to right fielder Nick Markakis.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 212,
+    "launch_speed": 69.8,
+    "launch_angle": 26,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (13) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 415,
+    "launch_speed": 104.3,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (14) on a fly ball to left center field.   Manuel Margot scores.    Austin Hedges scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 379,
+    "launch_speed": 95.8,
+    "launch_angle": 26,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to left fielder Kyle Garlick.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 272,
+    "launch_speed": 88.2,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Alex Verdugo.   Eric Lauer to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 221,
+    "launch_speed": 67.8,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to left fielder Joc Pederson.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 243,
+    "launch_speed": 106.5,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (12) on a fly ball to left center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 406,
+    "launch_speed": 102.1,
+    "launch_angle": 29,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis triples (5) on a line drive to center fielder Kevin Pillar.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 216,
+    "launch_speed": 99.4,
+    "launch_angle": 11,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to left fielder Tyler O'Neill.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 194,
+    "launch_speed": 110.4,
+    "launch_angle": 9,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Harrison Bader.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 195,
+    "launch_speed": 72.7,
+    "launch_angle": 17,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (9) on a fly ball to right fielder Jose Martinez.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 214,
+    "launch_speed": 73.1,
+    "launch_angle": 41,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (11) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 440,
+    "launch_speed": 111.6,
+    "launch_angle": 23,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (10) on a line drive to right center field.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 375,
+    "launch_speed": 110,
+    "launch_angle": 19,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (9) on a fly ball to center field.   Manuel Margot scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 394,
+    "launch_speed": 106.6,
+    "launch_angle": 35,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to left fielder Bryan Reynolds.   Austin Hedges scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 196,
+    "launch_speed": 85.1,
+    "launch_angle": 15,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a pop up to first baseman Yasmani Grandal.",
+    "bb_type": "popup",
+    "game_year": 2019,
+    "hit_distance_sc": 161,
+    "launch_speed": 59.5,
+    "launch_angle": 46,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Christian Yelich.   Logan Allen to 3rd.    Greg Garcia to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 156,
+    "launch_speed": 79.1,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (8) on a sharp line drive to right fielder Charlie Blackmon.   Manuel Margot scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 361,
+    "launch_speed": 107.9,
+    "launch_angle": 18,
+    "pitch_name": "Curveball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis triples (4) on a sharp line drive to left fielder Raimel Tapia.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 322,
+    "launch_speed": 106.4,
+    "launch_angle": 16,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to center fielder Ian Desmond.   Eric Hosmer to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 176,
+    "launch_speed": 101.7,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Ian Desmond.   Wil Myers scores.    Ian Kinsler scores.    Manuel Margot to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 233,
+    "launch_speed": 115.9,
+    "launch_angle": 7,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to left fielder David Dahl.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 217,
+    "launch_speed": 69.5,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis triples (3) on a sharp fly ball to center fielder Ian Desmond.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": "",
+    "launch_speed": 108.1,
+    "launch_angle": 22,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (7) on a sharp line drive to left fielder David Dahl.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 270,
+    "launch_speed": 110.8,
+    "launch_angle": 12,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis triples (2) on a fly ball to right fielder Charlie Blackmon.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 298,
+    "launch_speed": 81.5,
+    "launch_angle": 32,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (8) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 418,
+    "launch_speed": 104.5,
+    "launch_angle": 38,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (7) on a fly ball to center field.   Greg Garcia scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 403,
+    "launch_speed": 106.5,
+    "launch_angle": 31,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a sharp line drive to right fielder Adam Eaton.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 209,
+    "launch_speed": 111,
+    "launch_angle": 9,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (5) on a fly ball to center fielder Mallex Smith.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": "",
+    "launch_speed": 93.1,
+    "launch_angle": 32,
+    "pitch_name": "Changeup"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "triple",
+    "des": "Fernando Tatis triples (1) on a line drive to left fielder Matt Kemp.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 121,
+    "launch_speed": 85.3,
+    "launch_angle": 10,
+    "pitch_name": "Slider"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (6) on a fly ball to center field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 438,
+    "launch_speed": 110.1,
+    "launch_angle": 24,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Scott Schebler.   Luis Urias to 2nd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 255,
+    "launch_speed": 99.6,
+    "launch_angle": 12,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (4) on a sharp line drive to right fielder Charlie Blackmon.   Manny Machado scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 361,
+    "launch_speed": 105.7,
+    "launch_angle": 19,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Ketel Marte.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 198,
+    "launch_speed": 70.6,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (5) on a fly ball to left field.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 377,
+    "launch_speed": 98.2,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (4) on a fly ball to center field.   Eric Hosmer scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 417,
+    "launch_speed": 104.9,
+    "launch_angle": 32,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (3) on a sharp line drive to right fielder Adam Jones.   Wil Myers scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 362,
+    "launch_speed": 100.1,
+    "launch_angle": 22,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to center fielder Jarrod Dyson.  Franmil Reyes out at 2nd on the throw, center fielder Jarrod Dyson to second baseman Ketel Marte.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 240,
+    "launch_speed": 79.4,
+    "launch_angle": 21,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (3) on a fly ball to left field.   Eric Hosmer scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 355,
+    "launch_speed": 109,
+    "launch_angle": 45,
+    "pitch_name": "Cutter"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a soft line drive to right fielder Dexter Fowler.   Franchy Cordero to 3rd.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 252,
+    "launch_speed": 81.2,
+    "launch_angle": 28,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (2) on a fly ball to left field.   Franmil Reyes scores.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 372,
+    "launch_speed": 101.1,
+    "launch_angle": 35,
+    "pitch_name": "Sinker"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "single",
+    "des": "Fernando Tatis singles on a line drive to right fielder Adam Jones.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 262,
+    "launch_speed": 93,
+    "launch_angle": 18,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "home_run",
+    "des": "Fernando Tatis homers (1) on a line drive to left field.   Manny Machado scores.",
+    "bb_type": "line_drive",
+    "game_year": 2019,
+    "hit_distance_sc": 395,
+    "launch_speed": 106.8,
+    "launch_angle": 28,
+    "pitch_name": "4-Seam Fastball"
+}, {
+    "player_name": "Tatis Jr., Fernando",
+    "events": "double",
+    "des": "Fernando Tatis doubles (1) on a sharp fly ball to center fielder Steven Duggar.   Eric Hosmer to 3rd.",
+    "bb_type": "fly_ball",
+    "game_year": 2019,
+    "hit_distance_sc": 403,
+    "launch_speed": 102.6,
+    "launch_angle": 23,
+    "pitch_name": "Slider"
+}]
