@@ -263,12 +263,13 @@ window.addEventListener('DOMContentLoaded', e => {
 
     //Checkbox Function
     function updateCheckbox() {
-        d3.selectAll('.checkbox').each(function(d) {
+        d3.selectAll('.checkbox-mookie').each(function(d) {
             checkbox = d3.select(this);
             group = checkbox.property('value');
 
             //if box is check -> display the dots
             if (checkbox.property('checked')) {
+                debugger;
                 svg.selectAll('.' + group)
                     .transition()
                     .duration(1000)
@@ -283,7 +284,7 @@ window.addEventListener('DOMContentLoaded', e => {
             }
         })
 
-        d3.selectAll('.checkbox').on('change',updateCheckbox)
+        d3.selectAll('.checkbox-mookie').on('change',updateCheckbox)
     }
 
     //Creating the graph functions
