@@ -5,8 +5,8 @@ window.addEventListener('DOMContentLoaded', e => {
     let values = mookie;
 
     //Setting up canvas
-    let width = 700;
-    let height = 500;
+    let width = 800;
+    let height = 600;
     //padding value makes spacing the vertical scale easier
         //just make sure that this is equal to the corresponding margin value in the x-axis (margin.left)
     let padding = 50;
@@ -18,9 +18,7 @@ window.addEventListener('DOMContentLoaded', e => {
     
     //Selecting HTML element for the canvas svg
     let svg = d3.select('#mookie');
-    // Create the scatter variable: where both the circles and the brush take place
-    const scatter = svg.append('g')
-        .attr("clip-path", "url(#clip)")
+
     //method to draw Canvas
     let drawCanvas = () => {
         svg.attr('width', width);
@@ -59,6 +57,9 @@ window.addEventListener('DOMContentLoaded', e => {
         .attr('id', 'y-axis')
         .attr('transform', 'translate(' + padding + ', 0)');
 
+    // Create the scatter variable: where both the circles and the brush take place
+    const scatter = svg.append('g')
+        .attr("clip-path", "url(#clip)")
 
     //Axis Titles
     svg.append("text")
@@ -133,14 +134,14 @@ window.addEventListener('DOMContentLoaded', e => {
             .html()
             d3.select(this)
                 .style('stroke', 'black')
-            highlight(this)  
+            highlight()  
         })
         .on('mouseleave', function() {
             tooltip.transition()
                 .style('visibility', 'hidden')
             d3.select(this)
                 .style('stroke', 'none')
-                .style('stroke-width', 5)
+                .style('stroke-width', 2)
             doNotHighlight()
         })
 
@@ -156,10 +157,9 @@ window.addEventListener('DOMContentLoaded', e => {
         .style('opacity', 0.75)
 
     //Grouping Logic
-    const highlight = function(event) {
-
+    const highlight = function() {
         //grab the identifier for which group we want
-        let hitType = event.getAttribute('data-event');
+        let hitType = event.target.getAttribute('data-event');
 
         //hard coding the color value that we want
         let color = '';
@@ -181,7 +181,6 @@ window.addEventListener('DOMContentLoaded', e => {
             .attr("r", 3)
         
         //adjust the same group circles
-
         d3.selectAll('.' + hitType)
             .transition()
             .duration(200)
@@ -216,49 +215,46 @@ window.addEventListener('DOMContentLoaded', e => {
             .attr("r", 5 )
     }
 
-    //Zoom Logic
+    // Zoom Logic
     
     // Adding clip path so the circles that don't need to be shown don't show up
-    var clip = svg.append("defs").append("SVG:clipPath")
+    let clip = svg.append("defs").append("SVG:clipPath")
         .attr("id", "clip")
         .append("SVG:rect")
         .attr("width", width )
-        .attr("height", height )
-        .attr("x", 0)
+        .attr("height", height - padding )
+        .attr("x", margin.left)
         .attr("y", 0);
-
-    // Create the scatter variable: where both the circles and the brush take place
     
-
     //Creating zoom function
-    const zoom = d3.zoom()
+        const zoom = d3.zoom()
         .scaleExtent([0.5, 10])
-        .extent([0,0], [width,height])
-        .on('zoom', zoomed)
+        // .extent([0,0], [width,height])
+        .on("zoom", zoomed);
 
     svg.append("rect")
         .attr("width", width)
         .attr("height", height)
         .style("fill", "none")
         .style("pointer-events", "all")
-        .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+        .attr('transform', 'translate(0, ' - (padding + height) +')')
         .call(zoom);
 
-    // //need to fix this function
+    //handling the zoom logic
     function zoomed() {
-
         // recover the new scale
-        gX.call(xAxis.scale(d3.event.transform.rescaleX(xScale)));
-        gY.call(yAxis.scale(d3.event.transform.rescaleY(yScale)));
+        let newX = d3.event.transform.rescaleX(xScale);
+        let newY = d3.event.transform.rescaleY(yScale);
 
-        // update axes with these new boundaries
-        let new_xScale = d3.event.transform.rescaleX(xScale);
-        let new_yScale = d3.event.transform.rescaleY(yScale);
+        //update axes
+        gX.call(d3.axisBottom(newX));
+        gY.call(d3.axisLeft(newY)); 
 
-        // update circle position
-        scatter
-            .attr('cx', function(d) {return new_xScale(d.xScale)})
-            .attr('cy', function(d) {return newY(d.yScale)});
+        //update circle position
+        svg
+            .selectAll('circle')
+            .attr('cx', function(item) {return newX(item['launch_speed'])})
+            .attr('cy', function(item) {return newY(item['launch_angle'])})
     }
 
     //Creating the graph functions
