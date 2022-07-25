@@ -131,6 +131,9 @@ window.addEventListener('DOMContentLoaded', e => {
         .attr('data-event', (item) => {
             return item['events']
         })
+        .attr('data-season', (item) => {
+            return item['game_year']
+        })
         .attr('cx', (item) => {
             return xScale(item['launch_speed'])
         })
@@ -258,6 +261,32 @@ window.addEventListener('DOMContentLoaded', e => {
             .attr('cy', function(item) {return newY(item['launch_angle'])})
     }
 
+    //Checkbox Function
+    function updateCheckbox() {
+        d3.selectAll('.checkbox').each(function(d) {
+            checkbox = d3.select(this);
+            group = checkbox.property('value');
+
+            //if box is check -> display the dots
+            if (checkbox.property('checked')) {
+                svg.selectAll('.' + group)
+                    .transition()
+                    .duration(1000)
+                    .style('opacity', 0.75)
+                    .attr('r', 5)
+            } else {
+                svg.selectAll('.' + group)
+                    .transition()
+                    .duration(1000)
+                    .style('opacity', 0)
+                    .attr('r', 0)
+            }
+        })
+
+        d3.selectAll('.checkbox').on('change',updateCheckbox)
+    }
+
     //Creating the graph functions
     drawCanvas();
+    updateCheckbox();
 })
