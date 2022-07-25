@@ -1,8 +1,8 @@
-var tatis = require('../../data/tatis_data.json');
+var trout = require('../../data/trout_data.json');
 
 window.addEventListener('DOMContentLoaded', e => {
     //Data
-    let values = tatis;
+    let values = trout;
 
     //Setting up canvas
     let width = 800;
@@ -17,7 +17,7 @@ window.addEventListener('DOMContentLoaded', e => {
     let yScale;
     
     //Selecting HTML element for the canvas svg
-    let svg = d3.select('#tatis-graph');
+    let svg = d3.select('#trout-graph');
 
     //method to draw Canvas
     let drawCanvas = () => {
@@ -283,7 +283,7 @@ window.addEventListener('DOMContentLoaded', e => {
             }
         })
 
-        d3.selectAll('.tatis').on('change',updateCheckbox)
+        d3.selectAll('.trout').on('change',updateCheckbox)
     }
 
     //Creating the graph functions

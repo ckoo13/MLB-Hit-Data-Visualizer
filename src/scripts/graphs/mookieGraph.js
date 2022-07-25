@@ -17,7 +17,7 @@ window.addEventListener('DOMContentLoaded', e => {
     let yScale;
     
     //Selecting HTML element for the canvas svg
-    let svg = d3.select('#mookie');
+    let svg = d3.select('#mookie-graph');
 
     //method to draw Canvas
     let drawCanvas = () => {
@@ -263,13 +263,12 @@ window.addEventListener('DOMContentLoaded', e => {
 
     //Checkbox Function
     function updateCheckbox() {
-        d3.selectAll('.checkbox-mookie').each(function(d) {
+        d3.selectAll('.checkbox.mookie').each(function(d) {
             checkbox = d3.select(this);
             group = checkbox.property('value');
 
             //if box is check -> display the dots
             if (checkbox.property('checked')) {
-                debugger;
                 svg.selectAll('.' + group)
                     .transition()
                     .duration(1000)
@@ -284,7 +283,7 @@ window.addEventListener('DOMContentLoaded', e => {
             }
         })
 
-        d3.selectAll('.checkbox-mookie').on('change',updateCheckbox)
+        d3.selectAll('.mookie').on('change',updateCheckbox)
     }
 
     //Creating the graph functions

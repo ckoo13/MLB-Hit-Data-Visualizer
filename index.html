@@ -41,13 +41,14 @@
         <div class="graph-container fade-in">
             <!-- Checkboxes -->
             <div class="checkbox-container">
+                <!-- the mookie class is needed for checkbox functionality -->
                 <input type="checkbox" class="checkbox mookie" value="home_run" checked><label class="checkbox-label">Home Runs</label>
                 <input type="checkbox" class="checkbox mookie" value="triple" checked><label class="checkbox-label">Triples</label>
                 <input type="checkbox" class="checkbox mookie" value="double" checked><label class="checkbox-label">Doubles</label>
                 <input type="checkbox" class="checkbox mookie" value="single" checked><label class="checkbox-label">Singles</label>
             </div>
 
-            <svg id="mookie">
+            <svg id="mookie-graph">
             </svg>
         </div>
     </div>
@@ -75,7 +76,38 @@
                 <input type="checkbox" class="checkbox tatis" value="single" checked><label class="checkbox-label">Singles</label>
             </div>
 
-            <svg id="tatis">
+            <!-- this is the identifier for the svg element in graph logic -->
+            <svg id="tatis-graph">
+            </svg>
+        </div>
+    </div>
+
+    <!-- Container for Trout Section -->
+    <div class="player-container fade-in">
+        <!-- Player Section -->
+        <div class="player-section">
+            <div class="player-name">Mike Trout</div>
+            <div class="player-headshot">
+                <img class="headshot" src="/assets/headshots/trout.png" alt="">
+            </div>
+            <div class="bio-text">Michael Nelson Trout is an American professional baseball 
+                center fielder for the Los Angeles Angels of Major League Baseball. 
+                Trout is a ten-time MLB All-Star, three-time American League Most Valuable Player, 
+                and is an eight-time winner of the Silver Slugger Award.</div>
+        </div>
+
+        <!-- Scatterplot 2 -->
+        <div class="graph-container fade-in">
+            <!-- Checkboxes -->
+            <div class="checkbox-container">
+                <input type="checkbox" class="checkbox trout" value="home_run" checked><label class="checkbox-label">Home Runs</label>
+                <input type="checkbox" class="checkbox trout" value="triple" checked><label class="checkbox-label">Triples</label>
+                <input type="checkbox" class="checkbox trout" value="double" checked><label class="checkbox-label">Doubles</label>
+                <input type="checkbox" class="checkbox trout" value="single" checked><label class="checkbox-label">Singles</label>
+            </div>
+
+            <!-- this is the identifier for the svg element in graph logic -->
+            <svg id="trout-graph">
             </svg>
         </div>
     </div>
