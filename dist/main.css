@@ -144,6 +144,7 @@ svg {
 }
 .player-bio-area {
     width: 25%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -237,4 +238,26 @@ svg {
   display: inline-block;
   padding-right: 15px;
   box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+#vis {
+  display: inline-block;
+  position: fixed;
+  height: 100%;
+  align-self: flex-start;
+  margin-left: 20vw;
+}
+
+.new-svg-container-class {
+  height: 100%;
+  width: 75%;
+}
+
+.new-svg-container-class svg {
+  width: 80%;
+  height: 117vh;
 }

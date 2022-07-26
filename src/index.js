@@ -1,6 +1,7 @@
 const mookie = require('./data/mookie_data.json');
 const tatis = require('./data/tatis_data.json');
 const trout = require('./data/trout_data.json');
+// import * as Slides from './scripts/slides'
 
 //I don't know how to do this in a better way tbh
 let hitterData = [];
@@ -53,8 +54,8 @@ const createChart = (hitterData, idx, createXAxisBool) => {
 
     //Selecting the right HTML element for canvas svg
     let svg = d3
-        // .select('#vis')
-        .select(`#svg-container-${idx}`)
+        .select('#vis')
+        // .select(`#svg-container-${idx}`)
         .append('svg')
         .attr('class', `${targetSVG} hidden`)
         .attr('width', width)
@@ -280,3 +281,27 @@ window.addEventListener('DOMContentLoaded', e => {
     generateVizualizations();
 });
 
+// window.addEventListener("load", (e) => {
+    
+//     let slides = [];
+//     for (let i = 0; i < 3; i++) {
+//         let slideName = "#player-container-" + i;
+//         let newSlide = document.querySelector(slideName);
+//         slides.push(newSlide);
+//     }
+//     createObservers(slides);
+// }, false);
+
+
+// const createObservers = (slides) => {
+//     let options = {
+//         root: null,
+//         rootMargin: "0px 0px 0px 0px",
+//         threshold: .5
+//       };
+  
+//       for (let i = 0; i < slides.length - 1; i++) {
+//         Slides.renderSlide(options, slides[i], i);
+//       }
+  
+// }
