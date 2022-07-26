@@ -5,7 +5,6 @@
 @import url(styles/scroller.scss);
 @import "https://unpkg.com/open-props";
 
-
 #new-viewable-area {
     width: 100%;
 }
@@ -13,7 +12,6 @@
 #viewable-area {
     width: 100%;
     height: 100%;
-    background-color: white;
     margin-left: auto;
     display: inline-block;
     padding-right: 15px;
