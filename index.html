@@ -10,171 +10,146 @@
     <title>MLB Hit Data Visualizer</title>
 </head>
 <body>
-    <!-- Header -->
-    <div class="header">
-        <div class ="left-section">
-            <a href="https://www.mlb.com/"><img class ="mlb-logo" src="/assets/header/Major_League_Baseball_logo.png" alt=""></a>
-        </div>
-        <div class ="middle-section">
-            <h1 class="header-title">MLB Launch Angle Debate Data Visualizer</h1>
-                <h2 class="header-title-sub">by Calvin Koo</h2>
-        </div>
-        <div class ="right-section">
-            <a href="https://github.com/ckoo13"><img class ="social-logo" src="/assets/header/github.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/calvin-koo-9aa869158/"><img class ="social-logo" src="/assets/header/linkedin.png" alt=""></a>
-        </div>
-    </div>
-
-    <!-- Media Scroller -->
-    <div class="media-scroller snaps-inline">
-        <div class="media-element">
-            <a href="#section-mookie"><img class="scroller-img" src="./assets/headshots/mookie.png" alt=""></a>
-            <p class="name">Mookie Betts</p>
-        </div>
-        <div class="media-element">
-            <a href="#section-tatis"><img class="scroller-img" src="./assets//headshots/tatis.png" alt=""></a>
-            <p class="name">Fernando Tatis Jr.</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/trout.png" alt="">
-            <p class="name">Mike Trout</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/seager.png" alt="">
-            <p class="name">Corey Seager</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/machado.png" alt="">
-            <p class="name">Manny Machado</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/harper.png" alt="">
-            <p class="name">Bryce Harper</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/acuna.png" alt="">
-            <p class="name">Ronald Acuna</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/altuve.png" alt="">
-            <p class="name">Jose Altuve</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/freeman.png" alt="">
-            <p class="name">Freddie Freeman</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/jram.png" alt="">
-            <p class="name">Jose Ramirez</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/jt.png" alt="">
-            <p class="name">Justin Turner</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/judge.png" alt="">
-            <p class="name">Aaron Judge</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/ohtani.png" alt="">
-            <p class="name">Shohei Ohtani</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/soto.png" alt="">
-            <p class="name">Juan Soto</p>
-        </div>
-        <div class="media-element">
-            <img class="scroller-img" src="./assets/headshots/votto.png" alt="">
-            <p class="name">Joey Votto</p>
-        </div>
-    </div>
-
-    <!-- Container for Mookie Section -->
-    <div class="player-container fade-in" id="section-mookie">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Mookie Betts</div>
-            <div class="player-headshot">
-                <img class="headshot" src="/assets/slideshow/mookie.png" alt="">
+    <!-- Larger Viewable Area -->
+    <div id="new-viewable-area">
+        <!-- Header -->
+        <div class="header">
+            <div class ="left-section">
+                <a href="https://www.mlb.com/"><img class ="mlb-logo" src="/assets/header/Major_League_Baseball_logo.png" alt=""></a>
             </div>
-            <div class="bio-text">Markus Lynn "Mookie" Betts (born October 7, 1992) 
-                is an American professional baseball right fielder for the Los Angeles Dodgers of 
-                Major League Baseball (MLB). He previously played for the Boston Red Sox. In 2018, while with the Red Sox, he became the first player in MLB history to win the Most Valuable Player, Silver Slugger, Gold Glove, batting title, and World Series in the same season.</div>
+            <div class ="middle-section">
+                <h1 class="header-title">MLB Launch Angle Debate Data Visualizer</h1>
+                    <h2 class="header-title-sub">by Calvin Koo</h2>
+            </div>
+            <div class ="right-section">
+                <a href="https://github.com/ckoo13"><img class ="social-logo" src="/assets/header/github.png" alt=""></a>
+                <a href="https://www.linkedin.com/in/calvin-koo-9aa869158/"><img class ="social-logo" src="/assets/header/linkedin.png" alt=""></a>
+            </div>
         </div>
 
-        <!-- Scatterplot 1 -->
-        <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <!-- the mookie class is needed for checkbox functionality -->
-                <input type="checkbox" class="checkbox mookie" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox mookie" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox mookie" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox mookie" value="single" checked><label class="checkbox-label">Singles</label>
+        <!-- Media Scroller -->
+        <div class="media-scroller snaps-inline">
+            <div class="media-element">
+                <a href="#section-mookie"><img class="scroller-img" src="./assets/headshots/mookie.png" alt=""></a>
+                <p class="name">Mookie Betts</p>
+            </div>
+            <div class="media-element">
+                <a href="#section-tatis"><img class="scroller-img" src="./assets//headshots/tatis.png" alt=""></a>
+                <p class="name">Fernando Tatis Jr.</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/trout.png" alt="">
+                <p class="name">Mike Trout</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/seager.png" alt="">
+                <p class="name">Corey Seager</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/machado.png" alt="">
+                <p class="name">Manny Machado</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/harper.png" alt="">
+                <p class="name">Bryce Harper</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/acuna.png" alt="">
+                <p class="name">Ronald Acuna</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/altuve.png" alt="">
+                <p class="name">Jose Altuve</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/freeman.png" alt="">
+                <p class="name">Freddie Freeman</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/jram.png" alt="">
+                <p class="name">Jose Ramirez</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/jt.png" alt="">
+                <p class="name">Justin Turner</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/judge.png" alt="">
+                <p class="name">Aaron Judge</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/ohtani.png" alt="">
+                <p class="name">Shohei Ohtani</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/soto.png" alt="">
+                <p class="name">Juan Soto</p>
+            </div>
+            <div class="media-element">
+                <img class="scroller-img" src="./assets/headshots/votto.png" alt="">
+                <p class="name">Joey Votto</p>
+            </div>
+        </div>
+
+        <div id="viewable-area">
+            <!-- Container for Mookie Section -->
+            <div class="player-container fade-in" id="player-container-0">
+                <!-- Player Section -->
+                <div class="player-bio-area">
+                    <div class="player-name">Mookie Betts</div>
+                    <div class="player-headshot-container">
+                        <div id="player-svg-container-0" class="svg-immediate-container">
+                            <img class="headshot" src="/assets/slideshow/mookie.png" alt="">
+                        </div>
+                    </div>
+                    <div class="player-bio-text">Markus Lynn "Mookie" Betts (born October 7, 1992) 
+                        is an American professional baseball right fielder for the Los Angeles Dodgers of 
+                        Major League Baseball (MLB). He previously played for the Boston Red Sox. In 2018, while with the Red Sox, he became the first player in MLB history to win the Most Valuable Player, Silver Slugger, Gold Glove, batting title, and World Series in the same season.</div>
+                </div>
+
+                <!-- SVG Container for Player -->
+                <div class="new-svg-container-class" id ="vis"></div>
             </div>
 
-            <svg id="mookie-graph">
-            </svg>
-        </div>
-    </div>
+            <!-- Container for Tatis Section -->
+            <div class="player-container fade-in" id="player-container-1">
+                <!-- Player Section -->
+                <div class="player-bio-area">
+                    <div class="player-name">Fernando Tatis</div>
+                    <div class="player-headshot-container">
+                        <div id="player-svg-container-1" class="svg-immediate-container">
+                            <img class="headshot" src="/assets/slideshow/tatis.png" alt="">
+                        </div>  
+                    </div>
+                    <div class="player-bio-text">Fernando Gabriel Tatís Medina Jr., nicknamed "El Niño" or "Bebo", is a Dominican professional baseball shortstop and outfielder who plays for the San Diego Padres of Major 
+                        League Baseball. He is the son of former MLB player Fernando Tatís Sr. 
+                        Tatís Jr. stands 6 feet 3 inches tall and weighs 217 pounds.</div>
+                </div>
 
-    <!-- Container for Tatis Section -->
-    <div class="player-container fade-in" id="section-tatis">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Fernando Tatis</div>
-            <div class="player-headshot">
-                <img class="headshot" src="/assets/slideshow/tatis.png" alt="">
-            </div>
-            <div class="bio-text">Fernando Gabriel Tatís Medina Jr., nicknamed "El Niño" or "Bebo", is a Dominican professional baseball shortstop and outfielder who plays for the San Diego Padres of Major 
-                League Baseball. He is the son of former MLB player Fernando Tatís Sr. 
-                Tatís Jr. stands 6 feet 3 inches tall and weighs 217 pounds.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox tatis" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox tatis" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox tatis" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox tatis" value="single" checked><label class="checkbox-label">Singles</label>
+                <!-- SVG Container for Player -->
+                <div class="new-svg-container-class" id ="svg-container-1"></div>
             </div>
 
-            <!-- this is the identifier for the svg element in graph logic -->
-            <svg id="tatis-graph">
-            </svg>
-        </div>
-    </div>
+            <!-- Container for Trout Section -->
+            <div class="player-container fade-in" id="player-container-2">
+                <!-- Player Section -->
+                <div class="player-bio-area">
+                    <div class="player-name">Mike Trout</div>
+                    <div class="player-headshot-container">
+                        <div id="player-svg-container-2" class="svg-immediate-container">
+                            <img class="headshot" src="/assets/slideshow/trout.png" alt="">
+                        </div>  
+                    </div>
+                    <div class="player-bio-text">Michael Nelson Trout is an American professional baseball 
+                        center fielder for the Los Angeles Angels of Major League Baseball. 
+                        Trout is a ten-time MLB All-Star, three-time American League Most Valuable Player, 
+                        and is an eight-time winner of the Silver Slugger Award.</div>
+                </div>
 
-    <!-- Container for Trout Section -->
-    <div class="player-container fade-in">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Mike Trout</div>
-            <div class="player-headshot">
-                <img class="headshot" src="/assets/slideshow/trout.png" alt="">
+                <!-- SVG Container for Player -->
+                <div class="new-svg-container-class" id ="svg-container-2"></div>
             </div>
-            <div class="bio-text">Michael Nelson Trout is an American professional baseball 
-                center fielder for the Los Angeles Angels of Major League Baseball. 
-                Trout is a ten-time MLB All-Star, three-time American League Most Valuable Player, 
-                and is an eight-time winner of the Silver Slugger Award.</div>
         </div>
 
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox trout" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox trout" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox trout" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox trout" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
-            <!-- this is the identifier for the svg element in graph logic -->
-            <svg id="trout-graph">
-            </svg>
-        </div>
-    </div>
 </body>
 </html>

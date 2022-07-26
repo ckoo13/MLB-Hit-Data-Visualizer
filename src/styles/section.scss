@@ -1,15 +1,17 @@
 .player-container {
     display: flex;
     flex-direction: row;
+    width: 100%;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 100px;
+    margin-bottom: 125px;
 }
-.player-section {
-    width: 400px;
+.player-bio-area {
+    width: 25%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    transition: all 0.5s;
 }
 
 .player-name {
