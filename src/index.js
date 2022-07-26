@@ -15,7 +15,5 @@ const ohtaniGraph = require('./scripts/graphs/ohtaniGraph.js');
 const sotoGraph = require('./scripts/graphs/sotoGraph.js');
 const vottoGraph = require('./scripts/graphs/vottoGraph.js');
 
-
-
 //Loading in Intersection Observer API
 const observer = require('./scripts/observer.js');

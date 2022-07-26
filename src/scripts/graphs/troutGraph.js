@@ -263,7 +263,7 @@ window.addEventListener('DOMContentLoaded', e => {
 
     //Checkbox Function
     function updateCheckbox() {
-        d3.selectAll('.checkbox').each(function(d) {
+        d3.selectAll('.checkbox.trout').each(function(d) {
             checkbox = d3.select(this);
             group = checkbox.property('value');
 
