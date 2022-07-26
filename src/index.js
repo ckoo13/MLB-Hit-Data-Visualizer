@@ -1,22 +1,36 @@
-//Loading in all the graphs
-const mookieGraph = require('./scripts/graphs/mookieGraph.js');
-const tatisGraph = require('./scripts/graphs/tatisGraph.js');
-const troutGraph = require('./scripts/graphs/troutGraph.js');
-const seagerGraph = require('./scripts/graphs/seagerGraph.js');
-const machadoGraph = require('./scripts/graphs/machadoGraph.js');
-const harperGraph = require('./scripts/graphs/harperGraph.js');
-const acunaGraph = require('./scripts/graphs/acunaGraph.js');
-const altuveGraph = require('./scripts/graphs/altuveGraph.js');
-const freemanGraph = require('./scripts/graphs/freemanGraph.js');
-const jramGraph = require('./scripts/graphs/jramGraph.js');
-const jtGraph = require('./scripts/graphs/jtGraph.js');
-const judgeGraph = require('./scripts/graphs/judgeGraph.js');
-const ohtaniGraph = require('./scripts/graphs/ohtaniGraph.js');
-const sotoGraph = require('./scripts/graphs/sotoGraph.js');
-const vottoGraph = require('./scripts/graphs/vottoGraph.js');
+let hitterData;
 
-//Loading in Intersection Observer API
-const observer = require('./scripts/observer.js');
+d3.csv('mookie_tatis_trout.csv', d => {
+    return {
+       player_name: d['player_name'],
+       hit_type: d['events'],
+       description: d['des'],
+       contact_type: d['bb_type'],
+       season: d['game_year'],
+       hit_distance: d['hit_distance_sc'],
+       exit_velo: d['launch_speed'],
+       launch_angle: d['launch_angle'],
+       pitch_name: d['pitch_name']
+    };
+}).then(data => {
+    hitterData = data;
 
-//Load in nav smooth scroll
-const scroll = require('./scripts/navigation.js');
+    console.log(hitterData);
+
+    //looping through and creating visualizations for everything later
+
+    //createChart(hitterData[0], 0, true);
+
+    //for (let i = 1; i < hitterData.length; i++) {
+        //createChart(hitterData[i], i);
+    // }
+});
+
+const createChart = (hitterData, idx, createXAxisBool) => {
+    let width = 800;
+    let height = 600;
+    let padding = 50;
+    let margin = {left: 50, top: 80, bottom: 30, right: 40};
+
+
+}
