@@ -1,5 +1,5 @@
 .media-scroller {
-    --_spacer: var(--size-4);
+    --_spacer: var(--size-3);
     display: grid;
     grid-auto-flow: column;
     gap: var(--_spacer);
@@ -22,8 +22,9 @@
     gap: var(--_spacer);
     grid-template-rows: min-content;
     inline-size: 100%;
-    aspect-ratio: 16/9;
+    aspect-ratio: 13/7;
     object-fit: cover;
+    height: 100%;
 }
 
 .snaps-inline {

@@ -64,6 +64,7 @@ table {
     padding: 10px;
     margin-bottom: 32px;
     position: sticky;
+    box-shadow: var(--shadow-2);
 }
 
 .middle-section {
@@ -72,6 +73,8 @@ table {
 }
 
 .right-section {
+    display: flex;
+    flex-direction: row;
     width: 140px;
 }
 
@@ -79,9 +82,10 @@ table {
     height: 60px;
 }
 
-.information-logo {
+.social-logo {
     height: 40px;
     border-radius: 20px;
+    margin: 0 10px;
 }
 
 .header-title,
@@ -90,6 +94,7 @@ table {
     font-weight: bold;
     color: white;
     text-align: center;
+    margin-bottom: 10px;
 }
 /*!*****************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/graph.scss ***!
@@ -189,7 +194,7 @@ svg {
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/scroller.scss ***!
   \********************************************************************************************************/
 .media-scroller {
-    --_spacer: var(--size-4);
+    --_spacer: var(--size-3);
     display: grid;
     grid-auto-flow: column;
     gap: var(--_spacer);
@@ -212,8 +217,9 @@ svg {
     gap: var(--_spacer);
     grid-template-rows: min-content;
     inline-size: 100%;
-    aspect-ratio: 16/9;
+    aspect-ratio: 13/7;
     object-fit: cover;
+    height: 100%;
 }
 
 .snaps-inline {
