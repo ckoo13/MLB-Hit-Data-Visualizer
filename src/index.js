@@ -116,6 +116,16 @@ let clip = svg.append("defs").append("SVG:clipPath")
     .attr("x", margin.left)
     .attr("y", 0);
 
+//creating tooltip
+const tooltip = d3.select('body')
+.append('div')
+.attr("id", "tooltip")
+.style("visibility", "hidden")
+.style('background-color', 'white')
+.style('border', 'solid')
+.style('border-width', '2px')
+.style('opacity', 1)
+
 //Drawing circles on the scatter so we can maintain all functionality with zoom feature
 scatter.selectAll('circle')
     .data(hitterData)
@@ -166,7 +176,28 @@ scatter.selectAll('circle')
             return 'green'
         }
     })
-    .style('opacity', 0.75);
+    .style('opacity', 0.75)
+    .on('mouseover', function() {
+        tooltip
+            .style('visibility', 'visible')
+            .style('left', event.pageX+15+'px')
+            .style('top', event.pageY-15+'px')
+            //clean this up to make a solid tooltip
+            .html('Description: ' + this.getAttribute('data-description') + '<br>' + '<br>' + 'Hit Distance: ' + this.getAttribute('data-hitdistance') + '<br>' +'<br>' + 'Pitch Type: ' + this.getAttribute('data-pitchname'))
+            .style('font-family', 'sans-serif')
+        .html()
+        d3.select(this)
+            .style('stroke', 'black')
+        highlight()  
+    })
+    .on('mouseleave', function() {
+        tooltip.transition()
+            .style('visibility', 'hidden')
+        d3.select(this)
+            .style('stroke', 'none')
+            .style('stroke-width', 2)
+        doNotHighlight()
+    })
 
     //Grouping Logic
     const highlight = function() {
