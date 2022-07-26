@@ -1,9 +1,8 @@
+@import url(styles/reset.css);
 @import url(styles/header.scss);
 @import url(styles/navigation.scss);
 @import url(styles/graph.scss);
 @import url(styles/section.scss);
-
-body {
-    background-color: lightgoldenrodyellow;
-    height: 2000px;
-}
+@import url(styles/scroller.scss);
+@import "https://unpkg.com/open-props";
+@import "https://unpkg.com/open-props/normalize.min.css";

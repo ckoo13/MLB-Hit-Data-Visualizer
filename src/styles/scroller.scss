@@ -1,0 +1,36 @@
+.media-scroller {
+    --_spacer: var(--size-4);
+    display: grid;
+    grid-auto-flow: column;
+    gap: var(--_spacer);
+    grid-auto-columns: 25%;
+    padding: 0 var(--_spacer) var(--_spacer);
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    box-shadow: var(--shadow-2);
+    margin-bottom: 30px;
+}
+
+.media-element {
+    padding: var(--_spacer);
+    background: var(--surface-2);
+    border-radius: var(--radius-2);
+}
+
+.scroller-img {
+    display: grid;
+    gap: var(--_spacer);
+    grid-template-rows: min-content;
+    inline-size: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}
+
+.snaps-inline {
+    scroll-snap-type: inline mandatory;
+    scroll-padding-inline: var(--_spacer, 1rem);
+}
+
+.snaps-inline > * {
+    scroll-snap-align: start;
+}

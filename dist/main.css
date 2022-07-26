@@ -1,3 +1,62 @@
+/*!*************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
+  \*************************************************************************************************************************************/
+@import url(https://unpkg.com/open-props);
+/*!*****************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss (1) ***!
+  \*****************************************************************************************************************************************/
+@import url(https://unpkg.com/open-props/normalize.min.css);
+/*!****************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/reset.css ***!
+  \****************************************************************************************************/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
 /*!******************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/header.scss ***!
   \******************************************************************************************************/
@@ -33,7 +92,8 @@
 .header-title-sub {
     font-family: roboto, sans-serif;
     font-weight: bold;
-    color: white
+    color: white;
+    text-align: center;
 }
 /*!**********************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/navigation.scss ***!
@@ -162,7 +222,6 @@ svg {
     align-items: center;
     margin-bottom: 100px;
 }
-
 .player-section {
     width: 400px;
     display: flex;
@@ -212,10 +271,46 @@ svg {
 
 
 
-/*!*************************************************************************************************************************************!*\
-  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
-  \*************************************************************************************************************************************/
-body {
-  background-color: lightgoldenrodyellow;
-  height: 2000px;
+/*!********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/scroller.scss ***!
+  \********************************************************************************************************/
+.media-scroller {
+    --_spacer: var(--size-4);
+    display: grid;
+    grid-auto-flow: column;
+    gap: var(--_spacer);
+    grid-auto-columns: 25%;
+    padding: 0 var(--_spacer) var(--_spacer);
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    box-shadow: var(--shadow-2);
+    margin-bottom: 30px;
 }
+
+.media-element {
+    padding: var(--_spacer);
+    background: var(--surface-2);
+    border-radius: var(--radius-2);
+}
+
+.scroller-img {
+    display: grid;
+    gap: var(--_spacer);
+    grid-template-rows: min-content;
+    inline-size: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}
+
+.snaps-inline {
+    scroll-snap-type: inline mandatory;
+    scroll-padding-inline: var(--_spacer, 1rem);
+}
+
+.snaps-inline > * {
+    scroll-snap-align: start;
+}
+/*!*****************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss (2) ***!
+  \*****************************************************************************************************************************************/
+
