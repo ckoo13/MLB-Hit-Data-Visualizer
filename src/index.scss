@@ -5,13 +5,26 @@
 @import url(styles/scroller.scss);
 @import "https://unpkg.com/open-props";
 
+body {
+    background-color: #28282B;
+}
+
+.player-container {
+    background-color: #28282B;
+}
+
+.checkbox-container {
+    background-color: #28282B;
+}
+
 .inputGroup {
-    background: white;
+    background: #28282B;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     padding: 10px;
+    color: white;
 }
 
 .checkbox-label {
@@ -102,7 +115,7 @@ $color: white;
         left: 0;
         width: 0%;
         height: 100%;
-        background-color: #002D72;
+        background-color: greenyellow;
         transition: all .3s;
         border-radius: 50%;
         z-index: -1;

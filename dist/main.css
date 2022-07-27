@@ -63,7 +63,12 @@ table {
     background-color: #002D72;
     padding: 10px;
     position: sticky;
-    margin-bottom: 12px;
+    height: 110px;
+    box-shadow: rgba(230, 222, 222, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.left-section {
+    margin-left: 30px;
 }
 
 .middle-section {
@@ -75,6 +80,7 @@ table {
     display: flex;
     flex-direction: row;
     width: 140px;
+    margin-right: 30px;
 }
 
 .mlb-logo {
@@ -83,13 +89,23 @@ table {
 
 .social-logo {
     height: 40px;
-    border-radius: 20px;
     margin: 0 10px;
+}
+
+.header-title {
+    font-size: 28px;
+    padding: 10px 10px;
+    text-decoration: underline;
+}
+
+.header-title-sub {
+    font-size: 22px;
+    font-style: italic;
 }
 
 .header-title,
 .header-title-sub {
-    font-family: roboto, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -145,14 +161,17 @@ svg {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 12px;
 }
 
 .player-name {
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
     font-size: 28px;
-    color: black;
+    color: white;
+    margin-bottom: 12px;
 }
 
 .headshot {
@@ -161,8 +180,10 @@ svg {
 }
 
 .bio-text {
-    color: black;
+    color: white;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 12px;
 }
 
 .fade-in {
@@ -209,7 +230,6 @@ svg {
   \********************************************************************************************************/
 .media-scroller {
     --_spacer: var(--size-2);
-    background-color: red;
     display: grid;
     grid-auto-flow: column;
     gap: var(--_spacer);
@@ -217,9 +237,9 @@ svg {
     padding: var(--_spacer) var(--_spacer);
     overflow-x: auto;
     overscroll-behavior-inline: contain;
-    box-shadow: var(--shadow-2);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-bottom: 30px;
-    height: 125px
+    height: 125px;
 }
 
 .media-element {
@@ -254,13 +274,26 @@ svg {
 /*!*****************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss (1) ***!
   \*****************************************************************************************************************************************/
+body {
+  background-color: #28282B;
+}
+
+.player-container {
+  background-color: #28282B;
+}
+
+.checkbox-container {
+  background-color: #28282B;
+}
+
 .inputGroup {
-  background: white;
+  background: #28282B;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 10px;
+  color: white;
 }
 
 .checkbox-label {
@@ -353,7 +386,7 @@ input[type=checkbox].player:checked:after {
   left: 0;
   width: 0%;
   height: 100%;
-  background-color: #002D72;
+  background-color: greenyellow;
   transition: all 0.3s;
   border-radius: 50%;
   z-index: -1;

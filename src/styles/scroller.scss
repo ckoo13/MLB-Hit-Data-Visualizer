@@ -1,6 +1,5 @@
 .media-scroller {
     --_spacer: var(--size-2);
-    background-color: red;
     display: grid;
     grid-auto-flow: column;
     gap: var(--_spacer);
@@ -8,9 +7,9 @@
     padding: var(--_spacer) var(--_spacer);
     overflow-x: auto;
     overscroll-behavior-inline: contain;
-    box-shadow: var(--shadow-2);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-bottom: 30px;
-    height: 125px
+    height: 125px;
 }
 
 .media-element {

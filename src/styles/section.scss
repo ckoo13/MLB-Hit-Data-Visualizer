@@ -10,14 +10,17 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 12px;
 }
 
 .player-name {
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
     font-size: 28px;
-    color: black;
+    color: white;
+    margin-bottom: 12px;
 }
 
 .headshot {
@@ -26,8 +29,10 @@
 }
 
 .bio-text {
-    color: black;
+    color: white;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 12px;
 }
 
 .fade-in {

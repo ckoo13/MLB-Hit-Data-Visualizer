@@ -81,7 +81,9 @@ const createChart = (hitterData, idx, createXAxisBool) => {
         .append('svg')
         .attr('class', `${targetSVG} hidden`)
         .attr('width', width)
-        .attr('height', height);
+        .attr('height', height)
+        .style('padding', 10 + 'px')
+        .style('border-radius', '10%');
     
     //the xAxis is positioned at the top to start so this moves it down to the bottom
     let gX = svg.append('g')
@@ -122,6 +124,7 @@ const createChart = (hitterData, idx, createXAxisBool) => {
 
     //Creating a rectangle above the svg to use for zooming
     let display = svg.append("rect")
+        .attr('class', 'background')
         .attr("width", width)
         .attr("height", height)
         .style("fill", "none")
