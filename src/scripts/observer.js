@@ -3,22 +3,18 @@ window.addEventListener('load', (e) => {
     const faders = document.querySelectorAll('.fade-in');
 
     const appearOptions = {
-        threshold: 0.75
+        threshold: 0.20
     };
 
     const appearOnScroll = new IntersectionObserver(function(entries, appearOnScroll) {
         entries.forEach(entry => {
-            if (!entry.isIntersecting) {
-                return;
-            } else {
-                entry.target.classList.add('appear');
-                appearOnScroll.unobserve(entry.target);
-            }
+            entry.target.classList.toggle('appear', entry.isIntersecting);
         })
     }, appearOptions);
 
     faders.forEach(fader => {
         appearOnScroll.observe(fader);
     });
+
 });
 
