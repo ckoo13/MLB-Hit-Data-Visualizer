@@ -62,9 +62,8 @@ table {
     justify-content: space-between;
     background-color: #002D72;
     padding: 10px;
-    margin-bottom: 32px;
     position: sticky;
-    box-shadow: var(--shadow-2);
+    margin-bottom: 12px;
 }
 
 .middle-section {
@@ -166,14 +165,14 @@ svg {
     text-align: center;
 }
 
-.fade-in {
+/* .fade-in {
     opacity: 0;
     transition: opacity 250ms ease-in;
 }
 
 .fade-in.appear{
     opacity: 1;
-}
+} */
 
 .checkbox-container {
     display: flex;
@@ -194,22 +193,30 @@ svg {
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/styles/scroller.scss ***!
   \********************************************************************************************************/
 .media-scroller {
-    --_spacer: var(--size-3);
+    --_spacer: var(--size-2);
+    background-color: red;
     display: grid;
     grid-auto-flow: column;
     gap: var(--_spacer);
     grid-auto-columns: 25%;
-    padding: 0 var(--_spacer) var(--_spacer);
+    padding: var(--_spacer) var(--_spacer);
     overflow-x: auto;
     overscroll-behavior-inline: contain;
     box-shadow: var(--shadow-2);
     margin-bottom: 30px;
+    height: 125px
 }
 
 .media-element {
-    padding: var(--_spacer);
-    background: var(--surface-2);
+    background-color: #002D72;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    box-sizing: border-box;
     border-radius: var(--radius-2);
+    text-align: center;
+    align-items: center;
+    height: 125px;
 }
 
 .scroller-img {
@@ -217,9 +224,8 @@ svg {
     gap: var(--_spacer);
     grid-template-rows: min-content;
     inline-size: 100%;
-    aspect-ratio: 13/7;
-    object-fit: cover;
-    height: 100%;
+    width: 172px;
+    height: 125px;
 }
 
 .snaps-inline {
@@ -233,4 +239,70 @@ svg {
 /*!*****************************************************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss (1) ***!
   \*****************************************************************************************************************************************/
+.inputGroup {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
 
+.checkbox-label {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+input[type=checkbox].player {
+  font-size: 20px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 3em;
+  height: 1.5em;
+  background: #ddd;
+  border-radius: 3em;
+  position: relative;
+  cursor: pointer;
+  outline: none;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+input[type=checkbox].player.home_run:checked {
+  background: blue;
+}
+
+input[type=checkbox].player.triple:checked {
+  background: green;
+}
+
+input[type=checkbox].player.double:checked {
+  background: yellow;
+}
+
+input[type=checkbox].player.single:checked {
+  background: red;
+}
+
+input[type=checkbox].player:after {
+  position: absolute;
+  content: "";
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 50%;
+  background: #fff;
+  -webkit-box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.3);
+  -webkit-transform: scale(0.7);
+  transform: scale(0.7);
+  left: 0;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+input[type=checkbox].player:checked:after {
+  left: calc(100% - 1.5em);
+}

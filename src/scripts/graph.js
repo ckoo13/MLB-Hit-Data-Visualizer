@@ -48,7 +48,7 @@ const generateVizualizations = () => {
 const createChart = (hitterData, idx, createXAxisBool) => {
     //Setting up dimensions
     let width = 800;
-    let height = 600;
+    let height = 500;
     let padding = 50;
     let margin = {left: 50, top: 80, bottom: 30, right: 40};
 
@@ -100,17 +100,20 @@ const createChart = (hitterData, idx, createXAxisBool) => {
     .attr("x", margin.left + (width - margin.left - margin.right) / 2)
     .attr("y", height - margin.bottom / 3)
     .attr("class", "label")
-    .text("Exit Velocity");
+    .text("Exit Velocity")
+    .style('font-weight', 'bold')
+    .style('font-family', 'sans-serif')
 
     svg.append("text")
-    .attr("y", margin.left/2)
+    .attr("y", margin.left/3)
     .attr("x", -height/2)
     .attr("transform", "rotate(-90)")
     .attr("class", "label")
-    .text("Launch Angle");
+    .text("Launch Angle")
+    .style('font-weight', 'bold')
+    .style('font-family', 'sans-serif')
 
     //Zoom Logic:
-
     //Creating zoom function
     const zoom = d3.zoom()
     .scaleExtent([0.5, 10])

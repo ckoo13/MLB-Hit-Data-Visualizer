@@ -29,63 +29,49 @@
     <div class="media-scroller snaps-inline">
         <div class="media-element">
             <a href="#section-mookie"><img class="scroller-img" src="./assets/headshots/mookie.png" alt=""></a>
-            <p class="name">Mookie Betts</p>
+            
         </div>
         <div class="media-element">
             <a href="#section-tatis"><img class="scroller-img" src="./assets//headshots/tatis.png" alt=""></a>
-            <p class="name">Fernando Tatis Jr.</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/trout.png" alt="">
-            <p class="name">Mike Trout</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/seager.png" alt="">
-            <p class="name">Corey Seager</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/machado.png" alt="">
-            <p class="name">Manny Machado</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/harper.png" alt="">
-            <p class="name">Bryce Harper</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/acuna.png" alt="">
-            <p class="name">Ronald Acuna</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/altuve.png" alt="">
-            <p class="name">Jose Altuve</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/freeman.png" alt="">
-            <p class="name">Freddie Freeman</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/jram.png" alt="">
-            <p class="name">Jose Ramirez</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/jt.png" alt="">
-            <p class="name">Justin Turner</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/judge.png" alt="">
-            <p class="name">Aaron Judge</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/ohtani.png" alt="">
-            <p class="name">Shohei Ohtani</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/soto.png" alt="">
-            <p class="name">Juan Soto</p>
         </div>
         <div class="media-element">
             <img class="scroller-img" src="./assets/headshots/votto.png" alt="">
-            <p class="name">Joey Votto</p>
         </div>
     </div>
 
@@ -102,18 +88,18 @@
                 Major League Baseball (MLB). He previously played for the Boston Red Sox. In 2018, while with the Red Sox, he became the first player in MLB history to win the Most Valuable Player, Silver Slugger, Gold Glove, batting title, and World Series in the same season.</div>
         </div>
 
-        <!-- Scatterplot 1 -->
+        <!-- Scatterplot-->
         <div class="graph-container fade-in">
+            <!-- Graph -->
+            <div class="new-svg-container-class" id="svg-container-0"></div>
+
             <!-- Checkboxes -->
             <div class="checkbox-container">
-                <!-- the mookie class is needed for checkbox functionality -->
-                <input type="checkbox" class="checkbox mookie" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox mookie" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox mookie" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox mookie" value="single" checked><label class="checkbox-label">Singles</label>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie single" value="single" checked><label class="checkbox-label">Singles</label></div>
             </div>
-
-            <div class="new-svg-container-class" id="svg-container-0"></div>
         </div>
     </div>
 
@@ -132,15 +118,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox tatis" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox tatis" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox tatis" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox tatis" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-1"></div>
+
+              <!-- Checkboxes -->
+            <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -160,15 +146,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
+            <div class="new-svg-container-class" id="svg-container-2"></div>
+
             <!-- Checkboxes -->
             <div class="checkbox-container">
-                <input type="checkbox" class="checkbox trout" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox trout" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox trout" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox trout" value="single" checked><label class="checkbox-label">Singles</label>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player trout home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player trout triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player trout double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player trout single" value="single" checked><label class="checkbox-label">Singles</label></div>
             </div>
-
-            <div class="new-svg-container-class" id="svg-container-2"></div>
         </div>
     </div>
 
@@ -187,15 +173,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox seager" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox seager" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox seager" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox seager" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-3"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player seager home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player seager triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player seager double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player seager single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -213,15 +199,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox machado" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox machado" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox machado" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox machado" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-4"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player machado home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player machado triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player machado double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player machado single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -239,15 +225,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox harper" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox harper" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox harper" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox harper" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-5"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player harper home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player harper triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player harper double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player harper single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -264,15 +250,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox acuna" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox acuna" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox acuna" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox acuna" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-6"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -289,15 +275,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox altuve" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox altuve" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox altuve" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox altuve" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-7"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -314,15 +300,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox freeman" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox freeman" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox freeman" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox freeman" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-8"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -339,15 +325,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox jram" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox jram" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox jram" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox jram" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-9"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jram home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jram triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jram double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jram single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -364,15 +350,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox jt" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox jt" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox jt" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox jt" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-10"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jt home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jt triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jt double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player jt single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -389,15 +375,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox judge" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox judge" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox judge" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox judge" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-11"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player judge home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player judge triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player judge double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player judge single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -414,15 +400,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox ohtani" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox ohtani" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox ohtani" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox ohtani" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-12"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -439,15 +425,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox soto" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox soto" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox soto" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox soto" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-13"></div>
+
+              <!-- Checkboxes -->
+            <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player soto home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player soto triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player soto double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player soto single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
@@ -464,15 +450,15 @@
 
         <!-- Scatterplot 2 -->
         <div class="graph-container fade-in">
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <input type="checkbox" class="checkbox votto" value="home_run" checked><label class="checkbox-label">Home Runs</label>
-                <input type="checkbox" class="checkbox votto" value="triple" checked><label class="checkbox-label">Triples</label>
-                <input type="checkbox" class="checkbox votto" value="double" checked><label class="checkbox-label">Doubles</label>
-                <input type="checkbox" class="checkbox votto" value="single" checked><label class="checkbox-label">Singles</label>
-            </div>
-
             <div class="new-svg-container-class" id="svg-container-14"></div>
+
+              <!-- Checkboxes -->
+              <div class="checkbox-container">
+                <div class="inputGroup"><input type="checkbox" class="checkbox player votto home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player votto triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player votto double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                <div class="inputGroup"><input type="checkbox" class="checkbox player votto single" value="single" checked><label class="checkbox-label">Singles</label></div>
+            </div>
         </div>
     </div>
 
