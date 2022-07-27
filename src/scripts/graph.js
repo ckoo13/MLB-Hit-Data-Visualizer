@@ -117,110 +117,109 @@ const createChart = (hitterData, idx, createXAxisBool) => {
     // .extent([0,0], [width,height])
     .on("zoom", zoomed);
 
-//Creating a rectangle above the svg to use for zooming
-let display = svg.append("rect")
-    .attr("width", width)
-    .attr("height", height)
-    .style("fill", "none")
-    .style("pointer-events", "all")
-    .attr('transform', 'translate(0, ' - (padding + height) +')')
-    .call(zoom)
+    //Creating a rectangle above the svg to use for zooming
+    let display = svg.append("rect")
+        .attr("width", width)
+        .attr("height", height)
+        .style("fill", "none")
+        .style("pointer-events", "all")
+        .attr('transform', 'translate(0, ' - (padding + height) +')')
+        .call(zoom)
 
-// Create the scatter variable: where both the circles and the brush take place
-const scatter = svg.append('g')
-    .attr("clip-path", "url(#clip)")
+    // Create the scatter variable: where both the circles and the brush take place
+    const scatter = svg.append('g')
+        .attr("clip-path", "url(#clip)")
 
-//Clip path rectangle so elements won't show up outside of this
-let clip = svg.append("defs").append("SVG:clipPath")
-    .attr("id", "clip")
-    .append("SVG:rect")
-    .attr("width", width )
-    .attr("height", height - padding )
-    .attr("x", margin.left)
-    .attr("y", 0);
+    //Clip path rectangle so elements won't show up outside of this
+    let clip = svg.append("defs").append("SVG:clipPath")
+        .attr("id", "clip")
+        .append("SVG:rect")
+        .attr("width", width )
+        .attr("height", height - padding )
+        .attr("x", margin.left)
+        .attr("y", 0);
 
-//creating tooltip
-const tooltip = d3.select('body')
-.append('div')
-.attr("id", "tooltip")
-.style("visibility", "hidden")
-.style('background-color', 'white')
-.style('border', 'solid')
-.style('border-width', '2px')
-.style('opacity', 1)
+    //creating tooltip
+    const tooltip = d3.select('body')
+    .append('div')
+    .attr("id", "tooltip")
+    .style("visibility", "hidden")
+    .style('background-color', 'white')
+    .style('border', 'solid')
+    .style('border-width', '2px')
+    .style('opacity', 1)
 
-//Drawing circles on the scatter so we can maintain all functionality with zoom feature
-scatter.selectAll('circle')
-    .data(hitterData)
-    .enter()
-    .append('circle')
-    .attr('class', (item) => {
-        return 'dot' + ' ' + item['events']
-    })
-    .attr('r', '5')
-    .attr('data-xvalue', (item) => {
-        return item['launch_speed'];
-    })
-    .attr('data-yvalue', (item) => {
-        return item['launch_angle'];
-    })
-    .attr('data-pitchname', (item) => {
-        return item['pitch_name']
-    })
-    .attr('data-hitdistance', (item) => {
-        return item['hit_distance_sc']
-    })
-    .attr('data-bbtype', (item) => {
-        return item['bb_type']
-    })
-    .attr('data-description', (item) => {
-        return item['des']
-    })
-    .attr('data-event', (item) => {
-        return item['events']
-    })
-    .attr('data-season', (item) => {
-        return item['game_year']
-    })
-    .attr('cx', (item) => {
-        return xScale(item['launch_speed'])
-    })
-    .attr('cy', (item) => {
-        return yScale(item['launch_angle'])
-    })
-    .attr('fill', (item) => {
-        if(item['events'] === 'home_run') {
-            return 'blue';
-        } else if (item['events'] === 'single') {
-            return 'red'
-        } else if (item['events'] === 'double') {
-            return 'yellow'
-        } else {
-            return 'green'
-        }
-    })
-    .style('opacity', 0.75)
-    .on('mouseover', function() {
-        tooltip
-            .style('visibility', 'visible')
-            .style('left', event.pageX+15+'px')
-            .style('top', event.pageY-15+'px')
-            //clean this up to make a solid tooltip
-            .html('Description: ' + this.getAttribute('data-description') + '<br>' + '<br>' + 'Hit Distance: ' + this.getAttribute('data-hitdistance') + '<br>' +'<br>' + 'Pitch Type: ' + this.getAttribute('data-pitchname'))
-            .style('font-family', 'sans-serif')
-        .html()
-        d3.select(this)
-            .style('stroke', 'black')
-        highlight()  
-    })
-    .on('mouseleave', function() {
-        tooltip.transition()
-            .style('visibility', 'hidden')
-        d3.select(this)
-            .style('stroke', 'none')
-            .style('stroke-width', 2)
-        doNotHighlight()
-    })
+    //Drawing circles on the scatter so we can maintain all functionality with zoom feature
+    scatter.selectAll('circle')
+        .data(hitterData)
+        .enter()
+        .append('circle')
+        .attr('class', (item) => {
+            return 'dot' + ' ' + item['events']
+        })
+        .attr('r', '5')
+        .attr('data-xvalue', (item) => {
+            return item['launch_speed'];
+        })
+        .attr('data-yvalue', (item) => {
+            return item['launch_angle'];
+        })
+        .attr('data-pitchname', (item) => {
+            return item['pitch_name']
+        })
+        .attr('data-hitdistance', (item) => {
+            return item['hit_distance_sc']
+        })
+        .attr('data-bbtype', (item) => {
+            return item['bb_type']
+        })
+        .attr('data-description', (item) => {
+            return item['des']
+        })
+        .attr('data-event', (item) => {
+            return item['events']
+        })
+        .attr('data-season', (item) => {
+            return item['game_year']
+        })
+        .attr('cx', (item) => {
+            return xScale(item['launch_speed'])
+        })
+        .attr('cy', (item) => {
+            return yScale(item['launch_angle'])
+        })
+        .attr('fill', (item) => {
+            if(item['events'] === 'home_run') {
+                return 'blue';
+            } else if (item['events'] === 'single') {
+                return 'red'
+            } else if (item['events'] === 'double') {
+                return 'yellow'
+            } else {
+                return 'green'
+            }
+        })
+        .style('opacity', 0.75)
+        .on('mouseover', function() {
+            tooltip
+                .style('visibility', 'visible')
+                .style('left', event.pageX+15+'px')
+                .style('top', event.pageY-15+'px')
+                //clean this up to make a solid tooltip
+                .html('Description: ' + this.getAttribute('data-description') + '<br>' + '<br>' + 'Hit Distance: ' + this.getAttribute('data-hitdistance') + ' ft' + '<br>' +'<br>' + 'Pitch Type: ' + this.getAttribute('data-pitchname') + '<br>' +'<br>' + 'Exit Velo: ' + this.getAttribute('data-xvalue') + ' mph' + '<br>' +'<br>' + 'Launch Angle: ' + this.getAttribute('data-yvalue') + ' degrees')
+                .style('font-family', 'sans-serif')
+            d3.select(this)
+                .style('stroke', 'black')
+            highlight()  
+        })
+        .on('mouseleave', function() {
+            tooltip.transition()
+                .style('visibility', 'hidden')
+            d3.select(this)
+                .style('stroke', 'none')
+                .style('stroke-width', 2)
+            doNotHighlight()
+        })
 
     //Grouping Logic
     const highlight = function() {
@@ -297,35 +296,42 @@ scatter.selectAll('circle')
             .attr('cx', function(item) {return newX(item['launch_speed'])})
             .attr('cy', function(item) {return newY(item['launch_angle'])})
     }
-
-    //Checkbox Function
-    function updateCheckbox() {
-        d3.selectAll('.checkbox.mookie').each(function(d) {
-            checkbox = d3.select(this);
-            group = checkbox.property('value');
-
-            //if box is check -> display the dots
-            if (checkbox.property('checked')) {
-                svg.selectAll('.' + group)
-                    .transition()
-                    .duration(1000)
-                    .style('opacity', 0.75)
-                    .attr('r', 5)
-            } else {
-                svg.selectAll('.' + group)
-                    .transition()
-                    .duration(1000)
-                    .style('opacity', 0)
-                    .attr('r', 0)
-            }
-        })
-
-        d3.selectAll('.mookie').on('change',updateCheckbox)
-    }
-    
-    updateCheckbox();
 };
 
 window.addEventListener('DOMContentLoaded', e => {
     generateVizualizations();
+
+    //Checkbox Function
+    function updateCheckbox() {
+        //Generating an array for the checkbox selectors
+        const players = ['mookie', 'tatis', 'trout', 'seager', 'machado', 'harper', 'acuna', 'altuve', 'freeman', 'jram', 'jt', 'judge', 'ohtani', 'soto', 'votto'];
+       
+        for (let i = 0; i < players.length; i++) {
+            let svg = d3.select(`#svg-container-${i}`);
+        
+            d3.selectAll(`.checkbox.${players[i]}`).each(function(d) {
+                checkbox = d3.select(this);
+                group = checkbox.property('value');
+        
+                //if box is check -> display the dots
+                if (checkbox.property('checked')) {
+                    svg.selectAll('.' + group)
+                        .transition()
+                        .duration(1000)
+                        .style('opacity', 0.75)
+                        .attr('r', 5)
+                } else {
+                    svg.selectAll('.' + group)
+                        .transition()
+                        .duration(1000)
+                        .style('opacity', 0)
+                        .attr('r', 0)
+                }
+            })
+        
+            d3.selectAll(`.${players[i]}`).on('change',updateCheckbox)
+        }
+    }
+
+    updateCheckbox();
 });
