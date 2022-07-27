@@ -87,9 +87,16 @@ table {
     height: 60px;
 }
 
-.social-logo {
-    height: 40px;
+.github {
+    width: 40px;
     margin: 0 10px;
+    display: inline-block;
+}
+
+.linkedin {
+    width: 45px;
+    margin: 0 10px;
+    display: inline-block;
 }
 
 .header-title {
