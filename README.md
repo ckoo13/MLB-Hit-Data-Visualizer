@@ -1,8 +1,16 @@
+# <a name="title"></a> Velo Launch
+
+[Live Link] (https://ckoo13.github.io/MLB-LaunchAngle-Data-Visualizer/)
+
+## Animations
+[Demo] (/assets/readmegif.gif?raw=true)
+
 ### Table of contents
 1. [Background and overview](#background)
 2. [Functionality & MVP](#functionality)
-3. [Wireframes](#wireframes)
-4. [Architecture and technologies](#technologies)
+3. [Architecture and technologies](#technologies)
+4. [Implementation Timeline](#timeline)
+5. [Wireframes](#wireframes)
 
 ## <a name="background"></a> Background and overview
 
@@ -19,6 +27,18 @@ Users of the MLB Hit Data Visualizer scroller are able to:
 - [x] Click on each player to display a bio and a link to their MLB page
 - [x] Click on the carousel in the header to jump to data about a specific player
 
+Bonus Features:
+- [x] Click on player picture to show bio
+- [x] Fixed interaction scroller API
+
+## <a name="technologies"></a> Architecture and technologies
+
+Technologies used in production:
+
+- [x] HTML5 / CSS
+- [x] Vanilla JS
+- [x] D3.js
+
 ## <a name ="implementation"></a> Implementation Timeline
 
 - [x] Friday and Weekend: Basic functionalities, research D3, text rendering
@@ -28,7 +48,6 @@ Users of the MLB Hit Data Visualizer scroller are able to:
 - [x] Thursday: Finish project
 
 ## <a name="wireframes"></a> Wireframes
-
 
 <p>
     <img src="https://github.com/ckoo13/MLB-Hit-Data-Visualizer/blob/main/MLB%20Wireframe-1.png">
