@@ -1,4 +1,12 @@
-import {appear, disappear} from './util.js';
+appear = (ele, time) => {
+    ele.style.webkitAnimation = `appear ${time}s`
+    ele.style.webkitAnimationTimingFunction = "ease-in"
+  }
+  
+disappear = (ele, time) => {
+    ele.style.webkitAnimation = `disappear ${time}s`
+    ele.style.webkitAnimationTimingFunction = "ease-out"
+}
 
 export const startDemo = () => {
     //need the start button for event listener
