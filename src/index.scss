@@ -3,15 +3,16 @@
 @import url(styles/graph.scss);
 @import url(styles/section.scss);
 @import url(styles/scroller.scss);
+@import url(styles/modal.scss);
 @import "https://unpkg.com/open-props";
 
 body {
     background-color: #28282B;
 }
 
-#page-content {
+/*#page-content {
     display: none;
-}
+}*/
 
 #landing-page-img {
     padding: 0;

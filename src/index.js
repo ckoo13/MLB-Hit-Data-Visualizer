@@ -1,7 +1,7 @@
 import {startDemo} from './scripts/start.js';
 
 document.addEventListener('DOMContentLoaded', () => {
-    startDemo();
+    // startDemo();
 
     //Load in one graph
     const graph = require('./scripts/graph.js');
