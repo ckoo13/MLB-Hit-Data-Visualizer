@@ -29,7 +29,7 @@ Users of the MLB Hit Data Visualizer scroller are able to:
 
 Bonus Features:
 - [x] Click on player picture to show bio
-- [x] Fixed interaction scroller API
+- [x] More variable options to change data organization in each D3 graph
 
 ## <a name="technologies"></a> Architecture and technologies
 
