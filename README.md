@@ -1,10 +1,9 @@
 # <a name="title"></a> Velo Launch
 
-## Live Link
 Live Link: https://ckoo13.github.io/MLB-LaunchAngle-Data-Visualizer/
 
 ## Demo
-![Demo](/assets/readmegif.gif?raw=true)
+![Demo](/assets/readme.gif?raw=true)
 
 ### Table of contents
 1. [Background and overview](#background)
