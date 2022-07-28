@@ -212,7 +212,7 @@ const createChart = (hitterData, idx, createXAxisBool) => {
                 .style('left', event.pageX+15+'px')
                 .style('top', event.pageY-15+'px')
                 //clean this up to make a solid tooltip
-                .html('Description: ' + this.getAttribute('data-description') + '<br>' + '<br>' + 'Hit Distance: ' + this.getAttribute('data-hitdistance') + ' ft' + '<br>' +'<br>' + 'Pitch Type: ' + this.getAttribute('data-pitchname') + '<br>' +'<br>' + 'Exit Velo: ' + this.getAttribute('data-xvalue') + ' mph' + '<br>' +'<br>' + 'Launch Angle: ' + this.getAttribute('data-yvalue') + ' degrees')
+                .html('Description: ' + this.getAttribute('data-description') + '<br>' + '<br>' + 'Hit Distance: ' + this.getAttribute('data-hitdistance') + ' ft' + '<br>' +'<br>' + 'Pitch Type: ' + this.getAttribute('data-pitchname') + '<br>' +'<br>' + 'Exit Velo: ' + this.getAttribute('data-xvalue') + ' mph' + '<br>' +'<br>' + 'Launch Angle: ' + this.getAttribute('data-yvalue') + ' degrees' + '<br>' + '<br>' + 'Season: ' + this.getAttribute('data-season'))
                 .style('font-family', 'sans-serif')
             d3.select(this)
                 .style('stroke', 'black')
