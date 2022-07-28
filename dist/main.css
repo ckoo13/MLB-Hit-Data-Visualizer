@@ -285,6 +285,18 @@ body {
   background-color: #28282B;
 }
 
+#page-content {
+  display: none;
+}
+
+#landing-page-img {
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
 .player-container {
   background-color: #28282B;
 }
@@ -409,4 +421,54 @@ input[type=checkbox].player:checked:after {
   position: fixed;
   bottom: 20px;
   right: 30px;
+}
+
+/* Enter Site Button */
+/* CSS */
+#start {
+  position: fixed;
+  top: 30px;
+  left: 45%;
+  appearance: none;
+  backface-visibility: hidden;
+  background-color: #27ae60;
+  border-radius: 8px;
+  border-style: none;
+  box-shadow: rgba(186, 197, 191, 0.15) 0 4px 9px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  outline: none;
+  overflow: hidden;
+  padding: 13px 60px;
+  text-align: center;
+  text-decoration: none;
+  transform: translate3d(0, 0, 0);
+  transition: all 0.3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+}
+
+#start:hover {
+  background-color: #1e8449;
+  opacity: 1;
+  transform: translateY(0);
+  transition-duration: 0.35s;
+}
+
+#start:active {
+  transform: translateY(2px);
+  transition-duration: 0.35s;
+}
+
+#start:hover {
+  box-shadow: rgba(39, 174, 96, 0.2) 0 6px 12px;
 }

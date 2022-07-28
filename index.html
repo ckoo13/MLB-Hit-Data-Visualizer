@@ -15,460 +15,469 @@
     <title>MLB Hit Data Visualizer</title>
 </head>
 <body>
-    <!-- Header -->
-    <div class="header">
-        <div class ="left-section">
-            <a href="https://www.mlb.com/"><img class ="mlb-logo" src="./assets/header/Major_League_Baseball_logo.png" alt=""></a>
-        </div>
-        <div class ="middle-section">
-            <p class="header-title">The MLB Launch Angle Debate</p>
-                <p class="header-title-sub">by Calvin Koo</p>
-        </div>
-        <div class ="right-section">
-            <a href="https://github.com/ckoo13"><img class ="social-logo github" src="./assets/header/github.png" alt=""></a>
-            <a href="https://www.linkedin.com/in/calvin-koo-9aa869158/"><img class ="social-logo linkedin" src="./assets/header/linkedin.png" alt=""></a>
-        </div>
+    <!-- Landing Page -->
+    <div id="landing-page">
+            <img id="landing-page-img" src="./assets/landing_page_2.jpeg" alt="">
+            <div id="start-button">
+                <button id="start">ENTER</button>
+            </div>
     </div>
 
-    <!-- Media Scroller -->
-    <div class="media-scroller snaps-inline">
-        <div class="media-element">
-            <a href="#section-mookie"><img class="scroller-img" src="./assets/headshots/mookie.png" alt=""></a>
+    <div id="page-content">
+        <!-- Header -->
+        <div class="header">
+            <div class ="left-section">
+                <a href="https://www.mlb.com/"><img class ="mlb-logo" src="./assets/header/Major_League_Baseball_logo.png" alt=""></a>
+            </div>
+            <div class ="middle-section">
+                <p class="header-title">The MLB Launch Angle Debate</p>
+                    <p class="header-title-sub">by Calvin Koo</p>
+            </div>
+            <div class ="right-section">
+                <a href="https://github.com/ckoo13"><img class ="social-logo github" src="./assets/header/github.png" alt=""></a>
+                <a href="https://www.linkedin.com/in/calvin-koo-9aa869158/"><img class ="social-logo linkedin" src="./assets/header/linkedin.png" alt=""></a>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-tatis"><img class="scroller-img" src="./assets//headshots/tatis.png" alt=""></a>
+
+        <!-- Media Scroller -->
+        <div class="media-scroller snaps-inline">
+            <div class="media-element">
+                <a href="#section-mookie"><img class="scroller-img" src="./assets/headshots/mookie.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-tatis"><img class="scroller-img" src="./assets//headshots/tatis.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-trout"><img class="scroller-img" src="./assets//headshots/trout.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-seager"><img class="scroller-img" src="./assets//headshots/seager.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-machado"><img class="scroller-img" src="./assets//headshots/machado.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-harper"><img class="scroller-img" src="./assets//headshots/harper.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-acuna"><img class="scroller-img" src="./assets//headshots/acuna.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-altuve"><img class="scroller-img" src="./assets//headshots/altuve.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-freeman"><img class="scroller-img" src="./assets//headshots/freeman.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-jram"><img class="scroller-img" src="./assets//headshots/jram.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-jt"><img class="scroller-img" src="./assets//headshots/jt.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-judge"><img class="scroller-img" src="./assets//headshots/judge.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-ohtani"><img class="scroller-img" src="./assets//headshots/ohtani.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-soto"><img class="scroller-img" src="./assets//headshots/soto.png" alt=""></a>
+            </div>
+            <div class="media-element">
+                <a href="#section-votto"><img class="scroller-img" src="./assets//headshots/votto.png" alt=""></a>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-trout"><img class="scroller-img" src="./assets//headshots/trout.png" alt=""></a>
+
+        <!-- Container for Mookie Section -->
+        <div class="player-container fade-in" id="section-mookie">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Mookie Betts</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/mookie.png" alt="">
+                </div>
+                <div class="bio-text">Markus Lynn "Mookie" Betts (born October 7, 1992) 
+                    is an American professional baseball right fielder for the Los Angeles Dodgers of 
+                    Major League Baseball (MLB). He previously played for the Boston Red Sox. In 2018, while with the Red Sox, he became the first player in MLB history to win the Most Valuable Player, Silver Slugger, Gold Glove, batting title, and World Series in the same season.</div>
+            </div>
+
+            <!-- Scatterplot-->
+            <div class="graph-container fade-in">
+                <!-- Graph -->
+                <div class="new-svg-container-class" id="svg-container-0"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player mookie home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player mookie triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player mookie double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player mookie single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-seager"><img class="scroller-img" src="./assets//headshots/seager.png" alt=""></a>
+
+        <!-- Container for Tatis Section -->
+        <div class="player-container fade-in" id="section-tatis">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Fernando Tatis</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/tatis.png" alt="">
+                </div>
+                <div class="bio-text">Fernando Gabriel Tatís Medina Jr., nicknamed "El Niño" or "Bebo", is a Dominican professional baseball shortstop and outfielder who plays for the San Diego Padres of Major 
+                    League Baseball. He is the son of former MLB player Fernando Tatís Sr. 
+                    Tatís Jr. stands 6 feet 3 inches tall and weighs 217 pounds.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-1"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player tatis home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player tatis triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player tatis double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player tatis single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-machado"><img class="scroller-img" src="./assets//headshots/machado.png" alt=""></a>
+
+        <!-- Container for Trout Section -->
+        <div class="player-container fade-in" id="section-trout">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Mike Trout</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/trout.png" alt="">
+                </div>
+                <div class="bio-text">Michael Nelson Trout is an American professional baseball 
+                    center fielder for the Los Angeles Angels of Major League Baseball. 
+                    Trout is a ten-time MLB All-Star, three-time American League Most Valuable Player, 
+                    and is an eight-time winner of the Silver Slugger Award.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-2"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player trout home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player trout triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player trout double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player trout single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-harper"><img class="scroller-img" src="./assets//headshots/harper.png" alt=""></a>
+
+        <!-- Container for Seager Section -->
+        <div class="player-container fade-in" id="section-seager">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Corey Seager</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/seager.png" alt="">
+                </div>
+                <div class="bio-text">Corey Drew Seager, nicknamed "Seags", is an American professional baseball shortstop for the 
+                    Texas Rangers of Major League Baseball. Seager was selected by the Los Angeles 
+                    Dodgers in the first round of the 2012 Major League Baseball draft, and he made his major league debut in 2015.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-3"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player seager home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player seager triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player seager double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player seager single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-acuna"><img class="scroller-img" src="./assets//headshots/acuna.png" alt=""></a>
+
+        <!-- Container for Machado Section -->
+        <div class="player-container fade-in" id="section-machado">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Manny Machado</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/machado.png" alt="">
+                </div>
+                <div class="bio-text">Manuel Arturo Machado is an American professional baseball 
+                    third baseman and shortstop for the San Diego Padres of Major League Baseball.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-4"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player machado home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player machado triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player machado double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player machado single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-altuve"><img class="scroller-img" src="./assets//headshots/altuve.png" alt=""></a>
+
+        <!-- Container for Harper Section -->
+        <div class="player-container fade-in" id="section-harper">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Bryce Harper</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/harper.png" alt="">
+                </div>
+                <div class="bio-text">Bryce Aron Max Harper is an American professional baseball right fielder and designated hitter for the Philadelphia 
+                    Phillies of Major League Baseball. He played in MLB for the Washington Nationals from 2012 through 2018. He has been touted as a "five-tool player".</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-5"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player harper home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player harper triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player harper double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player harper single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-freeman"><img class="scroller-img" src="./assets//headshots/freeman.png" alt=""></a>
+
+        <!-- Container for Acuna Section -->
+        <div class="player-container fade-in" id="section-acuna">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Ronald Acuna</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/acuna.png" alt="">
+                </div>
+                <div class="bio-text">Ronald José Acuña Blanco Jr. is a Venezuelan professional baseball outfielder for the Atlanta Braves of Major League Baseball. He made his MLB debut in 2018, and won the National League Rookie of the Year Award.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-6"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player acuna home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player acuna triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player acuna double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player acuna single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-jram"><img class="scroller-img" src="./assets//headshots/jram.png" alt=""></a>
+
+        <!-- Container for Altuve Section -->
+        <div class="player-container fade-in" id="section-altuve">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Jose Altuve</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/altuve.png" alt="">
+                </div>
+                <div class="bio-text">José Carlos Altuve is a Venezuelan professional baseball second baseman for the Houston Astros of Major League Baseball. The Astros signed Altuve as an amateur free agent in 2007, and he made his major league debut in 2011.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-7"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player altuve home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player altuve triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player altuve double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player altuve single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-jt"><img class="scroller-img" src="./assets//headshots/jt.png" alt=""></a>
+
+        <!-- Container for Freeman Section -->
+        <div class="player-container fade-in" id="section-freeman">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Freddie Freeman</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/freeman.png" alt="">
+                </div>
+                <div class="bio-text">Frederick Charles Freeman is an American professional baseball first baseman for the Los Angeles Dodgers of Major League Baseball. Previously, Freeman played for the Atlanta Braves for 12 seasons. He made his MLB debut in 2010 and is a six-time MLB All-Star.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-8"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player freeman home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player freeman triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player freeman double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player freeman single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-judge"><img class="scroller-img" src="./assets//headshots/judge.png" alt=""></a>
+
+        <!-- Container for Jram Section -->
+        <div class="player-container fade-in" id="section-jram">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Jose Ramirez</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/jram.png" alt="">
+                </div>
+                <div class="bio-text">José Enrique Ramírez is a Dominican professional baseball third baseman for the Cleveland Guardians of Major League Baseball. He signed with the Indians as an amateur free agent on November 26, 2009, and made his MLB debut on September 1, 2013.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-9"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jram home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jram triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jram double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jram single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-ohtani"><img class="scroller-img" src="./assets//headshots/ohtani.png" alt=""></a>
+
+        <!-- Container for JT Section -->
+        <div class="player-container fade-in" id="section-jt">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Justin Turner</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/turner.png" alt="">
+                </div>
+                <div class="bio-text">Justin Matthew Turner is an American professional baseball third baseman for the Los Angeles Dodgers of Major League Baseball. He has also played in MLB for the Baltimore Orioles and New York Mets. He played college baseball for the Cal State Fullerton Titans.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-10"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jt home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jt triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jt double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player jt single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-soto"><img class="scroller-img" src="./assets//headshots/soto.png" alt=""></a>
+
+        <!-- Container for Judge Section -->
+        <div class="player-container fade-in" id="section-judge">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Aaron Judge</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/judge.png" alt="">
+                </div>
+                <div class="bio-text">Aaron James Judge is an American professional baseball outfielder for the New York Yankees of Major League Baseball. Judge was unanimously selected as the American League Rookie of the Year in 2017 and finished second in voting for the AL Most Valuable Player Award.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-11"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player judge home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player judge triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player judge double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player judge single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
         </div>
-        <div class="media-element">
-            <a href="#section-votto"><img class="scroller-img" src="./assets//headshots/votto.png" alt=""></a>
+
+        <!-- Container for Ohtani Section -->
+        <div class="player-container fade-in" id="section-ohtani">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Shohei Ohtani</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/shohei.png" alt="">
+                </div>
+                <div class="bio-text">Shohei Ohtani, nicknamed "Shotime", is a Japanese professional baseball pitcher, designated hitter and outfielder for the Los Angeles Angels of Major League Baseball. He previously played for the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball's Pacific League.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-12"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Container for Soto Section -->
+        <div class="player-container fade-in" id="section-soto">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Juan Soto</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/soto.png" alt="">
+                </div>
+                <div class="bio-text">Juan José Soto Pacheco, nicknamed "Childish Bambino", is a Dominican professional baseball outfielder for the Washington Nationals of Major League Baseball. Soto signed with the Nationals as an international free agent in 2015. He made his MLB debut in 2018 and was the runner-up for the NL Rookie of the Year Award.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-13"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player soto home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player soto triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player soto double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player soto single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Container for Votto Section -->
+        <div class="player-container fade-in" id="section-votto">
+            <!-- Player Section -->
+            <div class="player-section">
+                <div class="player-name">Joey Votto</div>
+                <div class="player-headshot">
+                    <img class="headshot" src="./assets/slideshow/votto.png" alt="">
+                </div>
+                <div class="bio-text">Joseph Daniel Votto is a Canadian-American professional baseball first baseman for the Cincinnati Reds of Major League Baseball. He made his MLB debut with the Reds in 2007. He is the first Canadian MLB player since Larry Walker to hit 300 home runs and have 1,000 career runs batted in.</div>
+            </div>
+
+            <!-- Scatterplot 2 -->
+            <div class="graph-container fade-in">
+                <div class="new-svg-container-class" id="svg-container-14"></div>
+
+                <!-- Checkboxes -->
+                <div class="checkbox-container">
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player votto home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player votto triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player votto double" value="double" checked><label class="checkbox-label">Doubles</label></div>
+                    <div class="inputGroup"><input type="checkbox" class="checkbox player votto single" value="single" checked><label class="checkbox-label">Singles</label></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="sticky-info-button">
+            <button class="info"><img src="./assets/icons/info.png" alt=""></button>
         </div>
     </div>
-
-    <!-- Container for Mookie Section -->
-    <div class="player-container fade-in" id="section-mookie">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Mookie Betts</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/mookie.png" alt="">
-            </div>
-            <div class="bio-text">Markus Lynn "Mookie" Betts (born October 7, 1992) 
-                is an American professional baseball right fielder for the Los Angeles Dodgers of 
-                Major League Baseball (MLB). He previously played for the Boston Red Sox. In 2018, while with the Red Sox, he became the first player in MLB history to win the Most Valuable Player, Silver Slugger, Gold Glove, batting title, and World Series in the same season.</div>
-        </div>
-
-        <!-- Scatterplot-->
-        <div class="graph-container fade-in">
-            <!-- Graph -->
-            <div class="new-svg-container-class" id="svg-container-0"></div>
-
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player mookie single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Tatis Section -->
-    <div class="player-container fade-in" id="section-tatis">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Fernando Tatis</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/tatis.png" alt="">
-            </div>
-            <div class="bio-text">Fernando Gabriel Tatís Medina Jr., nicknamed "El Niño" or "Bebo", is a Dominican professional baseball shortstop and outfielder who plays for the San Diego Padres of Major 
-                League Baseball. He is the son of former MLB player Fernando Tatís Sr. 
-                Tatís Jr. stands 6 feet 3 inches tall and weighs 217 pounds.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-1"></div>
-
-              <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player tatis single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Trout Section -->
-    <div class="player-container fade-in" id="section-trout">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Mike Trout</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/trout.png" alt="">
-            </div>
-            <div class="bio-text">Michael Nelson Trout is an American professional baseball 
-                center fielder for the Los Angeles Angels of Major League Baseball. 
-                Trout is a ten-time MLB All-Star, three-time American League Most Valuable Player, 
-                and is an eight-time winner of the Silver Slugger Award.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-2"></div>
-
-            <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player trout home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player trout triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player trout double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player trout single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Seager Section -->
-    <div class="player-container fade-in" id="section-seager">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Corey Seager</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/seager.png" alt="">
-            </div>
-            <div class="bio-text">Corey Drew Seager, nicknamed "Seags", is an American professional baseball shortstop for the 
-                Texas Rangers of Major League Baseball. Seager was selected by the Los Angeles 
-                Dodgers in the first round of the 2012 Major League Baseball draft, and he made his major league debut in 2015.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-3"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player seager home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player seager triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player seager double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player seager single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Machado Section -->
-    <div class="player-container fade-in" id="section-machado">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Manny Machado</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/machado.png" alt="">
-            </div>
-            <div class="bio-text">Manuel Arturo Machado is an American professional baseball 
-                third baseman and shortstop for the San Diego Padres of Major League Baseball.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-4"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player machado home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player machado triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player machado double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player machado single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Harper Section -->
-    <div class="player-container fade-in" id="section-harper">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Bryce Harper</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/harper.png" alt="">
-            </div>
-            <div class="bio-text">Bryce Aron Max Harper is an American professional baseball right fielder and designated hitter for the Philadelphia 
-                Phillies of Major League Baseball. He played in MLB for the Washington Nationals from 2012 through 2018. He has been touted as a "five-tool player".</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-5"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player harper home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player harper triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player harper double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player harper single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Acuna Section -->
-    <div class="player-container fade-in" id="section-acuna">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Ronald Acuna</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/acuna.png" alt="">
-            </div>
-            <div class="bio-text">Ronald José Acuña Blanco Jr. is a Venezuelan professional baseball outfielder for the Atlanta Braves of Major League Baseball. He made his MLB debut in 2018, and won the National League Rookie of the Year Award.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-6"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player acuna single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Altuve Section -->
-    <div class="player-container fade-in" id="section-altuve">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Jose Altuve</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/altuve.png" alt="">
-            </div>
-            <div class="bio-text">José Carlos Altuve is a Venezuelan professional baseball second baseman for the Houston Astros of Major League Baseball. The Astros signed Altuve as an amateur free agent in 2007, and he made his major league debut in 2011.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-7"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player altuve single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Freeman Section -->
-    <div class="player-container fade-in" id="section-freeman">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Freddie Freeman</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/freeman.png" alt="">
-            </div>
-            <div class="bio-text">Frederick Charles Freeman is an American professional baseball first baseman for the Los Angeles Dodgers of Major League Baseball. Previously, Freeman played for the Atlanta Braves for 12 seasons. He made his MLB debut in 2010 and is a six-time MLB All-Star.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-8"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player freeman single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Jram Section -->
-    <div class="player-container fade-in" id="section-jram">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Jose Ramirez</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/jram.png" alt="">
-            </div>
-            <div class="bio-text">José Enrique Ramírez is a Dominican professional baseball third baseman for the Cleveland Guardians of Major League Baseball. He signed with the Indians as an amateur free agent on November 26, 2009, and made his MLB debut on September 1, 2013.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-9"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jram home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jram triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jram double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jram single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for JT Section -->
-    <div class="player-container fade-in" id="section-jt">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Justin Turner</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/turner.png" alt="">
-            </div>
-            <div class="bio-text">Justin Matthew Turner is an American professional baseball third baseman for the Los Angeles Dodgers of Major League Baseball. He has also played in MLB for the Baltimore Orioles and New York Mets. He played college baseball for the Cal State Fullerton Titans.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-10"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jt home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jt triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jt double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player jt single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Judge Section -->
-    <div class="player-container fade-in" id="section-judge">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Aaron Judge</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/judge.png" alt="">
-            </div>
-            <div class="bio-text">Aaron James Judge is an American professional baseball outfielder for the New York Yankees of Major League Baseball. Judge was unanimously selected as the American League Rookie of the Year in 2017 and finished second in voting for the AL Most Valuable Player Award.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-11"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player judge home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player judge triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player judge double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player judge single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Ohtani Section -->
-    <div class="player-container fade-in" id="section-ohtani">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Shohei Ohtani</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/shohei.png" alt="">
-            </div>
-            <div class="bio-text">Shohei Ohtani, nicknamed "Shotime", is a Japanese professional baseball pitcher, designated hitter and outfielder for the Los Angeles Angels of Major League Baseball. He previously played for the Hokkaido Nippon-Ham Fighters of Nippon Professional Baseball's Pacific League.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-12"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player ohtani single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Soto Section -->
-    <div class="player-container fade-in" id="section-soto">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Juan Soto</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/soto.png" alt="">
-            </div>
-            <div class="bio-text">Juan José Soto Pacheco, nicknamed "Childish Bambino", is a Dominican professional baseball outfielder for the Washington Nationals of Major League Baseball. Soto signed with the Nationals as an international free agent in 2015. He made his MLB debut in 2018 and was the runner-up for the NL Rookie of the Year Award.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-13"></div>
-
-              <!-- Checkboxes -->
-            <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player soto home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player soto triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player soto double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player soto single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Container for Votto Section -->
-    <div class="player-container fade-in" id="section-votto">
-        <!-- Player Section -->
-        <div class="player-section">
-            <div class="player-name">Joey Votto</div>
-            <div class="player-headshot">
-                <img class="headshot" src="./assets/slideshow/votto.png" alt="">
-            </div>
-            <div class="bio-text">Joseph Daniel Votto is a Canadian-American professional baseball first baseman for the Cincinnati Reds of Major League Baseball. He made his MLB debut with the Reds in 2007. He is the first Canadian MLB player since Larry Walker to hit 300 home runs and have 1,000 career runs batted in.</div>
-        </div>
-
-        <!-- Scatterplot 2 -->
-        <div class="graph-container fade-in">
-            <div class="new-svg-container-class" id="svg-container-14"></div>
-
-              <!-- Checkboxes -->
-              <div class="checkbox-container">
-                <div class="inputGroup"><input type="checkbox" class="checkbox player votto home_run" value="home_run" checked><label class="checkbox-label">Home Runs</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player votto triple" value="triple" checked><label class="checkbox-label">Triples</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player votto double" value="double" checked><label class="checkbox-label">Doubles</label></div>
-                <div class="inputGroup"><input type="checkbox" class="checkbox player votto single" value="single" checked><label class="checkbox-label">Singles</label></div>
-            </div>
-        </div>
-    </div>
-
-    <div id="sticky-info-button">
-        <button class="info"><img src="./assets/icons/info.png" alt=""></button>
-    </div>
-
 </body>
 </html>
