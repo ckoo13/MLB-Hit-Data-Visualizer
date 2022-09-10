@@ -115,6 +115,9 @@ const createChart = (hitterData, idx, createXAxisBool) => {
     .style('font-weight', 'bold')
     .style('font-family', 'sans-serif')
 
+    //Appending the select options dropdowns for additional data
+    
+
     //Zoom Logic:
     //Creating zoom function
     const zoom = d3.zoom()
