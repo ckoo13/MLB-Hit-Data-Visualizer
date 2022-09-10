@@ -9,11 +9,9 @@ const acuna = require('../data/acuna_data.json');
 const altuve = require('../data/altuve_data.json');
 const freeman = require('../data/freeman_data.json');
 const jram = require('../data/jram_data.json');
-const jt = require('../data/jt_data.json');
 const judge = require('../data/judge_data.json');
 const ohtani = require('../data/ohtani_data.json');
 const soto = require('../data/soto_data.json');
-const votto = require('../data/votto_data.json');
 
 
 //Consolidating JSON into one large array
@@ -28,14 +26,13 @@ const hitterData = [];
     hitterData.push(altuve);
     hitterData.push(freeman);
     hitterData.push(jram);
-    hitterData.push(jt);
     hitterData.push(judge);
     hitterData.push(ohtani);
     hitterData.push(soto);
-    hitterData.push(votto);
+
+// console.log(hitterData);
 
 const generateVizualizations = () => {
-    
     //create initial chart
     createChart(hitterData[0], 0);
 
@@ -313,7 +310,7 @@ window.addEventListener('DOMContentLoaded', e => {
     //Checkbox Function
     function updateCheckbox() {
         //Generating an array for the checkbox selectors
-        const players = ['mookie', 'tatis', 'trout', 'seager', 'machado', 'harper', 'acuna', 'altuve', 'freeman', 'jram', 'jt', 'judge', 'ohtani', 'soto', 'votto'];
+        const players = ['mookie', 'tatis', 'trout', 'seager', 'machado', 'harper', 'acuna', 'altuve', 'freeman', 'jram', 'judge', 'ohtani', 'soto'];
        
         for (let i = 0; i < players.length; i++) {
             let svg = d3.select(`#svg-container-${i}`);

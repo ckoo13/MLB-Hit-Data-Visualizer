@@ -18,6 +18,8 @@ export const startDemo = () => {
     //need the rest of the page to appear
     let page = document.getElementById('page-content');
 
+    let stickyButton = document.getElementById('sticky-info-button');
+
     let modalRoot = document.getElementById('modal-entry');
 
     const modal = new Modal();
@@ -25,6 +27,7 @@ export const startDemo = () => {
     enter.onclick = function() {
         disappear(landingPage, 1);
         appear(page, 2);
+        appear(stickyButton, 2);
 
         page.style.display = 'block'
 
