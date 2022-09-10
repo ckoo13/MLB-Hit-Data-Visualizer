@@ -35,10 +35,18 @@
     display: inline-block;
 }
 
+.github:hover {
+    transform: scale(1.1);
+}
+
 .linkedin {
     width: 45px;
     margin: 0 10px;
     display: inline-block;
+}
+
+.linkedin:hover {
+    transform: scale(1.1);
 }
 
 .header-title {
