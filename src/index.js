@@ -1,7 +1,11 @@
 import {startDemo} from './scripts/start.js';
+import {generateItems} from './scripts/mediascroller.js'
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', e => {
     startDemo();
+
+    // generate media scroller
+    generateItems();
 
     //Load in one graph
     const graph = require('./scripts/graph.js');
@@ -11,4 +15,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     //Load in nav smooth scroll
     const scroll = require('./scripts/navigation.js');
+
 });
