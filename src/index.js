@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', e => {
     generateItems();
 
     // Load in player sections
-    const playerSections = require('./scripts/players');
+    const playerSections = require('./scripts/players.js');
 
     //Load in one graph
     const graph = require('./scripts/graph.js');
