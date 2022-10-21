@@ -65,6 +65,6 @@ export const generatePlayerSection = () => {
     }
 }
 
-document.addEventListener('DOMContentLoaded', e => {
+window.addEventListener('DOMContentLoaded', e => {
     generatePlayerSection();
 })
