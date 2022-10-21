@@ -7,6 +7,9 @@ document.addEventListener('DOMContentLoaded', e => {
     // generate media scroller
     generateItems();
 
+    // Load in player sections
+    const playerSections = require('./scripts/players.js');
+
     //Load in one graph
     const graph = require('./scripts/graph.js');
 

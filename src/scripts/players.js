@@ -14,7 +14,7 @@ const sotoDescription = "Juan José Soto Pacheco, nicknamed 'Childish Bambino', 
 
 export const generatePlayerSection = () => {
     const players = ['mookie', 'tatis', 'trout', 'seager', 'machado', 'harper', 'acuna', 'altuve', 'freeman', 'jram', 'judge', 'ohtani', 'soto'];
-    const names = ['Mookie Betts', 'Fernando Tatis', 'Corey Seager', 'Manny Machado', 'Bryce Harper', 'Ronald Acuna', 'Jose Altuve', 'Freddie Freeman', 'Jose Ramirez', 'Aaron Judge', 'Shohei Ohtani', 'Juan Soto'];
+    const names = ['Mookie Betts', 'Fernando Tatis', 'Mike Trout', 'Corey Seager', 'Manny Machado', 'Bryce Harper', 'Ronald Acuna', 'Jose Altuve', 'Freddie Freeman', 'Jose Ramirez', 'Aaron Judge', 'Shohei Ohtani', 'Juan Soto'];
 
     const descriptions = [];
 
@@ -48,17 +48,23 @@ export const generatePlayerSection = () => {
         playerHeadshot.classList.add('player-headshot');
         headshot.classList.add('headshot');
         headshot.src = `./assets/slideshow/${players[i]}.png`
-        playerHeadshot.appendChild('headshot')
+        playerHeadshot.appendChild(headshot)
 
         let bioText = document.createElement('div');
+        bioText.classList.add('bio-text');
         bioText.innerHTML = descriptions[i];
 
         sectionDiv.appendChild(playerName);
         sectionDiv.appendChild(playerHeadshot);
         sectionDiv.appendChild(bioText);
-        
-        container.appendChild(sectionDiv);
 
+        let graphContainer = document.getElementById(`graph-container-${i}`)
+        console.log(graphContainer)
+        container.appendChild(sectionDiv);
+        container.insertBefore(sectionDiv, graphContainer);
     }
-    
 }
+
+window.addEventListener('DOMContentLoaded', e => {
+    generatePlayerSection();
+})
