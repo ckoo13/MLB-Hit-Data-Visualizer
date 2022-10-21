@@ -1,5 +1,5 @@
 import {startDemo} from './scripts/start.js';
-import {generateItems} from './scripts/mediascroller'
+import {generateItems} from './scripts/mediascroller';
 
 document.addEventListener('DOMContentLoaded', e => {
     startDemo();
