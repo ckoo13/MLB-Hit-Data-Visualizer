@@ -1,6 +1,6 @@
 # <a name="title"></a> Velo Launch
 
-Live Link: https://ckoo13.github.io/MLB-LaunchAngle-Data-Visualizer/
+Check out the [live site](https://ckoo13.github.io/MLB-LaunchAngle-Data-Visualizer/)!
 
 ## Demo
 ![Demo](/assets/readme.gif?raw=true)
@@ -16,7 +16,7 @@ Live Link: https://ckoo13.github.io/MLB-LaunchAngle-Data-Visualizer/
 
 Hitting a baseball is often agreed upon to be among the most difficult feats to perform in sports. Consequently, over professional baseball’s decades of history, there has been no shortage of coaches and players advocating for an endless variety of approaches to hitting. In recent years, hitters have begun to place a significant emphasis on optimizing launch angle: defined by MLB Statcast as “the vertical angle at which the ball leaves a player’s bat after being struck.” In other words, the launch angle is the angle formed by the trajectory of the struck baseball and the plane parallel to the ground and passing through the point of contact; a fly ball would have a relatively high launch angle, while a grounder would likely have a negative launch angle. While the true “ideal” launch angle differs slightly from hitter to hitter based on their respective skill sets, Jeff Zimmerman of RotoGraphs identifies the general range of optimal launch angles to be between 15 and 20 degrees.
 
-The MLB Hit Graph Data Visualizer will be a scroller with charts plotting launch angle vs. exit velocity of hits for a number of different prominent MLB hitters. The data will show the different launch angle and exit velocity combinations that lead to successful hits and the graphs will have interactivity features like plotting different color points for different types of hits. 
+The MLB Hit Graph Data Visualizer will be a simple web app with charts plotting launch angle vs. exit velocity of hits for a number of different prominent MLB hitters. The data will show the different launch angle and exit velocity combinations that lead to successful hits and the graphs will have interactivity features like plotting different color points for different types of hits. 
 
 ## <a name="functionality"></a> Functionality & MVP
 
@@ -24,10 +24,9 @@ Users of the MLB Hit Data Visualizer scroller are able to:
 
 - [x] Scroll through chart visualizations for each player
 - [x] Hover over each point on the chart to see the type of hit
-- [x] Click on each player to display a bio and a link to their MLB page
 - [x] Click on the carousel in the header to jump to data about a specific player
 
-Bonus Features:
+Bonus Features (in progess):
 - [x] Click on player picture to show bio
 - [x] More variable options to visualize data in D3 graphs
 
@@ -39,6 +38,21 @@ Technologies used in production:
 - [x] Vanilla JS
 - [x] D3.js
 
+## <a name="features>"></a> Features
+
+### Filtering
+
+Users can filter between the type of hit: single, double, triple, home run. This will allow the user to grasp a better understanding of the type of hit and its correlation with both launch angle and exit velocity.
+
+![FilterGif](/assets/gifs/buttons.gif)
+
+
+### Zoom
+
+Users can pan and zoom over each graph to better visualize the relationships between a cluster of hit types and both launch angle/exit velocity. Zooming will also adjust the values of the x and y axis which will better allow users to visualize relationships between the outcome and launch angle/exit velocity.
+
+![ZoomGif](/assets/gifs/zoom.gif)
+
 ## <a name ="implementation"></a> Implementation Timeline
 
 - [x] Friday and Weekend: Basic functionalities, research D3, text rendering
@@ -46,9 +60,3 @@ Technologies used in production:
 - [x] Tuesday: Build scroll feature, start to layout graphs on page
 - [x] Wednesday: Build out carousel and refine initial project features
 - [x] Thursday: Finish project
-
-## <a name="wireframes"></a> Wireframes
-
-<p>
-    <img src="https://github.com/ckoo13/MLB-Hit-Data-Visualizer/blob/main/MLB%20Wireframe-1.png">
-</p>
