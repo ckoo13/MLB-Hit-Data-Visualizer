@@ -53,6 +53,57 @@ Users can pan and zoom over each graph to better visualize the relationships bet
 
 ![ZoomGif](/assets/gifs/zoom.gif)
 
+## <a name="codesnippets>"></a> Code Snippets
+
+
+### Zoom
+```
+ function zoomed() {
+        // recover the new scale
+        let newX = d3.event.transform.rescaleX(xScale);
+        let newY = d3.event.transform.rescaleY(yScale);
+
+        //update axes
+        gX.call(d3.axisBottom(newX));
+        gY.call(d3.axisLeft(newY)); 
+
+        //update circle position on scatter where the circles are drawn
+        scatter
+            .selectAll('circle')
+            .attr('cx', function(item) {return newX(item['launch_speed'])})
+            .attr('cy', function(item) {return newY(item['launch_angle'])})
+    }
+```
+
+
+
+### Interaction Observer
+
+```
+window.addEventListener('load', (e) => {
+    //fade in Intersection Observer
+    const faders = document.querySelectorAll('.fade-in');
+
+    const appearOptions = {
+        threshold: 0.20
+    };
+
+    const appearOnScroll = new IntersectionObserver(function(entries, appearOnScroll) {
+        entries.forEach(entry => {
+            entry.target.classList.toggle('appear', entry.isIntersecting);
+        })
+    }, appearOptions);
+
+    faders.forEach(fader => {
+        appearOnScroll.observe(fader);
+    });
+
+});
+
+```
+
+
+
 ## <a name ="implementation"></a> Implementation Timeline
 
 - [x] Friday and Weekend: Basic functionalities, research D3, text rendering
